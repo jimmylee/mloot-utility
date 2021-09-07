@@ -1,15 +1,3 @@
-{
-  "name": "mloot-utility",
-  "version": "0.0.1",
-  "scripts": {
-    "start": "ts-node ."
-  },
-  "dependencies": {
-    "ts-node": "^10.2.1",
-    "ts-node-dev": "^1.1.8"
-  },
-  "license": "MIT",
-  "devDependencies": {
-    "typescript": "^4.3.2"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:53ed20a7bbf8ef47958a2a84c1495a36a00203aa8823d5725221da7504318e0f
+size 251

@@ -1,5 +1,7 @@
 # mloot-utility
 
+<img width="1090" alt="stuff" src="https://user-images.githubusercontent.com/310223/132393231-847e8bce-c592-4ef6-9bfc-4ddb9f5c29c9.png">
+
 Find more loot and discover interesting patterns.
 
 ```
@@ -16,14 +18,14 @@ To perform a custom search
 - the string (case sensitive)
 
 ```
-npm run start -- 2 13 3 Divine
+npm run start 2 13 3 Divine
 ```
 
 - at least 2 items that has an occurance of 13 or less.
 - at least 3 items that have the string `Divine`.
 
 ```
-npm run start -- 1 100000 3 Kraken
+npm run start 1 100000 3 Kraken
 ```
 
 - at least 1 item that has an occurance of 100000 or less.
