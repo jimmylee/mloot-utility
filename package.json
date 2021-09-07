@@ -1,0 +1,15 @@
+{
+  "name": "mloot-utility",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "ts-node ."
+  },
+  "dependencies": {
+    "ts-node": "^10.2.1",
+    "ts-node-dev": "^1.1.8"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.3.2"
+  }
+}
