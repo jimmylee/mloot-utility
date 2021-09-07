@@ -1,1 +1,2 @@
-loot.json filter=lfs diff=lfs merge=lfs -text
+data/loot.json filter=lfs diff=lfs merge=lfs -text
+data/probability.json filter=lfs diff=lfs merge=lfs -text

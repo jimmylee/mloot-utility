@@ -2,16 +2,9 @@
 
 <img width="1090" alt="stuff" src="https://user-images.githubusercontent.com/310223/132393231-847e8bce-c592-4ef6-9bfc-4ddb9f5c29c9.png">
 
-Find more loot and discover interesting patterns. You need git-lfs sorry.
+Find more loot and discover interesting patterns.
 
 ```sh
-# option 1
-git lfs install 
-
-# option 2
-brew install git-lfs
-
-# normal steps
 npm install
 npm install -g ts-node
 npm run start
