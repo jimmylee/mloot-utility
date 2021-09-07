@@ -5,7 +5,7 @@
       "@root/*": ["./*"]
     },
     "target": "es5",
-    "lib": ["esnext"],
+    "lib": ["dom", "esnext"],
     "allowJs": true,
     "skipLibCheck": true,
     "strict": false,

@@ -1,3 +1,2738 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:f22e1310dd75e70859d97afa0e155572ae7050bc547dbdc568967af6ed3a8fbe
-size 50063
+{
+ "ids": [
+  "47912",
+  "61163",
+  "73511",
+  "78557",
+  "97545",
+  "98412",
+  "117934",
+  "197198",
+  "259210",
+  "267822",
+  "313414",
+  "331721",
+  "333944",
+  "346467",
+  "367100",
+  "368085",
+  "371365",
+  "378820",
+  "441913",
+  "449647",
+  "471391",
+  "478062",
+  "501573",
+  "512400",
+  "536861",
+  "561430",
+  "564178",
+  "583907",
+  "586155",
+  "587370",
+  "596000",
+  "633478",
+  "659743",
+  "661372",
+  "663221",
+  "669280",
+  "671203",
+  "713940",
+  "716631",
+  "725631",
+  "730595",
+  "733512",
+  "767750",
+  "774587",
+  "778957",
+  "783498",
+  "785887",
+  "794680",
+  "818669",
+  "825461",
+  "835596",
+  "867379",
+  "873647",
+  "881199",
+  "924393",
+  "945983",
+  "957156",
+  "995279",
+  "1018011",
+  "1072028",
+  "1084710",
+  "1129915",
+  "1131219",
+  "1137186",
+  "1139126",
+  "1161082",
+  "1225610",
+  "1231972",
+  "1291108",
+  "1293976",
+  "1313783",
+  "1315266"
+ ],
+ "search": [
+  {
+   "chest": {
+    "name": "Divine Robe of Enlightenment",
+    "amount": 1532
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "Leather Gloves",
+    "amount": 62470
+   },
+   "head": {
+    "name": "\"Brimstone Moon\" Divine Hood of the Twins +1",
+    "amount": 10
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "\"Dread Shout\" Silver Ring of Skill +1",
+    "amount": 13
+   },
+   "waist": {
+    "name": "Hard Leather Belt",
+    "amount": 61900
+   },
+   "weapon": {
+    "name": "\"Plague Whisper\" Ghost Wand of the Fox",
+    "amount": 66
+   },
+   "id": "47912",
+   "rank": 47913,
+   "score": 9.139489172294764
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "\"Golem Root\" Divine Slippers of Giants",
+    "amount": 10
+   },
+   "hand": {
+    "name": "Chain Gloves",
+    "amount": 61687
+   },
+   "head": {
+    "name": "\"Blight Peak\" Divine Hood of Enlightenment +1",
+    "amount": 13
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "Silver Ring",
+    "amount": 186690
+   },
+   "waist": {
+    "name": "War Belt",
+    "amount": 61681
+   },
+   "weapon": {
+    "name": "\"Vengeance Roar\" Club of Reflection",
+    "amount": 61
+   },
+   "id": "61163",
+   "rank": 61164,
+   "score": 7.597141795664748
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "\"Havoc Sun\" Divine Slippers of Power",
+    "amount": 11
+   },
+   "hand": {
+    "name": "\"Plague Roar\" Divine Gloves of the Fox",
+    "amount": 11
+   },
+   "head": {
+    "name": "Hood",
+    "amount": 61808
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "Silver Ring of the Twins",
+    "amount": 3121
+   },
+   "waist": {
+    "name": "\"Light's Tear\" War Belt of Protection",
+    "amount": 7
+   },
+   "weapon": {
+    "name": "Scimitar",
+    "amount": 51694
+   },
+   "id": "73511",
+   "rank": 73512,
+   "score": 6.77297136803163
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "\"Ghoul Root\" Divine Slippers of Brilliance",
+    "amount": 13
+   },
+   "hand": {
+    "name": "\"Havoc Glow\" Divine Gloves of Protection",
+    "amount": 9
+   },
+   "head": {
+    "name": "Hood",
+    "amount": 61808
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "\"Blight Grasp\" Silver Ring of Vitriol +1",
+    "amount": 9
+   },
+   "waist": {
+    "name": "Linen Sash",
+    "amount": 62344
+   },
+   "weapon": {
+    "name": "Falchion",
+    "amount": 52154
+   },
+   "id": "78557",
+   "rank": 78558,
+   "score": 6.548675957336177
+  },
+  {
+   "chest": {
+    "name": "Divine Robe of Protection",
+    "amount": 1544
+   },
+   "foot": {
+    "name": "\"Vengeance Whisper\" Divine Slippers of Perfection",
+    "amount": 7
+   },
+   "hand": {
+    "name": "Gloves of the Fox",
+    "amount": 794
+   },
+   "head": {
+    "name": "Divine Hood",
+    "amount": 61778
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "\"Golem Whisper\" Bronze Ring of Perfection",
+    "amount": 13
+   },
+   "waist": {
+    "name": "Plated Belt",
+    "amount": 62572
+   },
+   "weapon": {
+    "name": "Mace",
+    "amount": 51949
+   },
+   "id": "97545",
+   "rank": 97546,
+   "score": 5.779532377663158
+  },
+  {
+   "chest": {
+    "name": "Divine Robe of Vitriol",
+    "amount": 1526
+   },
+   "foot": {
+    "name": "Dragonskin Boots",
+    "amount": 62555
+   },
+   "hand": {
+    "name": "\"Ghoul Tear\" Divine Gloves of the Twins",
+    "amount": 7
+   },
+   "head": {
+    "name": "\"Brimstone Shout\" Divine Hood of Protection +1",
+    "amount": 13
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "Bronze Ring",
+    "amount": 187470
+   },
+   "waist": {
+    "name": "Sash",
+    "amount": 62168
+   },
+   "weapon": {
+    "name": "Scimitar",
+    "amount": 51694
+   },
+   "id": "98412",
+   "rank": 98413,
+   "score": 5.741926079330419
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "\"Blight Bite\" Shoes of Titans +1",
+    "amount": 12
+   },
+   "hand": {
+    "name": "\"Apocalypse Glow\" Divine Gloves of the Twins",
+    "amount": 14
+   },
+   "head": {
+    "name": "\"Honour Bender\" Divine Hood of Perfection +1",
+    "amount": 12
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "Bronze Ring",
+    "amount": 187470
+   },
+   "waist": {
+    "name": "Linen Sash",
+    "amount": 62344
+   },
+   "weapon": {
+    "name": "Ghost Wand of Power",
+    "amount": 1361
+   },
+   "id": "117934",
+   "rank": 117935,
+   "score": 4.83623160555332
+  },
+  {
+   "chest": {
+    "name": "Divine Robe of Protection",
+    "amount": 1544
+   },
+   "foot": {
+    "name": "Ornate Greaves",
+    "amount": 61952
+   },
+   "hand": {
+    "name": "\"Hypnotic Roar\" Divine Gloves of Enlightenment",
+    "amount": 10
+   },
+   "head": {
+    "name": "\"Gloom Grasp\" Divine Hood of Detection +1",
+    "amount": 6
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Silver Ring",
+    "amount": 186690
+   },
+   "waist": {
+    "name": "Dragonskin Belt",
+    "amount": 62229
+   },
+   "weapon": {
+    "name": "Warhammer of Anger",
+    "amount": 2630
+   },
+   "id": "197198",
+   "rank": 197199,
+   "score": 1.8263583651459951
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "\"Apocalypse Tear\" Ornate Greaves of Rage",
+    "amount": 12
+   },
+   "hand": {
+    "name": "\"Pain Roar\" Divine Gloves of Titans",
+    "amount": 11
+   },
+   "head": {
+    "name": "Divine Hood",
+    "amount": 61778
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "Silk Sash",
+    "amount": 62413
+   },
+   "weapon": {
+    "name": "Grave Wand",
+    "amount": 51741
+   },
+   "id": "259210",
+   "rank": 259211,
+   "score": 0.22697760257080069
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "\"Vortex Roar\" Divine Slippers of Fury",
+    "amount": 10
+   },
+   "hand": {
+    "name": "Demon's Hands of Enlightenment",
+    "amount": 805
+   },
+   "head": {
+    "name": "Divine Hood",
+    "amount": 61778
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "\"Sorrow Shout\" Gold Ring of Giants +1",
+    "amount": 10
+   },
+   "waist": {
+    "name": "Studded Leather Belt",
+    "amount": 62339
+   },
+   "weapon": {
+    "name": "Wand",
+    "amount": 51899
+   },
+   "id": "267822",
+   "rank": 267823,
+   "score": 0.13959208118218666
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "\"Pain Tear\" Divine Gloves of Brilliance",
+    "amount": 13
+   },
+   "head": {
+    "name": "Full Helm",
+    "amount": 62416
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Silver Ring",
+    "amount": 186690
+   },
+   "waist": {
+    "name": "\"Mind Moon\" Silk Sash of Vitriol +1",
+    "amount": 13
+   },
+   "weapon": {
+    "name": "Bone Wand",
+    "amount": 52233
+   },
+   "id": "313414",
+   "rank": 313415,
+   "score": 1.6750260642751331
+  },
+  {
+   "chest": {
+    "name": "Divine Robe of the Fox",
+    "amount": 1575
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "\"Apocalypse Roar\" Divine Gloves of Fury",
+    "amount": 10
+   },
+   "head": {
+    "name": "Full Helm",
+    "amount": 62416
+   },
+   "neck": {
+    "name": "\"Grim Peak\" Pendant of Reflection +1",
+    "amount": 56
+   },
+   "ring": {
+    "name": "Bronze Ring",
+    "amount": 187470
+   },
+   "waist": {
+    "name": "\"Eagle Bender\" Sash of Perfection +1",
+    "amount": 10
+   },
+   "weapon": {
+    "name": "Book",
+    "amount": 52250
+   },
+   "id": "331721",
+   "rank": 331722,
+   "score": 1.909417362516741
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "\"Morbid Root\" Linen Gloves of Skill",
+    "amount": 12
+   },
+   "head": {
+    "name": "\"Demon Bender\" Divine Hood of Titans +1",
+    "amount": 10
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "\"Rage Moon\" Platinum Ring of Protection +1",
+    "amount": 14
+   },
+   "waist": {
+    "name": "Studded Leather Belt",
+    "amount": 62339
+   },
+   "weapon": {
+    "name": "Grimoire",
+    "amount": 51507
+   },
+   "id": "333944",
+   "rank": 333945,
+   "score": 1.9346254215148873
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "\"Light's Root\" Divine Slippers of Giants",
+    "amount": 8
+   },
+   "hand": {
+    "name": "Linen Gloves",
+    "amount": 61997
+   },
+   "head": {
+    "name": "\"Rage Bender\" Divine Hood of Fury +1",
+    "amount": 11
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "Demonhide Belt",
+    "amount": 62112
+   },
+   "weapon": {
+    "name": "Grimoire",
+    "amount": 51507
+   },
+   "id": "346467",
+   "rank": 346468,
+   "score": 2.0832092737560397
+  },
+  {
+   "chest": {
+    "name": "Dragonskin Armor",
+    "amount": 62142
+   },
+   "foot": {
+    "name": "\"Maelstrom Whisper\" Divine Slippers of Enlightenment",
+    "amount": 13
+   },
+   "hand": {
+    "name": "Divine Gloves of Detection",
+    "amount": 769
+   },
+   "head": {
+    "name": "Divine Hood",
+    "amount": 61778
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "Gold Ring of Perfection",
+    "amount": 3187
+   },
+   "waist": {
+    "name": "\"Armageddon Bite\" Sash of Enlightenment +1",
+    "amount": 11
+   },
+   "weapon": {
+    "name": "Club",
+    "amount": 51852
+   },
+   "id": "367100",
+   "rank": 367101,
+   "score": 2.3072740831650784
+  },
+  {
+   "chest": {
+    "name": "Divine Robe of the Twins",
+    "amount": 1577
+   },
+   "foot": {
+    "name": "Silk Slippers",
+    "amount": 62277
+   },
+   "hand": {
+    "name": "\"Vengeance Sun\" Divine Gloves of Perfection",
+    "amount": 12
+   },
+   "head": {
+    "name": "Divine Hood",
+    "amount": 61778
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "\"Soul Tear\" Gold Ring of Brilliance",
+    "amount": 13
+   },
+   "waist": {
+    "name": "Dragonskin Belt",
+    "amount": 62229
+   },
+   "weapon": {
+    "name": "Mace of Vitriol",
+    "amount": 2589
+   },
+   "id": "368085",
+   "rank": 368086,
+   "score": 2.3176132951987762
+  },
+  {
+   "chest": {
+    "name": "Divine Robe of Reflection",
+    "amount": 1563
+   },
+   "foot": {
+    "name": "Chain Boots",
+    "amount": 61921
+   },
+   "hand": {
+    "name": "\"Light's Root\" Divine Gloves of Detection",
+    "amount": 9
+   },
+   "head": {
+    "name": "\"Gloom Bite\" Divine Hood of Reflection +1",
+    "amount": 7
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "Bronze Ring",
+    "amount": 187470
+   },
+   "waist": {
+    "name": "War Belt",
+    "amount": 61681
+   },
+   "weapon": {
+    "name": "Club",
+    "amount": 51852
+   },
+   "id": "371365",
+   "rank": 371366,
+   "score": 2.3490390254622433
+  },
+  {
+   "chest": {
+    "name": "Dragonskin Armor of Vitriol",
+    "amount": 1493
+   },
+   "foot": {
+    "name": "\"Ghoul Roar\" Divine Slippers of Reflection",
+    "amount": 5
+   },
+   "hand": {
+    "name": "Divine Gloves",
+    "amount": 62363
+   },
+   "head": {
+    "name": "\"Blight Bite\" Divine Hood of Fury +1",
+    "amount": 11
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "Silver Ring",
+    "amount": 186690
+   },
+   "waist": {
+    "name": "Dragonskin Belt of Detection",
+    "amount": 1565
+   },
+   "weapon": {
+    "name": "Bone Wand",
+    "amount": 52233
+   },
+   "id": "378820",
+   "rank": 378821,
+   "score": 2.4188545069230005
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "\"Vengeance Whisper\" Heavy Gloves of Perfection",
+    "amount": 12
+   },
+   "head": {
+    "name": "\"Tempest Peak\" Divine Hood of Fury +1",
+    "amount": 6
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Platinum Ring of the Twins",
+    "amount": 3067
+   },
+   "waist": {
+    "name": "Heavy Belt",
+    "amount": 62230
+   },
+   "weapon": {
+    "name": "Grimoire",
+    "amount": 51507
+   },
+   "id": "441913",
+   "rank": 441914,
+   "score": 3.294767957612398
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "Ornate Greaves",
+    "amount": 61952
+   },
+   "hand": {
+    "name": "\"Carrion Glow\" Divine Gloves of Giants",
+    "amount": 10
+   },
+   "head": {
+    "name": "Divine Hood",
+    "amount": 61778
+   },
+   "neck": {
+    "name": "Necklace of Anger",
+    "amount": 7796
+   },
+   "ring": {
+    "name": "\"Gloom Bite\" Gold Ring of Anger +1",
+    "amount": 10
+   },
+   "waist": {
+    "name": "Mesh Belt",
+    "amount": 62257
+   },
+   "weapon": {
+    "name": "Wand of Rage",
+    "amount": 1352
+   },
+   "id": "449647",
+   "rank": 449648,
+   "score": 3.453149544340016
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "Holy Greaves",
+    "amount": 62085
+   },
+   "hand": {
+    "name": "Divine Gloves",
+    "amount": 62363
+   },
+   "head": {
+    "name": "\"Honour Grasp\" Divine Hood of Detection +1",
+    "amount": 12
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "\"Hypnotic Whisper\" Studded Leather Belt of the Fox",
+    "amount": 12
+   },
+   "weapon": {
+    "name": "Long Sword",
+    "amount": 51823
+   },
+   "id": "471391",
+   "rank": 471392,
+   "score": 3.8900012208544235
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "Ornate Greaves",
+    "amount": 61952
+   },
+   "hand": {
+    "name": "\"Bramble Root\" Divine Gloves of Giants",
+    "amount": 5
+   },
+   "head": {
+    "name": "\"Demon Grasp\" Divine Hood of the Twins +1",
+    "amount": 7
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "Gold Ring",
+    "amount": 186792
+   },
+   "waist": {
+    "name": "Ornate Belt",
+    "amount": 61965
+   },
+   "weapon": {
+    "name": "Mace of the Twins",
+    "amount": 2673
+   },
+   "id": "478062",
+   "rank": 478063,
+   "score": 4.140355980972098
+  },
+  {
+   "chest": {
+    "name": "Leather Armor of Rage",
+    "amount": 1619
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "Divine Gloves",
+    "amount": 62363
+   },
+   "head": {
+    "name": "\"Honour Shout\" Divine Hood of Vitriol +1",
+    "amount": 13
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "\"Morbid Tear\" Titanium Ring of Rage",
+    "amount": 10
+   },
+   "waist": {
+    "name": "\"Corpse Sun\" Brightsilk Sash of Anger",
+    "amount": 6
+   },
+   "weapon": {
+    "name": "Falchion of Titans",
+    "amount": 2627
+   },
+   "id": "501573",
+   "rank": 501574,
+   "score": 5.353747857938083
+  },
+  {
+   "chest": {
+    "name": "Holy Chestplate",
+    "amount": 62395
+   },
+   "foot": {
+    "name": "\"Corpse Root\" Divine Slippers of Vitriol",
+    "amount": 8
+   },
+   "hand": {
+    "name": "\"Fate Glow\" Divine Gloves of Rage",
+    "amount": 7
+   },
+   "head": {
+    "name": "Divine Hood",
+    "amount": 61778
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "Titanium Ring of Enlightenment",
+    "amount": 3184
+   },
+   "waist": {
+    "name": "Heavy Belt",
+    "amount": 62230
+   },
+   "weapon": {
+    "name": "\"Sorrow Bender\" Long Sword of Enlightenment +1",
+    "amount": 63
+   },
+   "id": "512400",
+   "rank": 512401,
+   "score": 5.701736805766451
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "Divine Slippers of Power",
+    "amount": 826
+   },
+   "hand": {
+    "name": "\"Ghoul Glow\" Divine Gloves of Protection",
+    "amount": 11
+   },
+   "head": {
+    "name": "Full Helm",
+    "amount": 62416
+   },
+   "neck": {
+    "name": "Necklace of Anger",
+    "amount": 7796
+   },
+   "ring": {
+    "name": "\"Havoc Glow\" Silver Ring of Skill",
+    "amount": 11
+   },
+   "waist": {
+    "name": "War Belt",
+    "amount": 61681
+   },
+   "weapon": {
+    "name": "\"Dragon Tear\" Wand of Giants",
+    "amount": 59
+   },
+   "id": "536861",
+   "rank": 536862,
+   "score": 5.967832298172127
+  },
+  {
+   "chest": {
+    "name": "Divine Robe of Titans",
+    "amount": 1489
+   },
+   "foot": {
+    "name": "\"Golem Whisper\" Divine Slippers of Anger",
+    "amount": 13
+   },
+   "hand": {
+    "name": "\"Sorrow Shout\" Gauntlets of the Twins +1",
+    "amount": 13
+   },
+   "head": {
+    "name": "\"Grim Bite\" Divine Hood of Anger +1",
+    "amount": 19
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "Bronze Ring",
+    "amount": 187470
+   },
+   "waist": {
+    "name": "Heavy Belt",
+    "amount": 62230
+   },
+   "weapon": {
+    "name": "Chronicle",
+    "amount": 52313
+   },
+   "id": "561430",
+   "rank": 561431,
+   "score": 6.147076096806953
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "\"Havoc Sun\" Studded Leather Boots of Reflection",
+    "amount": 6
+   },
+   "hand": {
+    "name": "\"Bramble Roar\" Divine Gloves of Power",
+    "amount": 12
+   },
+   "head": {
+    "name": "\"Rage Bite\" Divine Hood of Enlightenment +1",
+    "amount": 8
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "Dragonskin Belt of Power",
+    "amount": 1590
+   },
+   "weapon": {
+    "name": "Quarterstaff of Protection",
+    "amount": 1317
+   },
+   "id": "564178",
+   "rank": 564179,
+   "score": 6.169790475536866
+  },
+  {
+   "chest": {
+    "name": "Divine Robe of Brilliance",
+    "amount": 1569
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "Linen Gloves",
+    "amount": 61997
+   },
+   "head": {
+    "name": "Divine Hood",
+    "amount": 61778
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "\"Bramble Root\" Platinum Ring of Skill",
+    "amount": 12
+   },
+   "waist": {
+    "name": "\"Pain Whisper\" Studded Leather Belt of Anger",
+    "amount": 12
+   },
+   "weapon": {
+    "name": "Ghost Wand",
+    "amount": 51900
+   },
+   "id": "583907",
+   "rank": 583908,
+   "score": 6.374367911648378
+  },
+  {
+   "chest": {
+    "name": "Divine Robe of Perfection",
+    "amount": 1604
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "\"Victory Moon\" Silk Gloves of Vitriol +1",
+    "amount": 10
+   },
+   "head": {
+    "name": "\"Foe Grasp\" Divine Hood of the Twins +1",
+    "amount": 9
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "Sash",
+    "amount": 62168
+   },
+   "weapon": {
+    "name": "Tome",
+    "amount": 51986
+   },
+   "id": "586155",
+   "rank": 586156,
+   "score": 6.39498724314086
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "\"Corpse Glow\" Heavy Boots of Brilliance",
+    "amount": 12
+   },
+   "hand": {
+    "name": "Divine Gloves",
+    "amount": 62363
+   },
+   "head": {
+    "name": "\"Corruption Peak\" Divine Hood of Perfection +1",
+    "amount": 12
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "Demonhide Belt",
+    "amount": 62112
+   },
+   "weapon": {
+    "name": "\"Eagle Moon\" Book of Giants +1",
+    "amount": 50
+   },
+   "id": "587370",
+   "rank": 587371,
+   "score": 6.404656096509407
+  },
+  {
+   "chest": {
+    "name": "Leather Armor",
+    "amount": 62110
+   },
+   "foot": {
+    "name": "\"Behemoth Whisper\" Divine Slippers of Reflection",
+    "amount": 9
+   },
+   "hand": {
+    "name": "Divine Gloves",
+    "amount": 62363
+   },
+   "head": {
+    "name": "Divine Hood",
+    "amount": 61778
+   },
+   "neck": {
+    "name": "\"Storm Sun\" Amulet of Reflection",
+    "amount": 49
+   },
+   "ring": {
+    "name": "\"Foe Shout\" Silver Ring of Vitriol +1",
+    "amount": 12
+   },
+   "waist": {
+    "name": "Hard Leather Belt",
+    "amount": 61900
+   },
+   "weapon": {
+    "name": "Chronicle",
+    "amount": 52313
+   },
+   "id": "596000",
+   "rank": 596001,
+   "score": 6.460491408118781
+  },
+  {
+   "chest": {
+    "name": "Demon Husk",
+    "amount": 62174
+   },
+   "foot": {
+    "name": "\"Vengeance Tear\" Divine Slippers of Giants",
+    "amount": 8
+   },
+   "hand": {
+    "name": "Divine Gloves of Rage",
+    "amount": 791
+   },
+   "head": {
+    "name": "Divine Hood",
+    "amount": 61778
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "\"Soul Glow\" Platinum Ring of Skill",
+    "amount": 9
+   },
+   "waist": {
+    "name": "Mesh Belt of Reflection",
+    "amount": 1572
+   },
+   "weapon": {
+    "name": "Short Sword",
+    "amount": 52117
+   },
+   "id": "633478",
+   "rank": 633479,
+   "score": 6.7096896722384205
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "\"Dragon Whisper\" Divine Slippers of the Fox",
+    "amount": 12
+   },
+   "hand": {
+    "name": "\"Kraken Peak\" Silk Gloves of Perfection +1",
+    "amount": 13
+   },
+   "head": {
+    "name": "\"Corruption Grasp\" Divine Hood of Giants +1",
+    "amount": 7
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "Platinum Ring",
+    "amount": 186857
+   },
+   "waist": {
+    "name": "\"Gloom Moon\" Silk Sash of Giants +1",
+    "amount": 13
+   },
+   "weapon": {
+    "name": "Grimoire",
+    "amount": 51507
+   },
+   "id": "659743",
+   "rank": 659744,
+   "score": 6.851306587785473
+  },
+  {
+   "chest": {
+    "name": "Studded Leather Armor",
+    "amount": 62546
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "Divine Gloves of Enlightenment",
+    "amount": 789
+   },
+   "head": {
+    "name": "\"Pandemonium Moon\" Divine Hood of Skill +1",
+    "amount": 12
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "\"Kraken Grasp\" Titanium Ring of Skill +1",
+    "amount": 11
+   },
+   "waist": {
+    "name": "Hard Leather Belt of Giants",
+    "amount": 798
+   },
+   "weapon": {
+    "name": "Scimitar of Rage",
+    "amount": 1348
+   },
+   "id": "661372",
+   "rank": 661373,
+   "score": 6.86541234875823
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "\"Fate Sun\" Divine Slippers of Power",
+    "amount": 18
+   },
+   "hand": {
+    "name": "\"Death Root\" Divine Gloves of Giants",
+    "amount": 13
+   },
+   "head": {
+    "name": "Hood of Rage",
+    "amount": 819
+   },
+   "neck": {
+    "name": "Amulet of Giants",
+    "amount": 3975
+   },
+   "ring": {
+    "name": "Bronze Ring of Rage",
+    "amount": 3156
+   },
+   "waist": {
+    "name": "\"Light's Sun\" Linen Sash of Anger",
+    "amount": 7
+   },
+   "weapon": {
+    "name": "Grave Wand of the Twins",
+    "amount": 1254
+   },
+   "id": "663221",
+   "rank": 663222,
+   "score": 6.887160380648577
+  },
+  {
+   "chest": {
+    "name": "Ring Mail",
+    "amount": 61913
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "Divine Gloves",
+    "amount": 62363
+   },
+   "head": {
+    "name": "\"Honour Bender\" Divine Hood of Perfection +1",
+    "amount": 12
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Platinum Ring",
+    "amount": 186857
+   },
+   "waist": {
+    "name": "\"Morbid Glow\" Brightsilk Sash of Brilliance",
+    "amount": 11
+   },
+   "weapon": {
+    "name": "Mace",
+    "amount": 51949
+   },
+   "id": "669280",
+   "rank": 669281,
+   "score": 6.988150173159666
+  },
+  {
+   "chest": {
+    "name": "Ring Mail",
+    "amount": 61913
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "\"Maelstrom Roar\" Divine Gloves of Anger",
+    "amount": 11
+   },
+   "head": {
+    "name": "\"Brimstone Bite\" Divine Hood of Perfection +1",
+    "amount": 6
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "Platinum Ring",
+    "amount": 186857
+   },
+   "waist": {
+    "name": "Mesh Belt of Reflection",
+    "amount": 1572
+   },
+   "weapon": {
+    "name": "Ghost Wand",
+    "amount": 51900
+   },
+   "id": "671203",
+   "rank": 671204,
+   "score": 7.0289802311879725
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "Linen Shoes of Skill",
+    "amount": 798
+   },
+   "hand": {
+    "name": "Divine Gloves of Enlightenment",
+    "amount": 789
+   },
+   "head": {
+    "name": "\"Sorrow Shout\" Divine Hood of Detection +1",
+    "amount": 11
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "\"Dusk Tear\" Linen Sash of Protection",
+    "amount": 13
+   },
+   "weapon": {
+    "name": "Katana",
+    "amount": 51698
+   },
+   "id": "713940",
+   "rank": 713941,
+   "score": 7.513796783083805
+  },
+  {
+   "chest": {
+    "name": "Hard Leather Armor",
+    "amount": 62329
+   },
+   "foot": {
+    "name": "Divine Slippers of Protection",
+    "amount": 784
+   },
+   "hand": {
+    "name": "\"Dusk Tear\" Divine Gloves of Skill",
+    "amount": 8
+   },
+   "head": {
+    "name": "Divine Hood",
+    "amount": 61778
+   },
+   "neck": {
+    "name": "Pendant of Detection",
+    "amount": 3974
+   },
+   "ring": {
+    "name": "Silver Ring of Reflection",
+    "amount": 3058
+   },
+   "waist": {
+    "name": "\"Golem Root\" Linen Sash of Protection",
+    "amount": 5
+   },
+   "weapon": {
+    "name": "Mace of Protection",
+    "amount": 2554
+   },
+   "id": "716631",
+   "rank": 716632,
+   "score": 7.564103946920429
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "\"Storm Roar\" Divine Slippers of Fury",
+    "amount": 9
+   },
+   "hand": {
+    "name": "Divine Gloves",
+    "amount": 62363
+   },
+   "head": {
+    "name": "Leather Cap",
+    "amount": 62416
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "\"Cataclysm Bite\" Gold Ring of Anger +1",
+    "amount": 12
+   },
+   "waist": {
+    "name": "Heavy Belt",
+    "amount": 62230
+   },
+   "weapon": {
+    "name": "Book of the Twins",
+    "amount": 1237
+   },
+   "id": "725631",
+   "rank": 725632,
+   "score": 7.818074436320974
+  },
+  {
+   "chest": {
+    "name": "\"Gloom Shout\" Demon Husk of Giants +1",
+    "amount": 13
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "\"Morbid Sun\" Divine Gloves of the Fox",
+    "amount": 10
+   },
+   "head": {
+    "name": "Divine Hood",
+    "amount": 61778
+   },
+   "neck": {
+    "name": "\"Ghoul Tear\" Amulet of Giants",
+    "amount": 56
+   },
+   "ring": {
+    "name": "Bronze Ring of the Twins",
+    "amount": 3153
+   },
+   "waist": {
+    "name": "Silk Sash",
+    "amount": 62413
+   },
+   "weapon": {
+    "name": "Warhammer",
+    "amount": 51760
+   },
+   "id": "730595",
+   "rank": 730596,
+   "score": 7.864903920860475
+  },
+  {
+   "chest": {
+    "name": "Silk Robe",
+    "amount": 62610
+   },
+   "foot": {
+    "name": "\"Ghoul Whisper\" Divine Slippers of Reflection",
+    "amount": 6
+   },
+   "hand": {
+    "name": "\"Dusk Sun\" Divine Gloves of Titans",
+    "amount": 13
+   },
+   "head": {
+    "name": "Divine Hood",
+    "amount": 61778
+   },
+   "neck": {
+    "name": "Pendant of Power",
+    "amount": 3845
+   },
+   "ring": {
+    "name": "\"Gloom Peak\" Silver Ring of Anger +1",
+    "amount": 9
+   },
+   "waist": {
+    "name": "Leather Belt",
+    "amount": 62008
+   },
+   "weapon": {
+    "name": "Falchion",
+    "amount": 52154
+   },
+   "id": "733512",
+   "rank": 733513,
+   "score": 7.88555002453667
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "\"Vortex Whisper\" Divine Slippers of Anger",
+    "amount": 9
+   },
+   "hand": {
+    "name": "Linen Gloves",
+    "amount": 61997
+   },
+   "head": {
+    "name": "Divine Hood",
+    "amount": 61778
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "\"Shimmering Moon\" Gold Ring of Protection +1",
+    "amount": 11
+   },
+   "waist": {
+    "name": "Dragonskin Belt",
+    "amount": 62229
+   },
+   "weapon": {
+    "name": "\"Soul Sun\" Tome of Anger",
+    "amount": 54
+   },
+   "id": "767750",
+   "rank": 767751,
+   "score": 9.435002085408971
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "\"Golem Roar\" Divine Slippers of Enlightenment",
+    "amount": 6
+   },
+   "hand": {
+    "name": "Divine Gloves",
+    "amount": 62363
+   },
+   "head": {
+    "name": "\"Soul Tear\" Linen Hood of Brilliance",
+    "amount": 3
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "Platinum Ring",
+    "amount": 186857
+   },
+   "waist": {
+    "name": "Linen Sash",
+    "amount": 62344
+   },
+   "weapon": {
+    "name": "\"Plague Tear\" Wand of Protection",
+    "amount": 54
+   },
+   "id": "774587",
+   "rank": 774588,
+   "score": 9.85560122435141
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "\"Demon Bite\" Silk Slippers of Power +1",
+    "amount": 9
+   },
+   "hand": {
+    "name": "Divine Gloves of Skill",
+    "amount": 788
+   },
+   "head": {
+    "name": "Divine Hood",
+    "amount": 61778
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "\"Maelstrom Whisper\" Gold Ring of Titans",
+    "amount": 12
+   },
+   "waist": {
+    "name": "Heavy Belt",
+    "amount": 62230
+   },
+   "weapon": {
+    "name": "Bone Wand",
+    "amount": 52233
+   },
+   "id": "778957",
+   "rank": 778958,
+   "score": 10.044779092561834
+  },
+  {
+   "chest": {
+    "name": "\"Behemoth Root\" Shirt of Protection",
+    "amount": 12
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "Divine Gloves",
+    "amount": 62363
+   },
+   "head": {
+    "name": "\"Demon Moon\" Divine Hood of Giants +1",
+    "amount": 13
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "Gold Ring",
+    "amount": 186792
+   },
+   "waist": {
+    "name": "\"Rage Bite\" Plated Belt of Perfection +1",
+    "amount": 19
+   },
+   "weapon": {
+    "name": "Scimitar",
+    "amount": 51694
+   },
+   "id": "783498",
+   "rank": 783499,
+   "score": 10.103975333648224
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "\"Grim Peak\" Greaves of Reflection +1",
+    "amount": 10
+   },
+   "hand": {
+    "name": "Divine Gloves",
+    "amount": 62363
+   },
+   "head": {
+    "name": "Divine Hood",
+    "amount": 61778
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "\"Foe Shout\" Hard Leather Belt of Protection +1",
+    "amount": 11
+   },
+   "weapon": {
+    "name": "Grimoire",
+    "amount": 51507
+   },
+   "id": "785887",
+   "rank": 785888,
+   "score": 10.116347690676463
+  },
+  {
+   "chest": {
+    "name": "Divine Robe of Rage",
+    "amount": 1557
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "\"Death Root\" Divine Gloves of Skill",
+    "amount": 12
+   },
+   "head": {
+    "name": "\"Foe Peak\" Hood of Fury +1",
+    "amount": 12
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Bronze Ring of Fury",
+    "amount": 3111
+   },
+   "waist": {
+    "name": "Wool Sash",
+    "amount": 62437
+   },
+   "weapon": {
+    "name": "Warhammer",
+    "amount": 51760
+   },
+   "id": "794680",
+   "rank": 794681,
+   "score": 10.171880651056012
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "\"Morbid Tear\" Divine Slippers of Brilliance",
+    "amount": 12
+   },
+   "hand": {
+    "name": "Divine Gloves",
+    "amount": 62363
+   },
+   "head": {
+    "name": "\"Morbid Root\" Crown of Detection",
+    "amount": 10
+   },
+   "neck": {
+    "name": "Pendant of Power",
+    "amount": 3845
+   },
+   "ring": {
+    "name": "Gold Ring",
+    "amount": 186792
+   },
+   "waist": {
+    "name": "Demonhide Belt",
+    "amount": 62112
+   },
+   "weapon": {
+    "name": "Katana",
+    "amount": 51698
+   },
+   "id": "818669",
+   "rank": 818670,
+   "score": 10.291161146165864
+  },
+  {
+   "chest": {
+    "name": "\"Plague Sun\" Shirt of Power",
+    "amount": 13
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "Divine Gloves",
+    "amount": 62363
+   },
+   "head": {
+    "name": "\"Mind Shout\" Divine Hood of Protection +1",
+    "amount": 13
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Gold Ring",
+    "amount": 186792
+   },
+   "waist": {
+    "name": "Leather Belt of Brilliance",
+    "amount": 1506
+   },
+   "weapon": {
+    "name": "Long Sword of Perfection",
+    "amount": 1325
+   },
+   "id": "825461",
+   "rank": 825462,
+   "score": 10.322457222751618
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "\"Vengeance Root\" Divine Slippers of Brilliance",
+    "amount": 6
+   },
+   "hand": {
+    "name": "Divine Gloves of the Twins",
+    "amount": 817
+   },
+   "head": {
+    "name": "Silk Hood",
+    "amount": 62382
+   },
+   "neck": {
+    "name": "Necklace of Rage",
+    "amount": 7885
+   },
+   "ring": {
+    "name": "Silver Ring",
+    "amount": 186690
+   },
+   "waist": {
+    "name": "\"Armageddon Bender\" Hard Leather Belt of Reflection +1",
+    "amount": 10
+   },
+   "weapon": {
+    "name": "Ghost Wand of Reflection",
+    "amount": 1359
+   },
+   "id": "835596",
+   "rank": 835597,
+   "score": 10.400646168603064
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "\"Light's Sun\" Divine Gloves of the Fox",
+    "amount": 9
+   },
+   "head": {
+    "name": "Leather Cap",
+    "amount": 62416
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "\"Soul Roar\" Gold Ring of the Fox",
+    "amount": 13
+   },
+   "waist": {
+    "name": "Hard Leather Belt",
+    "amount": 61900
+   },
+   "weapon": {
+    "name": "Bone Wand",
+    "amount": 52233
+   },
+   "id": "867379",
+   "rank": 867380,
+   "score": 10.543956442439459
+  },
+  {
+   "chest": {
+    "name": "Divine Robe of Titans",
+    "amount": 1489
+   },
+   "foot": {
+    "name": "\"Plague Tear\" Divine Slippers of Skill",
+    "amount": 10
+   },
+   "hand": {
+    "name": "\"Behemoth Root\" Divine Gloves of Protection",
+    "amount": 8
+   },
+   "head": {
+    "name": "War Cap of Titans",
+    "amount": 761
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "Platinum Ring",
+    "amount": 186857
+   },
+   "waist": {
+    "name": "Brightsilk Sash",
+    "amount": 62838
+   },
+   "weapon": {
+    "name": "Falchion of the Fox",
+    "amount": 2557
+   },
+   "id": "873647",
+   "rank": 873648,
+   "score": 10.616198185836161
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "Studded Leather Gloves",
+    "amount": 62286
+   },
+   "head": {
+    "name": "\"Honour Shout\" Divine Hood of Brilliance +1",
+    "amount": 6
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "Silver Ring",
+    "amount": 186690
+   },
+   "waist": {
+    "name": "\"Armageddon Grasp\" Plated Belt of Brilliance +1",
+    "amount": 8
+   },
+   "weapon": {
+    "name": "\"Soul Sun\" Tome of Enlightenment",
+    "amount": 59
+   },
+   "id": "881199",
+   "rank": 881200,
+   "score": 10.765735619631025
+  },
+  {
+   "chest": {
+    "name": "\"Vengeance Sun\" Holy Chestplate of Power",
+    "amount": 9
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "\"Ghoul Root\" Divine Gloves of Giants",
+    "amount": 11
+   },
+   "head": {
+    "name": "Divine Hood",
+    "amount": 61778
+   },
+   "neck": {
+    "name": "Necklace of Giants",
+    "amount": 7823
+   },
+   "ring": {
+    "name": "Silver Ring",
+    "amount": 186690
+   },
+   "waist": {
+    "name": "Demonhide Belt",
+    "amount": 62112
+   },
+   "weapon": {
+    "name": "Chronicle",
+    "amount": 52313
+   },
+   "id": "924393",
+   "rank": 924394,
+   "score": 10.89993114765544
+  },
+  {
+   "chest": {
+    "name": "\"Cataclysm Moon\" Demon Husk of Detection +1",
+    "amount": 11
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "Divine Gloves of Power",
+    "amount": 776
+   },
+   "head": {
+    "name": "Divine Hood",
+    "amount": 61778
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Platinum Ring of Fury",
+    "amount": 3133
+   },
+   "waist": {
+    "name": "\"Dragon Roar\" War Belt of Perfection",
+    "amount": 12
+   },
+   "weapon": {
+    "name": "Katana",
+    "amount": 51698
+   },
+   "id": "945983",
+   "rank": 945984,
+   "score": 11.134118054730507
+  },
+  {
+   "chest": {
+    "name": "Chain Mail of Detection",
+    "amount": 799
+   },
+   "foot": {
+    "name": "\"Golem Whisper\" Divine Slippers of Power",
+    "amount": 11
+   },
+   "hand": {
+    "name": "Divine Gloves",
+    "amount": 62363
+   },
+   "head": {
+    "name": "Divine Hood",
+    "amount": 61778
+   },
+   "neck": {
+    "name": "Necklace of the Fox",
+    "amount": 7703
+   },
+   "ring": {
+    "name": "Bronze Ring",
+    "amount": 187470
+   },
+   "waist": {
+    "name": "\"Ghoul Roar\" Studded Leather Belt of Power",
+    "amount": 13
+   },
+   "weapon": {
+    "name": "Mace",
+    "amount": 51949
+   },
+   "id": "957156",
+   "rank": 957157,
+   "score": 11.178249282595807
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "\"Golem Root\" Divine Slippers of Skill",
+    "amount": 14
+   },
+   "hand": {
+    "name": "Divine Gloves",
+    "amount": 62363
+   },
+   "head": {
+    "name": "Cap",
+    "amount": 62144
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "\"Behemoth Root\" Titanium Ring of the Twins",
+    "amount": 8
+   },
+   "waist": {
+    "name": "\"Shimmering Shout\" Silk Sash of Detection +1",
+    "amount": 12
+   },
+   "weapon": {
+    "name": "Short Sword",
+    "amount": 52117
+   },
+   "id": "995279",
+   "rank": 995280,
+   "score": 11.593731056850727
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "\"Blight Grasp\" Greaves of Vitriol +1",
+    "amount": 13
+   },
+   "hand": {
+    "name": "Divine Gloves",
+    "amount": 62363
+   },
+   "head": {
+    "name": "\"Gloom Moon\" Divine Hood of Brilliance +1",
+    "amount": 10
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "Silk Sash",
+    "amount": 62413
+   },
+   "weapon": {
+    "name": "Warhammer of Anger",
+    "amount": 2630
+   },
+   "id": "1018011",
+   "rank": 1018012,
+   "score": 12.204598620942576
+  },
+  {
+   "chest": {
+    "name": "Divine Robe of Brilliance",
+    "amount": 1569
+   },
+   "foot": {
+    "name": "\"Morbid Root\" Divine Slippers of Skill",
+    "amount": 8
+   },
+   "hand": {
+    "name": "Divine Gloves",
+    "amount": 62363
+   },
+   "head": {
+    "name": "\"Skull Shout\" Divine Hood of Skill +1",
+    "amount": 13
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "Dragonskin Belt",
+    "amount": 62229
+   },
+   "weapon": {
+    "name": "Warhammer of Titans",
+    "amount": 2654
+   },
+   "id": "1072028",
+   "rank": 1072029,
+   "score": 14.570065087177372
+  },
+  {
+   "chest": {
+    "name": "Plate Mail of Protection",
+    "amount": 1507
+   },
+   "foot": {
+    "name": "\"Vortex Whisper\" Divine Slippers of Reflection",
+    "amount": 10
+   },
+   "hand": {
+    "name": "Divine Gloves",
+    "amount": 62363
+   },
+   "head": {
+    "name": "Divine Hood",
+    "amount": 61778
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "\"Brimstone Moon\" Plated Belt of Detection +1",
+    "amount": 10
+   },
+   "weapon": {
+    "name": "\"Dragon Tear\" Wand of Detection",
+    "amount": 62
+   },
+   "id": "1084710",
+   "rank": 1084711,
+   "score": 14.586016694698664
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "\"Light's Sun\" Linen Gloves of Perfection",
+    "amount": 13
+   },
+   "head": {
+    "name": "\"Cataclysm Moon\" Divine Hood of Brilliance +1",
+    "amount": 11
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "Gold Ring",
+    "amount": 186792
+   },
+   "waist": {
+    "name": "Hard Leather Belt",
+    "amount": 61900
+   },
+   "weapon": {
+    "name": "Grimoire",
+    "amount": 51507
+   },
+   "id": "1129915",
+   "rank": 1129916,
+   "score": 15.212843459789545
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "Shoes of Giants",
+    "amount": 726
+   },
+   "hand": {
+    "name": "\"Bramble Sun\" Divine Gloves of Fury",
+    "amount": 11
+   },
+   "head": {
+    "name": "\"Cataclysm Peak\" Divine Hood of Reflection +1",
+    "amount": 12
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Platinum Ring",
+    "amount": 186857
+   },
+   "waist": {
+    "name": "Ornate Belt of Detection",
+    "amount": 1551
+   },
+   "weapon": {
+    "name": "Chronicle",
+    "amount": 52313
+   },
+   "id": "1131219",
+   "rank": 1131220,
+   "score": 15.216205614270295
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "\"Vengeance Root\" Divine Slippers of Rage",
+    "amount": 9
+   },
+   "hand": {
+    "name": "\"Light's Root\" Divine Gloves of the Twins",
+    "amount": 8
+   },
+   "head": {
+    "name": "Ornate Helm",
+    "amount": 62153
+   },
+   "neck": {
+    "name": "\"Skull Grasp\" Pendant of Skill +1",
+    "amount": 48
+   },
+   "ring": {
+    "name": "Platinum Ring",
+    "amount": 186857
+   },
+   "waist": {
+    "name": "Dragonskin Belt",
+    "amount": 62229
+   },
+   "weapon": {
+    "name": "Scimitar",
+    "amount": 51694
+   },
+   "id": "1137186",
+   "rank": 1137187,
+   "score": 15.227532016538802
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "\"Skull Bite\" Silk Slippers of Reflection +1",
+    "amount": 14
+   },
+   "hand": {
+    "name": "Divine Gloves",
+    "amount": 62363
+   },
+   "head": {
+    "name": "\"Pandemonium Bender\" Divine Hood of Titans +1",
+    "amount": 11
+   },
+   "neck": {
+    "name": "Necklace of Enlightenment",
+    "amount": 7757
+   },
+   "ring": {
+    "name": "\"Havoc Glow\" Bronze Ring of Brilliance",
+    "amount": 10
+   },
+   "waist": {
+    "name": "Mesh Belt",
+    "amount": 62257
+   },
+   "weapon": {
+    "name": "Book",
+    "amount": 52250
+   },
+   "id": "1139126",
+   "rank": 1139127,
+   "score": 15.23010273981302
+  },
+  {
+   "chest": {
+    "name": "\"Victory Moon\" Linen Robe of the Twins +1",
+    "amount": 6
+   },
+   "foot": {
+    "name": "\"Storm Roar\" Divine Slippers of Perfection",
+    "amount": 8
+   },
+   "hand": {
+    "name": "Divine Gloves of Enlightenment",
+    "amount": 789
+   },
+   "head": {
+    "name": "Divine Hood",
+    "amount": 61778
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "Gold Ring",
+    "amount": 186792
+   },
+   "waist": {
+    "name": "Leather Belt",
+    "amount": 62008
+   },
+   "weapon": {
+    "name": "Tome",
+    "amount": 51986
+   },
+   "id": "1161082",
+   "rank": 1161083,
+   "score": 15.25145159148145
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "Studded Leather Boots",
+    "amount": 62503
+   },
+   "hand": {
+    "name": "Divine Gloves of Vitriol",
+    "amount": 777
+   },
+   "head": {
+    "name": "\"Oblivion Bender\" Divine Hood of Reflection +1",
+    "amount": 8
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "\"Armageddon Peak\" Sash of Fury +1",
+    "amount": 12
+   },
+   "weapon": {
+    "name": "\"Dread Grasp\" Katana of Rage +1",
+    "amount": 59
+   },
+   "id": "1225610",
+   "rank": 1225611,
+   "score": 18.926150699342443
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "\"Ghoul Root\" Divine Slippers of Skill",
+    "amount": 10
+   },
+   "hand": {
+    "name": "Hard Leather Gloves",
+    "amount": 62204
+   },
+   "head": {
+    "name": "Divine Hood of Enlightenment",
+    "amount": 803
+   },
+   "neck": {
+    "name": "\"Maelstrom Root\" Amulet of Skill",
+    "amount": 60
+   },
+   "ring": {
+    "name": "\"Death Roar\" Titanium Ring of Power",
+    "amount": 11
+   },
+   "waist": {
+    "name": "Demonhide Belt",
+    "amount": 62112
+   },
+   "weapon": {
+    "name": "Long Sword",
+    "amount": 51823
+   },
+   "id": "1231972",
+   "rank": 1231973,
+   "score": 18.930400788464418
+  },
+  {
+   "chest": {
+    "name": "Hard Leather Armor",
+    "amount": 62329
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "\"Pain Whisper\" Divine Gloves of Anger",
+    "amount": 11
+   },
+   "head": {
+    "name": "\"Kraken Grasp\" Divine Hood of Detection +1",
+    "amount": 12
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "Platinum Ring",
+    "amount": 186857
+   },
+   "waist": {
+    "name": "Sash",
+    "amount": 62168
+   },
+   "weapon": {
+    "name": "Mace",
+    "amount": 51949
+   },
+   "id": "1291108",
+   "rank": 1291109,
+   "score": 18.951345253694225
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "\"Behemoth Sun\" Divine Gloves of Anger",
+    "amount": 16
+   },
+   "head": {
+    "name": "Crown",
+    "amount": 62044
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "\"Grim Bite\" Titanium Ring of Fury +1",
+    "amount": 13
+   },
+   "waist": {
+    "name": "\"Carrion Whisper\" Linen Sash of Power",
+    "amount": 13
+   },
+   "weapon": {
+    "name": "Book",
+    "amount": 52250
+   },
+   "id": "1293976",
+   "rank": 1293977,
+   "score": 18.95268902110567
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "Divine Gloves",
+    "amount": 62363
+   },
+   "head": {
+    "name": "\"Storm Root\" Linen Hood of Skill",
+    "amount": 13
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "\"Light's Tear\" Silver Ring of Detection",
+    "amount": 12
+   },
+   "waist": {
+    "name": "Demonhide Belt of Giants",
+    "amount": 769
+   },
+   "weapon": {
+    "name": "Bone Wand",
+    "amount": 52233
+   },
+   "id": "1313783"
+  },
+  {
+   "chest": {
+    "name": "Divine Robe of Brilliance",
+    "amount": 1569
+   },
+   "foot": {
+    "name": "\"Vortex Glow\" Divine Slippers of Brilliance",
+    "amount": 12
+   },
+   "hand": {
+    "name": "Divine Gloves",
+    "amount": 62363
+   },
+   "head": {
+    "name": "War Cap",
+    "amount": 62588
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "Gold Ring",
+    "amount": 186792
+   },
+   "waist": {
+    "name": "\"Golem Whisper\" Heavy Belt of Reflection",
+    "amount": 11
+   },
+   "weapon": {
+    "name": "Chronicle",
+    "amount": 52313
+   },
+   "id": "1315266"
+  }
+ ]
+}
