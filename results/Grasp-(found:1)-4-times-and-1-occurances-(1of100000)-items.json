@@ -1,0 +1,44 @@
+{
+ "ids": [
+  "407331"
+ ],
+ "search": [
+  {
+   "chest": {
+    "name": "\"Demon Grasp\" Ring Mail of Skill +1",
+    "amount": 12
+   },
+   "foot": {
+    "name": "\"Demon Grasp\" Hard Leather Boots of Brilliance +1",
+    "amount": 8
+   },
+   "hand": {
+    "name": "\"Oblivion Grasp\" Silk Gloves of Protection +1",
+    "amount": 14
+   },
+   "head": {
+    "name": "Linen Hood of Protection",
+    "amount": 731
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "Silver Ring",
+    "amount": 186690
+   },
+   "waist": {
+    "name": "Linen Sash",
+    "amount": 62344
+   },
+   "weapon": {
+    "name": "\"Cataclysm Grasp\" Katana of Skill +1",
+    "amount": 55
+   },
+   "id": "407331",
+   "rank": 407332,
+   "score": 2.7938824264488256
+  }
+ ]
+}

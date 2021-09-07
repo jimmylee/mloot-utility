@@ -1,0 +1,44 @@
+{
+ "ids": [
+  "403719"
+ ],
+ "search": [
+  {
+   "chest": {
+    "name": "Robe of Vitriol",
+    "amount": 1594
+   },
+   "foot": {
+    "name": "\"Victory Moon\" Silk Slippers of Protection +1",
+    "amount": 11
+   },
+   "hand": {
+    "name": "Ornate Gauntlets",
+    "amount": 62529
+   },
+   "head": {
+    "name": "Full Helm of Anger",
+    "amount": 1512
+   },
+   "neck": {
+    "name": "\"Victory Bender\" Pendant of Reflection +1",
+    "amount": 47
+   },
+   "ring": {
+    "name": "Silver Ring",
+    "amount": 186690
+   },
+   "waist": {
+    "name": "Wool Sash",
+    "amount": 62437
+   },
+   "weapon": {
+    "name": "\"Victory Grasp\" Katana of Giants +1",
+    "amount": 58
+   },
+   "id": "403719",
+   "rank": 403720,
+   "score": 2.749648880430741
+  }
+ ]
+}

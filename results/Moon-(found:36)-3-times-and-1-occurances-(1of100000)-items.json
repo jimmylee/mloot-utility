@@ -1,0 +1,1374 @@
+{
+ "ids": [
+  "37729",
+  "56385",
+  "176920",
+  "185107",
+  "186563",
+  "324632",
+  "345879",
+  "350613",
+  "355297",
+  "361566",
+  "385555",
+  "425456",
+  "449081",
+  "463076",
+  "575716",
+  "593287",
+  "607619",
+  "728024",
+  "756771",
+  "776868",
+  "784902",
+  "788561",
+  "791227",
+  "806415",
+  "808866",
+  "852924",
+  "875889",
+  "884118",
+  "894714",
+  "937285",
+  "1029325",
+  "1033529",
+  "1086830",
+  "1102108",
+  "1205101",
+  "1228255"
+ ],
+ "search": [
+  {
+   "chest": {
+    "name": "Ornate Chestplate",
+    "amount": 62259
+   },
+   "foot": {
+    "name": "\"Sorrow Bite\" Demonhide Boots of Enlightenment +1",
+    "amount": 5
+   },
+   "hand": {
+    "name": "\"Grim Moon\" Demon's Hands of Giants +1",
+    "amount": 16
+   },
+   "head": {
+    "name": "\"Armageddon Moon\" Demon Crown of the Twins +1",
+    "amount": 13
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "\"Gloom Moon\" Silver Ring of Vitriol +1",
+    "amount": 15
+   },
+   "waist": {
+    "name": "Demonhide Belt",
+    "amount": 62112
+   },
+   "weapon": {
+    "name": "Book",
+    "amount": 52250
+   },
+   "id": "37729",
+   "rank": 37730,
+   "score": 10.139431857295536
+  },
+  {
+   "chest": {
+    "name": "\"Pandemonium Moon\" Ring Mail of Skill +1",
+    "amount": 7
+   },
+   "foot": {
+    "name": "Ornate Greaves",
+    "amount": 61952
+   },
+   "hand": {
+    "name": "Wool Gloves",
+    "amount": 62242
+   },
+   "head": {
+    "name": "Helm",
+    "amount": 61904
+   },
+   "neck": {
+    "name": "\"Demon Moon\" Pendant of Vitriol +1",
+    "amount": 53
+   },
+   "ring": {
+    "name": "Silver Ring of Brilliance",
+    "amount": 3187
+   },
+   "waist": {
+    "name": "\"Foe Moon\" Hard Leather Belt of Vitriol +1",
+    "amount": 12
+   },
+   "weapon": {
+    "name": "Falchion",
+    "amount": 52154
+   },
+   "id": "56385",
+   "rank": 56386,
+   "score": 8.107673576662188
+  },
+  {
+   "chest": {
+    "name": "Leather Armor",
+    "amount": 62110
+   },
+   "foot": {
+    "name": "\"Victory Moon\" Shoes of Rage +1",
+    "amount": 9
+   },
+   "hand": {
+    "name": "Holy Gauntlets",
+    "amount": 62555
+   },
+   "head": {
+    "name": "\"Foe Moon\" Divine Hood of Brilliance +1",
+    "amount": 13
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "\"Cataclysm Moon\" Platinum Ring of Vitriol +1",
+    "amount": 10
+   },
+   "waist": {
+    "name": "War Belt",
+    "amount": 61681
+   },
+   "weapon": {
+    "name": "Maul",
+    "amount": 52022
+   },
+   "id": "176920",
+   "rank": 176921,
+   "score": 2.214231823587265
+  },
+  {
+   "chest": {
+    "name": "\"Kraken Moon\" Linen Robe of Skill +1",
+    "amount": 6
+   },
+   "foot": {
+    "name": "Linen Shoes",
+    "amount": 62473
+   },
+   "hand": {
+    "name": "Wool Gloves",
+    "amount": 62242
+   },
+   "head": {
+    "name": "Linen Hood",
+    "amount": 61943
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "\"Brimstone Moon\" Platinum Ring of Skill +1",
+    "amount": 10
+   },
+   "waist": {
+    "name": "Wool Sash of Power",
+    "amount": 1591
+   },
+   "weapon": {
+    "name": "\"Corruption Moon\" Book of Rage +1",
+    "amount": 51
+   },
+   "id": "185107",
+   "rank": 185108,
+   "score": 2.0481953036440914
+  },
+  {
+   "chest": {
+    "name": "Linen Robe",
+    "amount": 62053
+   },
+   "foot": {
+    "name": "Hard Leather Boots",
+    "amount": 62418
+   },
+   "hand": {
+    "name": "\"Victory Moon\" Gloves of Detection +1",
+    "amount": 17
+   },
+   "head": {
+    "name": "Dragon's Crown",
+    "amount": 62049
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "\"Skull Moon\" Bronze Ring of Protection +1",
+    "amount": 16
+   },
+   "waist": {
+    "name": "Sash of Vitriol",
+    "amount": 793
+   },
+   "weapon": {
+    "name": "\"Rage Moon\" Book of Skill +1",
+    "amount": 66
+   },
+   "id": "186563",
+   "rank": 186564,
+   "score": 2.0229915511703638
+  },
+  {
+   "chest": {
+    "name": "\"Sorrow Moon\" Demon Husk of Rage +1",
+    "amount": 18
+   },
+   "foot": {
+    "name": "Demonhide Boots of the Twins",
+    "amount": 772
+   },
+   "hand": {
+    "name": "\"Bramble Root\" Studded Leather Gloves of Giants",
+    "amount": 12
+   },
+   "head": {
+    "name": "Helm",
+    "amount": 61904
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "\"Brimstone Moon\" Silk Sash of Brilliance +1",
+    "amount": 12
+   },
+   "weapon": {
+    "name": "\"Kraken Moon\" Book of Giants +1",
+    "amount": 65
+   },
+   "id": "324632",
+   "rank": 324633,
+   "score": 1.821474790280358
+  },
+  {
+   "chest": {
+    "name": "\"Gloom Moon\" Hard Leather Armor of Giants +1",
+    "amount": 10
+   },
+   "foot": {
+    "name": "Silk Slippers",
+    "amount": 62277
+   },
+   "hand": {
+    "name": "\"Rage Moon\" Gloves of Protection +1",
+    "amount": 15
+   },
+   "head": {
+    "name": "Full Helm",
+    "amount": 62416
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Bronze Ring of the Twins",
+    "amount": 3153
+   },
+   "waist": {
+    "name": "\"Gloom Moon\" Sash of the Twins +1",
+    "amount": 12
+   },
+   "weapon": {
+    "name": "Scimitar of the Twins",
+    "amount": 1267
+   },
+   "id": "345879",
+   "rank": 345880,
+   "score": 2.076622462347226
+  },
+  {
+   "chest": {
+    "name": "Divine Robe of the Twins",
+    "amount": 1577
+   },
+   "foot": {
+    "name": "Wool Shoes",
+    "amount": 62048
+   },
+   "hand": {
+    "name": "\"Woe Moon\" Gauntlets of Brilliance +1",
+    "amount": 12
+   },
+   "head": {
+    "name": "Linen Hood",
+    "amount": 61943
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "\"Rage Moon\" Silver Ring of Giants +1",
+    "amount": 15
+   },
+   "waist": {
+    "name": "Mesh Belt",
+    "amount": 62257
+   },
+   "weapon": {
+    "name": "\"Skull Moon\" Book of Vitriol +1",
+    "amount": 51
+   },
+   "id": "350613",
+   "rank": 350614,
+   "score": 2.1273833698197886
+  },
+  {
+   "chest": {
+    "name": "\"Sorrow Moon\" Linen Robe of Giants +1",
+    "amount": 8
+   },
+   "foot": {
+    "name": "\"Foe Peak\" Hard Leather Boots of Power +1",
+    "amount": 11
+   },
+   "hand": {
+    "name": "Gauntlets",
+    "amount": 62144
+   },
+   "head": {
+    "name": "\"Sorrow Moon\" Demon Crown of Detection +1",
+    "amount": 15
+   },
+   "neck": {
+    "name": "\"Cataclysm Moon\" Pendant of Giants +1",
+    "amount": 49
+   },
+   "ring": {
+    "name": "Titanium Ring of Rage",
+    "amount": 3123
+   },
+   "waist": {
+    "name": "Hard Leather Belt",
+    "amount": 61900
+   },
+   "weapon": {
+    "name": "Short Sword",
+    "amount": 52117
+   },
+   "id": "355297",
+   "rank": 355298,
+   "score": 2.1770223254384495
+  },
+  {
+   "chest": {
+    "name": "\"Corruption Moon\" Ornate Chestplate of Brilliance +1",
+    "amount": 13
+   },
+   "foot": {
+    "name": "Holy Greaves of Rage",
+    "amount": 1575
+   },
+   "hand": {
+    "name": "\"Brimstone Moon\" Demon's Hands of Protection +1",
+    "amount": 11
+   },
+   "head": {
+    "name": "Dragon's Crown",
+    "amount": 62049
+   },
+   "neck": {
+    "name": "\"Tempest Moon\" Pendant of Giants +1",
+    "amount": 66
+   },
+   "ring": {
+    "name": "Silver Ring of Power",
+    "amount": 3083
+   },
+   "waist": {
+    "name": "Silk Sash",
+    "amount": 62413
+   },
+   "weapon": {
+    "name": "Katana",
+    "amount": 51698
+   },
+   "id": "361566",
+   "rank": 361567,
+   "score": 2.2459336947899793
+  },
+  {
+   "chest": {
+    "name": "Robe",
+    "amount": 62433
+   },
+   "foot": {
+    "name": "\"Tempest Moon\" Shoes of Detection +1",
+    "amount": 18
+   },
+   "hand": {
+    "name": "Heavy Gloves of Rage",
+    "amount": 810
+   },
+   "head": {
+    "name": "\"Sorrow Shout\" Hood of Protection +1",
+    "amount": 14
+   },
+   "neck": {
+    "name": "\"Shimmering Moon\" Pendant of Vitriol +1",
+    "amount": 62
+   },
+   "ring": {
+    "name": "Bronze Ring",
+    "amount": 187470
+   },
+   "waist": {
+    "name": "Sash",
+    "amount": 62168
+   },
+   "weapon": {
+    "name": "\"Brimstone Moon\" Book of Skill +1",
+    "amount": 56
+   },
+   "id": "385555",
+   "rank": 385556,
+   "score": 2.4870102198152106
+  },
+  {
+   "chest": {
+    "name": "\"Gloom Moon\" Ring Mail of Rage +1",
+    "amount": 9
+   },
+   "foot": {
+    "name": "Greaves",
+    "amount": 62299
+   },
+   "hand": {
+    "name": "Silk Gloves of the Fox",
+    "amount": 739
+   },
+   "head": {
+    "name": "\"Skull Moon\" Hood of Vitriol +1",
+    "amount": 11
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Bronze Ring",
+    "amount": 187470
+   },
+   "waist": {
+    "name": "Brightsilk Sash of Vitriol",
+    "amount": 775
+   },
+   "weapon": {
+    "name": "\"Armageddon Moon\" Book of Vitriol +1",
+    "amount": 61
+   },
+   "id": "425456",
+   "rank": 425457,
+   "score": 3.046280052302941
+  },
+  {
+   "chest": {
+    "name": "Holy Chestplate",
+    "amount": 62395
+   },
+   "foot": {
+    "name": "\"Gloom Moon\" Demonhide Boots of Skill +1",
+    "amount": 13
+   },
+   "hand": {
+    "name": "\"Rage Moon\" Gauntlets of Skill +1",
+    "amount": 16
+   },
+   "head": {
+    "name": "Ornate Helm of Protection",
+    "amount": 770
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "Silver Ring",
+    "amount": 186690
+   },
+   "waist": {
+    "name": "\"Skull Moon\" Hard Leather Belt of Vitriol +1",
+    "amount": 17
+   },
+   "weapon": {
+    "name": "Mace",
+    "amount": 51949
+   },
+   "id": "449081",
+   "rank": 449082,
+   "score": 3.4441765570264398
+  },
+  {
+   "chest": {
+    "name": "\"Dread Moon\" Ring Mail of Giants +1",
+    "amount": 14
+   },
+   "foot": {
+    "name": "Hard Leather Boots",
+    "amount": 62418
+   },
+   "hand": {
+    "name": "\"Foe Moon\" Gauntlets of the Twins +1",
+    "amount": 12
+   },
+   "head": {
+    "name": "Linen Hood",
+    "amount": 61943
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "\"Demon Moon\" Silver Ring of Rage +1",
+    "amount": 12
+   },
+   "waist": {
+    "name": "Studded Leather Belt of Detection",
+    "amount": 744
+   },
+   "weapon": {
+    "name": "\"Corpse Glow\" Scimitar of Vitriol",
+    "amount": 54
+   },
+   "id": "463076",
+   "rank": 463077,
+   "score": 3.7074710173367054
+  },
+  {
+   "chest": {
+    "name": "\"Skull Moon\" Linen Robe of Rage +1",
+    "amount": 11
+   },
+   "foot": {
+    "name": "\"Brimstone Moon\" Shoes of Rage +1",
+    "amount": 9
+   },
+   "hand": {
+    "name": "Chain Gloves",
+    "amount": 61687
+   },
+   "head": {
+    "name": "Linen Hood",
+    "amount": 61943
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "\"Eagle Moon\" Bronze Ring of Protection +1",
+    "amount": 10
+   },
+   "waist": {
+    "name": "\"Sorrow Grasp\" Sash of Skill +1",
+    "amount": 13
+   },
+   "weapon": {
+    "name": "Long Sword",
+    "amount": 51823
+   },
+   "id": "575716",
+   "rank": 575717,
+   "score": 6.286252326139044
+  },
+  {
+   "chest": {
+    "name": "Silk Robe",
+    "amount": 62610
+   },
+   "foot": {
+    "name": "Holy Greaves",
+    "amount": 62085
+   },
+   "hand": {
+    "name": "\"Sorrow Moon\" Silk Gloves of Protection +1",
+    "amount": 13
+   },
+   "head": {
+    "name": "\"Mind Moon\" Hood of Vitriol +1",
+    "amount": 7
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Platinum Ring",
+    "amount": 186857
+   },
+   "waist": {
+    "name": "\"Kraken Moon\" Silk Sash of Vitriol +1",
+    "amount": 7
+   },
+   "weapon": {
+    "name": "Long Sword",
+    "amount": 51823
+   },
+   "id": "593287",
+   "rank": 593288,
+   "score": 6.4443210396437145
+  },
+  {
+   "chest": {
+    "name": "\"Grim Moon\" Linen Robe of Brilliance +1",
+    "amount": 18
+   },
+   "foot": {
+    "name": "Linen Shoes",
+    "amount": 62473
+   },
+   "hand": {
+    "name": "\"Mind Moon\" Gloves of Detection +1",
+    "amount": 8
+   },
+   "head": {
+    "name": "\"Eagle Moon\" Divine Hood of Skill +1",
+    "amount": 13
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Gold Ring",
+    "amount": 186792
+   },
+   "waist": {
+    "name": "Silk Sash",
+    "amount": 62413
+   },
+   "weapon": {
+    "name": "Long Sword",
+    "amount": 51823
+   },
+   "id": "607619",
+   "rank": 607620,
+   "score": 6.518125408364089
+  },
+  {
+   "chest": {
+    "name": "\"Morbid Whisper\" Chain Mail of Fury",
+    "amount": 14
+   },
+   "foot": {
+    "name": "\"Fate Tear\" Linen Shoes of Protection",
+    "amount": 11
+   },
+   "hand": {
+    "name": "Silk Gloves",
+    "amount": 62222
+   },
+   "head": {
+    "name": "\"Gloom Moon\" Hood of Protection +1",
+    "amount": 14
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Platinum Ring",
+    "amount": 186857
+   },
+   "waist": {
+    "name": "\"Foe Moon\" Hard Leather Belt of Rage +1",
+    "amount": 8
+   },
+   "weapon": {
+    "name": "\"Woe Moon\" Book of Giants +1",
+    "amount": 68
+   },
+   "id": "728024",
+   "rank": 728025,
+   "score": 7.843837779946616
+  },
+  {
+   "chest": {
+    "name": "Hard Leather Armor",
+    "amount": 62329
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "Heavy Gloves",
+    "amount": 62414
+   },
+   "head": {
+    "name": "\"Oblivion Moon\" Divine Hood of Vitriol +1",
+    "amount": 12
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "\"Kraken Moon\" Gold Ring of Detection +1",
+    "amount": 10
+   },
+   "waist": {
+    "name": "\"Gloom Moon\" Plated Belt of Vitriol +1",
+    "amount": 16
+   },
+   "weapon": {
+    "name": "\"Havoc Glow\" Scimitar of Protection",
+    "amount": 43
+   },
+   "id": "756771",
+   "rank": 756772,
+   "score": 8.57941114804262
+  },
+  {
+   "chest": {
+    "name": "\"Victory Peak\" Demon Husk of Enlightenment +1",
+    "amount": 12
+   },
+   "foot": {
+    "name": "\"Sorrow Moon\" Demonhide Boots of Protection +1",
+    "amount": 11
+   },
+   "hand": {
+    "name": "Demon's Hands of Skill",
+    "amount": 783
+   },
+   "head": {
+    "name": "Crown of the Fox",
+    "amount": 820
+   },
+   "neck": {
+    "name": "\"Woe Moon\" Pendant of Protection +1",
+    "amount": 54
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "Hard Leather Belt",
+    "amount": 61900
+   },
+   "weapon": {
+    "name": "\"Eagle Moon\" Book of Rage +1",
+    "amount": 68
+   },
+   "id": "776868",
+   "rank": 776869,
+   "score": 9.981488820727279
+  },
+  {
+   "chest": {
+    "name": "Demon Husk",
+    "amount": 62174
+   },
+   "foot": {
+    "name": "\"Kraken Moon\" Shoes of Rage +1",
+    "amount": 20
+   },
+   "hand": {
+    "name": "\"Shimmering Moon\" Gloves of the Twins +1",
+    "amount": 8
+   },
+   "head": {
+    "name": "\"Shimmering Moon\" Divine Hood of Giants +1",
+    "amount": 13
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Bronze Ring",
+    "amount": 187470
+   },
+   "waist": {
+    "name": "Studded Leather Belt",
+    "amount": 62339
+   },
+   "weapon": {
+    "name": "Ghost Wand",
+    "amount": 51900
+   },
+   "id": "784902",
+   "rank": 784903,
+   "score": 10.110341610016722
+  },
+  {
+   "chest": {
+    "name": "\"Behemoth Root\" Studded Leather Armor of Skill",
+    "amount": 15
+   },
+   "foot": {
+    "name": "\"Demon Moon\" Silk Slippers of the Twins +1",
+    "amount": 14
+   },
+   "hand": {
+    "name": "Studded Leather Gloves",
+    "amount": 62286
+   },
+   "head": {
+    "name": "Demon Crown",
+    "amount": 62645
+   },
+   "neck": {
+    "name": "\"Woe Moon\" Pendant of the Twins +1",
+    "amount": 52
+   },
+   "ring": {
+    "name": "Silver Ring of the Fox",
+    "amount": 3117
+   },
+   "waist": {
+    "name": "\"Skull Moon\" Silk Sash of Detection +1",
+    "amount": 13
+   },
+   "weapon": {
+    "name": "\"Pandemonium Peak\" Grimoire of Perfection +1",
+    "amount": 44
+   },
+   "id": "788561",
+   "rank": 788562,
+   "score": 10.138329353399495
+  },
+  {
+   "chest": {
+    "name": "\"Eagle Moon\" Ring Mail of Skill +1",
+    "amount": 12
+   },
+   "foot": {
+    "name": "\"Demon Moon\" Greaves of Giants +1",
+    "amount": 7
+   },
+   "hand": {
+    "name": "Leather Gloves",
+    "amount": 62470
+   },
+   "head": {
+    "name": "Linen Hood",
+    "amount": 61943
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Bronze Ring",
+    "amount": 187470
+   },
+   "waist": {
+    "name": "Mesh Belt of Perfection",
+    "amount": 1533
+   },
+   "weapon": {
+    "name": "\"Sorrow Moon\" Book of Giants +1",
+    "amount": 60
+   },
+   "id": "791227",
+   "rank": 791228,
+   "score": 10.154458015326052
+  },
+  {
+   "chest": {
+    "name": "\"Demon Moon\" Demon Husk of Protection +1",
+    "amount": 6
+   },
+   "foot": {
+    "name": "Ornate Greaves",
+    "amount": 61952
+   },
+   "hand": {
+    "name": "\"Shimmering Grasp\" Demon's Hands of Vitriol +1",
+    "amount": 7
+   },
+   "head": {
+    "name": "Divine Hood",
+    "amount": 61778
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "\"Blight Moon\" Gold Ring of Skill +1",
+    "amount": 6
+   },
+   "waist": {
+    "name": "\"Cataclysm Moon\" Plated Belt of Detection +1",
+    "amount": 12
+   },
+   "weapon": {
+    "name": "Grimoire of Enlightenment",
+    "amount": 1269
+   },
+   "id": "806415",
+   "rank": 806416,
+   "score": 10.208302387950262
+  },
+  {
+   "chest": {
+    "name": "Demon Husk",
+    "amount": 62174
+   },
+   "foot": {
+    "name": "Demonhide Boots",
+    "amount": 62426
+   },
+   "hand": {
+    "name": "Divine Gloves",
+    "amount": 62363
+   },
+   "head": {
+    "name": "\"Armageddon Moon\" Demon Crown of Vitriol +1",
+    "amount": 13
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "\"Pandemonium Moon\" Gold Ring of Giants +1",
+    "amount": 11
+   },
+   "waist": {
+    "name": "Wool Sash",
+    "amount": 62437
+   },
+   "weapon": {
+    "name": "\"Rage Moon\" Book of Detection +1",
+    "amount": 61
+   },
+   "id": "808866",
+   "rank": 808867,
+   "score": 10.214571645830059
+  },
+  {
+   "chest": {
+    "name": "\"Pandemonium Grasp\" Demon Husk of Skill +1",
+    "amount": 12
+   },
+   "foot": {
+    "name": "Leather Boots",
+    "amount": 62297
+   },
+   "hand": {
+    "name": "\"Tempest Moon\" Hard Leather Gloves of Rage +1",
+    "amount": 8
+   },
+   "head": {
+    "name": "\"Woe Peak\" Demon Crown of Perfection +1",
+    "amount": 12
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "\"Blight Moon\" Platinum Ring of Detection +1",
+    "amount": 14
+   },
+   "waist": {
+    "name": "\"Victory Moon\" Demonhide Belt of Rage +1",
+    "amount": 15
+   },
+   "weapon": {
+    "name": "Short Sword",
+    "amount": 52117
+   },
+   "id": "852924",
+   "rank": 852925,
+   "score": 10.4727612403772
+  },
+  {
+   "chest": {
+    "name": "\"Corruption Moon\" Linen Robe of Brilliance +1",
+    "amount": 12
+   },
+   "foot": {
+    "name": "\"Pain Whisper\" Linen Shoes of Anger",
+    "amount": 11
+   },
+   "hand": {
+    "name": "\"Kraken Moon\" Gloves of Rage +1",
+    "amount": 17
+   },
+   "head": {
+    "name": "Linen Hood",
+    "amount": 61943
+   },
+   "neck": {
+    "name": "\"Brimstone Moon\" Pendant of the Twins +1",
+    "amount": 48
+   },
+   "ring": {
+    "name": "Platinum Ring",
+    "amount": 186857
+   },
+   "waist": {
+    "name": "Leather Belt of Skill",
+    "amount": 1569
+   },
+   "weapon": {
+    "name": "Wand",
+    "amount": 51899
+   },
+   "id": "875889",
+   "rank": 875890,
+   "score": 10.668314539324268
+  },
+  {
+   "chest": {
+    "name": "Chain Mail of Vitriol",
+    "amount": 773
+   },
+   "foot": {
+    "name": "\"Dread Moon\" Greaves of Vitriol +1",
+    "amount": 18
+   },
+   "hand": {
+    "name": "\"Kraken Moon\" Gauntlets of Protection +1",
+    "amount": 13
+   },
+   "head": {
+    "name": "\"Foe Moon\" Leather Cap of the Twins +1",
+    "amount": 13
+   },
+   "neck": {
+    "name": "\"Foe Shout\" Pendant of the Twins +1",
+    "amount": 59
+   },
+   "ring": {
+    "name": "\"Storm Roar\" Bronze Ring of Reflection",
+    "amount": 8
+   },
+   "waist": {
+    "name": "Wool Sash of Reflection",
+    "amount": 1539
+   },
+   "weapon": {
+    "name": "\"Eagle Bender\" Long Sword of Enlightenment +1",
+    "amount": 74
+   },
+   "id": "884118",
+   "rank": 884119,
+   "score": 10.799719994319
+  },
+  {
+   "chest": {
+    "name": "Divine Robe of Vitriol",
+    "amount": 1526
+   },
+   "foot": {
+    "name": "Ornate Greaves",
+    "amount": 61952
+   },
+   "hand": {
+    "name": "Demon's Hands of Giants",
+    "amount": 812
+   },
+   "head": {
+    "name": "War Cap of the Fox",
+    "amount": 794
+   },
+   "neck": {
+    "name": "\"Brimstone Peak\" Pendant of Enlightenment +1",
+    "amount": 68
+   },
+   "ring": {
+    "name": "\"Foe Moon\" Titanium Ring of Skill +1",
+    "amount": 15
+   },
+   "waist": {
+    "name": "\"Woe Moon\" Hard Leather Belt of Rage +1",
+    "amount": 13
+   },
+   "weapon": {
+    "name": "\"Kraken Moon\" Book of Rage +1",
+    "amount": 55
+   },
+   "id": "894714",
+   "rank": 894715,
+   "score": 10.842559645144705
+  },
+  {
+   "chest": {
+    "name": "Ornate Chestplate of Anger",
+    "amount": 768
+   },
+   "foot": {
+    "name": "Linen Shoes",
+    "amount": 62473
+   },
+   "hand": {
+    "name": "Divine Gloves",
+    "amount": 62363
+   },
+   "head": {
+    "name": "\"Woe Moon\" Hood of the Twins +1",
+    "amount": 14
+   },
+   "neck": {
+    "name": "\"Plague Tear\" Amulet of Protection",
+    "amount": 45
+   },
+   "ring": {
+    "name": "\"Foe Moon\" Bronze Ring of Vitriol +1",
+    "amount": 21
+   },
+   "waist": {
+    "name": "\"Shimmering Moon\" Plated Belt of Rage +1",
+    "amount": 11
+   },
+   "weapon": {
+    "name": "Katana",
+    "amount": 51698
+   },
+   "id": "937285",
+   "rank": 937286,
+   "score": 10.939412076423325
+  },
+  {
+   "chest": {
+    "name": "\"Rage Moon\" Linen Robe of Giants +1",
+    "amount": 16
+   },
+   "foot": {
+    "name": "Heavy Boots",
+    "amount": 62070
+   },
+   "hand": {
+    "name": "\"Woe Moon\" Hard Leather Gloves of Skill +1",
+    "amount": 8
+   },
+   "head": {
+    "name": "War Cap",
+    "amount": 62588
+   },
+   "neck": {
+    "name": "\"Kraken Moon\" Pendant of Brilliance +1",
+    "amount": 40
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "Silk Sash",
+    "amount": 62413
+   },
+   "weapon": {
+    "name": "Mace",
+    "amount": 51949
+   },
+   "id": "1029325",
+   "rank": 1029326,
+   "score": 12.324401571132158
+  },
+  {
+   "chest": {
+    "name": "Dragonskin Armor",
+    "amount": 62142
+   },
+   "foot": {
+    "name": "\"Tempest Moon\" Demonhide Boots of Vitriol +1",
+    "amount": 12
+   },
+   "hand": {
+    "name": "Divine Gloves",
+    "amount": 62363
+   },
+   "head": {
+    "name": "\"Sorrow Moon\" Divine Hood of Skill +1",
+    "amount": 11
+   },
+   "neck": {
+    "name": "Necklace of the Fox",
+    "amount": 7703
+   },
+   "ring": {
+    "name": "Silver Ring",
+    "amount": 186690
+   },
+   "waist": {
+    "name": "Studded Leather Belt",
+    "amount": 62339
+   },
+   "weapon": {
+    "name": "\"Sorrow Moon\" Book of the Twins +1",
+    "amount": 46
+   },
+   "id": "1033529",
+   "rank": 1033530,
+   "score": 14.505519380051993
+  },
+  {
+   "chest": {
+    "name": "Plate Mail",
+    "amount": 61716
+   },
+   "foot": {
+    "name": "\"Mind Moon\" Demonhide Boots of Rage +1",
+    "amount": 8
+   },
+   "hand": {
+    "name": "\"Woe Moon\" Gauntlets of Vitriol +1",
+    "amount": 9
+   },
+   "head": {
+    "name": "Silk Hood",
+    "amount": 62382
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Platinum Ring of Protection",
+    "amount": 3062
+   },
+   "waist": {
+    "name": "Plated Belt of Reflection",
+    "amount": 791
+   },
+   "weapon": {
+    "name": "\"Dread Moon\" Book of Skill +1",
+    "amount": 63
+   },
+   "id": "1086830",
+   "rank": 1086831,
+   "score": 14.58926087934363
+  },
+  {
+   "chest": {
+    "name": "\"Demon Moon\" Ring Mail of Brilliance +1",
+    "amount": 7
+   },
+   "foot": {
+    "name": "\"Corruption Shout\" Greaves of Rage +1",
+    "amount": 18
+   },
+   "hand": {
+    "name": "Gloves of Giants",
+    "amount": 802
+   },
+   "head": {
+    "name": "\"Dread Moon\" Demon Crown of Protection +1",
+    "amount": 21
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "\"Woe Moon\" Titanium Ring of the Twins +1",
+    "amount": 18
+   },
+   "waist": {
+    "name": "Brightsilk Sash of the Twins",
+    "amount": 733
+   },
+   "weapon": {
+    "name": "Chronicle of Skill",
+    "amount": 2528
+   },
+   "id": "1102108",
+   "rank": 1102109,
+   "score": 14.810978755670227
+  },
+  {
+   "chest": {
+    "name": "\"Eagle Moon\" Hard Leather Armor of Skill +1",
+    "amount": 12
+   },
+   "foot": {
+    "name": "Leather Boots",
+    "amount": 62297
+   },
+   "hand": {
+    "name": "\"Dread Moon\" Silk Gloves of Giants +1",
+    "amount": 11
+   },
+   "head": {
+    "name": "Helm",
+    "amount": 61904
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "\"Skull Moon\" Gold Ring of the Twins +1",
+    "amount": 15
+   },
+   "waist": {
+    "name": "Sash",
+    "amount": 62168
+   },
+   "weapon": {
+    "name": "Wand of Protection",
+    "amount": 1324
+   },
+   "id": "1205101",
+   "rank": 1205102,
+   "score": 15.306068776143835
+  },
+  {
+   "chest": {
+    "name": "Linen Robe",
+    "amount": 62053
+   },
+   "foot": {
+    "name": "Holy Greaves",
+    "amount": 62085
+   },
+   "hand": {
+    "name": "\"Rage Moon\" Demon's Hands of Giants +1",
+    "amount": 16
+   },
+   "head": {
+    "name": "\"Foe Peak\" Hood of Reflection +1",
+    "amount": 12
+   },
+   "neck": {
+    "name": "\"Blight Moon\" Pendant of Skill +1",
+    "amount": 50
+   },
+   "ring": {
+    "name": "\"Victory Moon\" Silver Ring of Rage +1",
+    "amount": 12
+   },
+   "waist": {
+    "name": "\"Blight Peak\" Silk Sash of Power +1",
+    "amount": 11
+   },
+   "weapon": {
+    "name": "Tome of Reflection",
+    "amount": 1291
+   },
+   "id": "1228255",
+   "rank": 1228256,
+   "score": 18.928169355740614
+  }
+ ]
+}

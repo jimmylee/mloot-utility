@@ -1,0 +1,272 @@
+{
+ "ids": [
+  "386289",
+  "507774",
+  "942099",
+  "1032059",
+  "1078160",
+  "1139932",
+  "1230650"
+ ],
+ "search": [
+  {
+   "chest": {
+    "name": "\"Vortex Sun\" Chain Mail of Fury",
+    "amount": 19
+   },
+   "foot": {
+    "name": "Hard Leather Boots of Reflection",
+    "amount": 814
+   },
+   "hand": {
+    "name": "Linen Gloves",
+    "amount": 61997
+   },
+   "head": {
+    "name": "\"Storm Sun\" Linen Hood of Reflection",
+    "amount": 11
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "\"Golem Whisper\" Bronze Ring of Enlightenment",
+    "amount": 9
+   },
+   "waist": {
+    "name": "\"Brimstone Bender\" Plated Belt of Fury +1",
+    "amount": 15
+   },
+   "weapon": {
+    "name": "\"Behemoth Sun\" Tome of Enlightenment",
+    "amount": 76
+   },
+   "id": "386289",
+   "rank": 386290,
+   "score": 2.496349226863491
+  },
+  {
+   "chest": {
+    "name": "Demon Husk of Detection",
+    "amount": 792
+   },
+   "foot": {
+    "name": "\"Dusk Sun\" Ornate Greaves of Power",
+    "amount": 19
+   },
+   "hand": {
+    "name": "Silk Gloves",
+    "amount": 62222
+   },
+   "head": {
+    "name": "\"Death Sun\" Ornate Helm of Titans",
+    "amount": 12
+   },
+   "neck": {
+    "name": "\"Plague Sun\" Amulet of the Fox",
+    "amount": 53
+   },
+   "ring": {
+    "name": "Bronze Ring",
+    "amount": 187470
+   },
+   "waist": {
+    "name": "Linen Sash of Protection",
+    "amount": 806
+   },
+   "weapon": {
+    "name": "Chronicle of Protection",
+    "amount": 2607
+   },
+   "id": "507774",
+   "rank": 507775,
+   "score": 5.597094878664373
+  },
+  {
+   "chest": {
+    "name": "\"Vortex Sun\" Holy Chestplate of Perfection",
+    "amount": 16
+   },
+   "foot": {
+    "name": "\"Vortex Sun\" Linen Shoes of Perfection",
+    "amount": 13
+   },
+   "hand": {
+    "name": "Gauntlets",
+    "amount": 62144
+   },
+   "head": {
+    "name": "\"Pain Sun\" Ornate Helm of the Fox",
+    "amount": 12
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "\"Soul Whisper\" Titanium Ring of Anger",
+    "amount": 9
+   },
+   "waist": {
+    "name": "Demonhide Belt of Rage",
+    "amount": 766
+   },
+   "weapon": {
+    "name": "Warhammer",
+    "amount": 51760
+   },
+   "id": "942099",
+   "rank": 942100,
+   "score": 11.10269262137143
+  },
+  {
+   "chest": {
+    "name": "\"Bramble Sun\" Holy Chestplate of Perfection",
+    "amount": 9
+   },
+   "foot": {
+    "name": "Divine Slippers of Enlightenment",
+    "amount": 776
+   },
+   "hand": {
+    "name": "\"Dusk Sun\" Studded Leather Gloves of Power",
+    "amount": 11
+   },
+   "head": {
+    "name": "\"Hypnotic Roar\" Linen Hood of Perfection",
+    "amount": 9
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "Brightsilk Sash",
+    "amount": 62838
+   },
+   "weapon": {
+    "name": "\"Carrion Sun\" Tome of Anger",
+    "amount": 59
+   },
+   "id": "1032059",
+   "rank": 1032060,
+   "score": 14.495093743284091
+  },
+  {
+   "chest": {
+    "name": "\"Tempest Bite\" Ornate Chestplate of Titans +1",
+    "amount": 10
+   },
+   "foot": {
+    "name": "\"Rune Sun\" Heavy Boots of the Fox",
+    "amount": 10
+   },
+   "hand": {
+    "name": "Hard Leather Gloves",
+    "amount": 62204
+   },
+   "head": {
+    "name": "Silk Hood of Rage",
+    "amount": 1533
+   },
+   "neck": {
+    "name": "\"Fate Sun\" Amulet of Anger",
+    "amount": 58
+   },
+   "ring": {
+    "name": "\"Havoc Sun\" Silver Ring of Titans",
+    "amount": 12
+   },
+   "waist": {
+    "name": "\"Hypnotic Glow\" War Belt of Skill",
+    "amount": 9
+   },
+   "weapon": {
+    "name": "Tome",
+    "amount": 51986
+   },
+   "id": "1078160",
+   "rank": 1078161,
+   "score": 14.577417386842928
+  },
+  {
+   "chest": {
+    "name": "\"Dusk Sun\" Shirt of Enlightenment",
+    "amount": 13
+   },
+   "foot": {
+    "name": "Shoes",
+    "amount": 61931
+   },
+   "hand": {
+    "name": "Holy Gauntlets",
+    "amount": 62555
+   },
+   "head": {
+    "name": "Hood",
+    "amount": 61808
+   },
+   "neck": {
+    "name": "\"Pain Sun\" Amulet of the Fox",
+    "amount": 61
+   },
+   "ring": {
+    "name": "\"Vengeance Tear\" Gold Ring of Protection",
+    "amount": 8
+   },
+   "waist": {
+    "name": "Studded Leather Belt of Skill",
+    "amount": 749
+   },
+   "weapon": {
+    "name": "\"Carrion Sun\" Tome of Reflection",
+    "amount": 53
+   },
+   "id": "1139932",
+   "rank": 1139933,
+   "score": 15.231145799681448
+  },
+  {
+   "chest": {
+    "name": "Chain Mail",
+    "amount": 62774
+   },
+   "foot": {
+    "name": "\"Hypnotic Sun\" Heavy Boots of Fury",
+    "amount": 10
+   },
+   "hand": {
+    "name": "\"Morbid Glow\" Studded Leather Gloves of Rage",
+    "amount": 9
+   },
+   "head": {
+    "name": "\"Plague Tear\" Linen Hood of the Twins",
+    "amount": 12
+   },
+   "neck": {
+    "name": "\"Bramble Sun\" Amulet of Reflection",
+    "amount": 60
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "\"Plague Tear\" Heavy Belt of Skill",
+    "amount": 14
+   },
+   "weapon": {
+    "name": "\"Behemoth Sun\" Tome of Enlightenment",
+    "amount": 76
+   },
+   "id": "1230650",
+   "rank": 1230651,
+   "score": 18.9296766047449
+  }
+ ]
+}

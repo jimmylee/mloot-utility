@@ -1,0 +1,44 @@
+{
+ "ids": [
+  "330628"
+ ],
+ "search": [
+  {
+   "chest": {
+    "name": "Ring Mail",
+    "amount": 61913
+   },
+   "foot": {
+    "name": "\"Vengeance Tear\" Divine Slippers of Brilliance",
+    "amount": 11
+   },
+   "hand": {
+    "name": "\"Havoc Tear\" Heavy Gloves of Brilliance",
+    "amount": 16
+   },
+   "head": {
+    "name": "\"Sorrow Grasp\" Great Helm of Detection +1",
+    "amount": 18
+   },
+   "neck": {
+    "name": "Amulet of Power",
+    "amount": 3882
+   },
+   "ring": {
+    "name": "\"Death Tear\" Gold Ring of the Twins",
+    "amount": 11
+   },
+   "waist": {
+    "name": "Demonhide Belt",
+    "amount": 62112
+   },
+   "weapon": {
+    "name": "\"Corpse Tear\" Wand of Rage",
+    "amount": 40
+   },
+   "id": "330628",
+   "rank": 330629,
+   "score": 1.8983256818074852
+  }
+ ]
+}

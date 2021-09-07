@@ -1,0 +1,348 @@
+{
+ "ids": [
+  "25507",
+  "229474",
+  "342747",
+  "540181",
+  "805969",
+  "926093",
+  "1010743",
+  "1099400",
+  "1180884"
+ ],
+ "search": [
+  {
+   "chest": {
+    "name": "Demon Husk",
+    "amount": 62174
+   },
+   "foot": {
+    "name": "\"Brimstone Bender\" Greaves of Fury +1",
+    "amount": 15
+   },
+   "hand": {
+    "name": "Leather Gloves of Fury",
+    "amount": 1548
+   },
+   "head": {
+    "name": "War Cap",
+    "amount": 62588
+   },
+   "neck": {
+    "name": "\"Behemoth Sun\" Amulet of Fury",
+    "amount": 62
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "\"Corruption Bite\" Plated Belt of Anger +1",
+    "amount": 10
+   },
+   "weapon": {
+    "name": "Grimoire of Fury",
+    "amount": 1263
+   },
+   "id": "25507",
+   "rank": 25508,
+   "score": 11.406972808054103
+  },
+  {
+   "chest": {
+    "name": "Chain Mail",
+    "amount": 62774
+   },
+   "foot": {
+    "name": "Dragonskin Boots of Fury",
+    "amount": 1541
+   },
+   "hand": {
+    "name": "Studded Leather Gloves",
+    "amount": 62286
+   },
+   "head": {
+    "name": "Linen Hood",
+    "amount": 61943
+   },
+   "neck": {
+    "name": "Pendant of Fury",
+    "amount": 4034
+   },
+   "ring": {
+    "name": "Gold Ring",
+    "amount": 186792
+   },
+   "waist": {
+    "name": "Wool Sash of Fury",
+    "amount": 1596
+   },
+   "weapon": {
+    "name": "Long Sword of Fury",
+    "amount": 1287
+   },
+   "id": "229474",
+   "rank": 229475,
+   "score": 1.1125553230760568
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "Studded Leather Boots of Fury",
+    "amount": 764
+   },
+   "hand": {
+    "name": "Silk Gloves of Fury",
+    "amount": 784
+   },
+   "head": {
+    "name": "Silk Hood of Fury",
+    "amount": 1509
+   },
+   "neck": {
+    "name": "Pendant of the Twins",
+    "amount": 3979
+   },
+   "ring": {
+    "name": "Gold Ring",
+    "amount": 186792
+   },
+   "waist": {
+    "name": "Dragonskin Belt of Fury",
+    "amount": 1523
+   },
+   "weapon": {
+    "name": "Short Sword",
+    "amount": 52117
+   },
+   "id": "342747",
+   "rank": 342748,
+   "score": 2.0459854470176415
+  },
+  {
+   "chest": {
+    "name": "Studded Leather Armor of Fury",
+    "amount": 816
+   },
+   "foot": {
+    "name": "Ornate Greaves",
+    "amount": 61952
+   },
+   "hand": {
+    "name": "Gauntlets",
+    "amount": 62144
+   },
+   "head": {
+    "name": "Demon Crown",
+    "amount": 62645
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "\"Woe Bite\" Silver Ring of Fury +1",
+    "amount": 9
+   },
+   "waist": {
+    "name": "Mesh Belt of Fury",
+    "amount": 1589
+   },
+   "weapon": {
+    "name": "Bone Wand of Fury",
+    "amount": 2599
+   },
+   "id": "540181",
+   "rank": 540182,
+   "score": 5.9974042296071195
+  },
+  {
+   "chest": {
+    "name": "Dragonskin Armor of the Fox",
+    "amount": 1557
+   },
+   "foot": {
+    "name": "Greaves",
+    "amount": 62299
+   },
+   "hand": {
+    "name": "Divine Gloves of Fury",
+    "amount": 771
+   },
+   "head": {
+    "name": "Ornate Helm of Fury",
+    "amount": 786
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "Silver Ring",
+    "amount": 186690
+   },
+   "waist": {
+    "name": "Ornate Belt of Fury",
+    "amount": 1565
+   },
+   "weapon": {
+    "name": "Club of Fury",
+    "amount": 1325
+   },
+   "id": "805969",
+   "rank": 805970,
+   "score": 10.207262671479489
+  },
+  {
+   "chest": {
+    "name": "Plate Mail",
+    "amount": 61716
+   },
+   "foot": {
+    "name": "Leather Boots of Fury",
+    "amount": 1552
+   },
+   "hand": {
+    "name": "Demon's Hands",
+    "amount": 61901
+   },
+   "head": {
+    "name": "Helm of Fury",
+    "amount": 765
+   },
+   "neck": {
+    "name": "\"Shimmering Peak\" Pendant of Fury +1",
+    "amount": 55
+   },
+   "ring": {
+    "name": "Silver Ring of Fury",
+    "amount": 3137
+   },
+   "waist": {
+    "name": "Silk Sash",
+    "amount": 62413
+   },
+   "weapon": {
+    "name": "Katana",
+    "amount": 51698
+   },
+   "id": "926093",
+   "rank": 926094,
+   "score": 10.903446910097799
+  },
+  {
+   "chest": {
+    "name": "Shirt of Fury",
+    "amount": 794
+   },
+   "foot": {
+    "name": "\"Plague Whisper\" Heavy Boots of Reflection",
+    "amount": 12
+   },
+   "hand": {
+    "name": "Studded Leather Gloves",
+    "amount": 62286
+   },
+   "head": {
+    "name": "Helm",
+    "amount": 61904
+   },
+   "neck": {
+    "name": "\"Tempest Peak\" Pendant of Fury +1",
+    "amount": 49
+   },
+   "ring": {
+    "name": "\"Gloom Bite\" Silver Ring of Fury +1",
+    "amount": 8
+   },
+   "waist": {
+    "name": "Dragonskin Belt of Skill",
+    "amount": 1532
+   },
+   "weapon": {
+    "name": "Grimoire of Fury",
+    "amount": 1263
+   },
+   "id": "1010743",
+   "rank": 1010744,
+   "score": 11.990470841360047
+  },
+  {
+   "chest": {
+    "name": "Linen Robe",
+    "amount": 62053
+   },
+   "foot": {
+    "name": "\"Foe Peak\" Hard Leather Boots of Fury +1",
+    "amount": 14
+   },
+   "hand": {
+    "name": "\"Death Sun\" Divine Gloves of Fury",
+    "amount": 14
+   },
+   "head": {
+    "name": "Demon Crown",
+    "amount": 62645
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "Platinum Ring",
+    "amount": 186857
+   },
+   "waist": {
+    "name": "\"Mind Peak\" Sash of Fury +1",
+    "amount": 7
+   },
+   "weapon": {
+    "name": "\"Light's Sun\" Tome of Fury",
+    "amount": 52
+   },
+   "id": "1099400",
+   "rank": 1099401,
+   "score": 14.628097408778597
+  },
+  {
+   "chest": {
+    "name": "\"Rune Sun\" Shirt of Fury",
+    "amount": 13
+   },
+   "foot": {
+    "name": "\"Woe Moon\" Greaves of the Twins +1",
+    "amount": 15
+   },
+   "hand": {
+    "name": "Dragonskin Gloves of Fury",
+    "amount": 1622
+   },
+   "head": {
+    "name": "Cap of Fury",
+    "amount": 1492
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "\"Rage Bite\" Titanium Ring of Fury +1",
+    "amount": 10
+   },
+   "waist": {
+    "name": "Wool Sash",
+    "amount": 62437
+   },
+   "weapon": {
+    "name": "Wand",
+    "amount": 51899
+   },
+   "id": "1180884",
+   "rank": 1180885,
+   "score": 15.268044263882734
+  }
+ ]
+}

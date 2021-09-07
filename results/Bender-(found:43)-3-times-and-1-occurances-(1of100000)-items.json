@@ -1,0 +1,1640 @@
+{
+ "ids": [
+  "61244",
+  "79479",
+  "99954",
+  "123468",
+  "147805",
+  "214465",
+  "222055",
+  "252006",
+  "252394",
+  "261505",
+  "296580",
+  "307367",
+  "308412",
+  "312003",
+  "320683",
+  "367596",
+  "394187",
+  "403687",
+  "495094",
+  "521630",
+  "524392",
+  "567708",
+  "584710",
+  "590741",
+  "608802",
+  "684910",
+  "690457",
+  "698879",
+  "765136",
+  "768410",
+  "800502",
+  "825901",
+  "837575",
+  "856916",
+  "960395",
+  "988769",
+  "996140",
+  "1173275",
+  "1177946",
+  "1194268",
+  "1232472",
+  "1267618",
+  "1270262"
+ ],
+ "search": [
+  {
+   "chest": {
+    "name": "Linen Robe",
+    "amount": 62053
+   },
+   "foot": {
+    "name": "\"Foe Bender\" Shoes of Perfection +1",
+    "amount": 12
+   },
+   "hand": {
+    "name": "Wool Gloves",
+    "amount": 62242
+   },
+   "head": {
+    "name": "\"Foe Bender\" Divine Hood of Reflection +1",
+    "amount": 11
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "\"Blight Bender\" Bronze Ring of the Fox +1",
+    "amount": 10
+   },
+   "waist": {
+    "name": "Heavy Belt of Titans",
+    "amount": 784
+   },
+   "weapon": {
+    "name": "Ghost Wand",
+    "amount": 51900
+   },
+   "id": "61244",
+   "rank": 61245,
+   "score": 7.59017945808854
+  },
+  {
+   "chest": {
+    "name": "Silk Robe",
+    "amount": 62610
+   },
+   "foot": {
+    "name": "\"Maelstrom Glow\" Heavy Boots of Brilliance",
+    "amount": 16
+   },
+   "hand": {
+    "name": "Heavy Gloves",
+    "amount": 62414
+   },
+   "head": {
+    "name": "\"Grim Bender\" Divine Hood of Perfection +1",
+    "amount": 18
+   },
+   "neck": {
+    "name": "\"Honour Bender\" Pendant of Fury +1",
+    "amount": 54
+   },
+   "ring": {
+    "name": "Platinum Ring of Detection",
+    "amount": 3074
+   },
+   "waist": {
+    "name": "\"Eagle Bender\" Demonhide Belt of Power +1",
+    "amount": 10
+   },
+   "weapon": {
+    "name": "Mace",
+    "amount": 51949
+   },
+   "id": "79479",
+   "rank": 79480,
+   "score": 6.510829912655319
+  },
+  {
+   "chest": {
+    "name": "Linen Robe",
+    "amount": 62053
+   },
+   "foot": {
+    "name": "\"Oblivion Bender\" Demonhide Boots of Power +1",
+    "amount": 16
+   },
+   "hand": {
+    "name": "Dragonskin Gloves of Perfection",
+    "amount": 1579
+   },
+   "head": {
+    "name": "Great Helm",
+    "amount": 62602
+   },
+   "neck": {
+    "name": "\"Honour Bender\" Pendant of Fury +1",
+    "amount": 54
+   },
+   "ring": {
+    "name": "\"Mind Bite\" Platinum Ring of Enlightenment +1",
+    "amount": 17
+   },
+   "waist": {
+    "name": "Demonhide Belt",
+    "amount": 62112
+   },
+   "weapon": {
+    "name": "\"Oblivion Bender\" Long Sword of Fury +1",
+    "amount": 66
+   },
+   "id": "99954",
+   "rank": 99955,
+   "score": 5.672904623712819
+  },
+  {
+   "chest": {
+    "name": "Divine Robe of Fury",
+    "amount": 1514
+   },
+   "foot": {
+    "name": "Leather Boots",
+    "amount": 62297
+   },
+   "hand": {
+    "name": "\"Armageddon Bender\" Gauntlets of Anger +1",
+    "amount": 12
+   },
+   "head": {
+    "name": "\"Sorrow Bender\" Demon Crown of Anger +1",
+    "amount": 14
+   },
+   "neck": {
+    "name": "\"Gloom Bender\" Pendant of Power +1",
+    "amount": 67
+   },
+   "ring": {
+    "name": "Bronze Ring",
+    "amount": 187470
+   },
+   "waist": {
+    "name": "War Belt",
+    "amount": 61681
+   },
+   "weapon": {
+    "name": "\"Corpse Tear\" Wand of the Twins",
+    "amount": 51
+   },
+   "id": "123468",
+   "rank": 123469,
+   "score": 4.516039327279063
+  },
+  {
+   "chest": {
+    "name": "\"Havoc Glow\" Silk Robe of Protection",
+    "amount": 10
+   },
+   "foot": {
+    "name": "Silk Slippers of Reflection",
+    "amount": 767
+   },
+   "hand": {
+    "name": "\"Grim Bender\" Gauntlets of Perfection +1",
+    "amount": 14
+   },
+   "head": {
+    "name": "Hood",
+    "amount": 61808
+   },
+   "neck": {
+    "name": "\"Honour Bender\" Pendant of Titans +1",
+    "amount": 51
+   },
+   "ring": {
+    "name": "\"Eagle Bender\" Gold Ring of Anger +1",
+    "amount": 11
+   },
+   "waist": {
+    "name": "Wool Sash",
+    "amount": 62437
+   },
+   "weapon": {
+    "name": "Mace",
+    "amount": 51949
+   },
+   "id": "147805",
+   "rank": 147806,
+   "score": 2.9679899148708704
+  },
+  {
+   "chest": {
+    "name": "\"Kraken Bender\" Demon Husk of Titans +1",
+    "amount": 9
+   },
+   "foot": {
+    "name": "\"Honour Bender\" Hard Leather Boots of Power +1",
+    "amount": 16
+   },
+   "hand": {
+    "name": "\"Vengeance Tear\" Ornate Gauntlets of the Twins",
+    "amount": 8
+   },
+   "head": {
+    "name": "\"Rage Bender\" Leather Cap of Anger +1",
+    "amount": 6
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "Gold Ring",
+    "amount": 186792
+   },
+   "waist": {
+    "name": "Studded Leather Belt",
+    "amount": 62339
+   },
+   "weapon": {
+    "name": "\"Kraken Bite\" Maul of Enlightenment +1",
+    "amount": 46
+   },
+   "id": "214465",
+   "rank": 214466,
+   "score": 1.468193148558486
+  },
+  {
+   "chest": {
+    "name": "Plate Mail",
+    "amount": 61716
+   },
+   "foot": {
+    "name": "Studded Leather Boots of Power",
+    "amount": 705
+   },
+   "hand": {
+    "name": "Chain Gloves of Fury",
+    "amount": 1485
+   },
+   "head": {
+    "name": "\"Dragon Tear\" Ornate Helm of the Twins",
+    "amount": 7
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "\"Grim Bender\" Silver Ring of Power +1",
+    "amount": 9
+   },
+   "waist": {
+    "name": "\"Foe Bender\" Plated Belt of Fury +1",
+    "amount": 10
+   },
+   "weapon": {
+    "name": "\"Rage Bender\" Long Sword of Anger +1",
+    "amount": 41
+   },
+   "id": "222055",
+   "rank": 222056,
+   "score": 1.292924888950595
+  },
+  {
+   "chest": {
+    "name": "\"Cataclysm Bender\" Hard Leather Armor of the Fox +1",
+    "amount": 14
+   },
+   "foot": {
+    "name": "Demonhide Boots",
+    "amount": 62426
+   },
+   "hand": {
+    "name": "Silk Gloves",
+    "amount": 62222
+   },
+   "head": {
+    "name": "\"Foe Bender\" Leather Cap of Power +1",
+    "amount": 8
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Gold Ring of Protection",
+    "amount": 3110
+   },
+   "waist": {
+    "name": "Dragonskin Belt",
+    "amount": 62229
+   },
+   "weapon": {
+    "name": "\"Sorrow Bender\" Long Sword of Anger +1",
+    "amount": 75
+   },
+   "id": "252006",
+   "rank": 252007,
+   "score": 0.5067916894623203
+  },
+  {
+   "chest": {
+    "name": "\"Eagle Bender\" Demon Husk of Anger +1",
+    "amount": 8
+   },
+   "foot": {
+    "name": "\"Death Tear\" Divine Slippers of Rage",
+    "amount": 22
+   },
+   "hand": {
+    "name": "\"Gloom Bender\" Silk Gloves of Enlightenment +1",
+    "amount": 9
+   },
+   "head": {
+    "name": "Leather Cap of Reflection",
+    "amount": 791
+   },
+   "neck": {
+    "name": "\"Sorrow Bender\" Pendant of Anger +1",
+    "amount": 59
+   },
+   "ring": {
+    "name": "Silver Ring",
+    "amount": 186690
+   },
+   "waist": {
+    "name": "Linen Sash",
+    "amount": 62344
+   },
+   "weapon": {
+    "name": "Book of Rage",
+    "amount": 1319
+   },
+   "id": "252394",
+   "rank": 252395,
+   "score": 0.4933103803573995
+  },
+  {
+   "chest": {
+    "name": "Leather Armor of Perfection",
+    "amount": 1546
+   },
+   "foot": {
+    "name": "Demonhide Boots",
+    "amount": 62426
+   },
+   "hand": {
+    "name": "Heavy Gloves",
+    "amount": 62414
+   },
+   "head": {
+    "name": "\"Foe Bender\" Great Helm of Anger +1",
+    "amount": 13
+   },
+   "neck": {
+    "name": "\"Mind Bender\" Pendant of the Fox +1",
+    "amount": 60
+   },
+   "ring": {
+    "name": "Titanium Ring of Fury",
+    "amount": 3265
+   },
+   "waist": {
+    "name": "Heavy Belt",
+    "amount": 62230
+   },
+   "weapon": {
+    "name": "\"Eagle Bender\" Long Sword of Titans +1",
+    "amount": 55
+   },
+   "id": "261505",
+   "rank": 261506,
+   "score": 0.1408435373697333
+  },
+  {
+   "chest": {
+    "name": "Dragonskin Armor",
+    "amount": 62142
+   },
+   "foot": {
+    "name": "Demonhide Boots",
+    "amount": 62426
+   },
+   "hand": {
+    "name": "Heavy Gloves of Fury",
+    "amount": 783
+   },
+   "head": {
+    "name": "Ancient Helm of Perfection",
+    "amount": 1612
+   },
+   "neck": {
+    "name": "\"Foe Bender\" Pendant of Anger +1",
+    "amount": 60
+   },
+   "ring": {
+    "name": "Bronze Ring",
+    "amount": 187470
+   },
+   "waist": {
+    "name": "\"Mind Bender\" Sash of Fury +1",
+    "amount": 15
+   },
+   "weapon": {
+    "name": "\"Brimstone Bender\" Long Sword of Power +1",
+    "amount": 70
+   },
+   "id": "296580",
+   "rank": 296581,
+   "score": 1.3720448384963881
+  },
+  {
+   "chest": {
+    "name": "Linen Robe",
+    "amount": 62053
+   },
+   "foot": {
+    "name": "\"Morbid Sun\" Divine Slippers of Reflection",
+    "amount": 6
+   },
+   "hand": {
+    "name": "Leather Gloves",
+    "amount": 62470
+   },
+   "head": {
+    "name": "Linen Hood",
+    "amount": 61943
+   },
+   "neck": {
+    "name": "\"Demon Bender\" Pendant of Titans +1",
+    "amount": 46
+   },
+   "ring": {
+    "name": "\"Corruption Bender\" Platinum Ring of Enlightenment +1",
+    "amount": 13
+   },
+   "waist": {
+    "name": "\"Kraken Bender\" Plated Belt of Power +1",
+    "amount": 16
+   },
+   "weapon": {
+    "name": "Bone Wand",
+    "amount": 52233
+   },
+   "id": "307367",
+   "rank": 307368,
+   "score": 1.5865631460155454
+  },
+  {
+   "chest": {
+    "name": "Ornate Chestplate",
+    "amount": 62259
+   },
+   "foot": {
+    "name": "\"Skull Bender\" Hard Leather Boots of Reflection +1",
+    "amount": 15
+   },
+   "hand": {
+    "name": "Dragonskin Gloves",
+    "amount": 62887
+   },
+   "head": {
+    "name": "War Cap",
+    "amount": 62588
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "\"Cataclysm Bender\" Silver Ring of Fury +1",
+    "amount": 6
+   },
+   "waist": {
+    "name": "Sash",
+    "amount": 62168
+   },
+   "weapon": {
+    "name": "\"Dread Bender\" Long Sword of Enlightenment +1",
+    "amount": 55
+   },
+   "id": "308412",
+   "rank": 308413,
+   "score": 1.6060228700809422
+  },
+  {
+   "chest": {
+    "name": "Studded Leather Armor of Enlightenment",
+    "amount": 775
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "\"Rage Bender\" Gauntlets of Perfection +1",
+    "amount": 8
+   },
+   "head": {
+    "name": "Great Helm",
+    "amount": 62602
+   },
+   "neck": {
+    "name": "Necklace of Skill",
+    "amount": 7728
+   },
+   "ring": {
+    "name": "\"Cataclysm Bender\" Titanium Ring of Perfection +1",
+    "amount": 9
+   },
+   "waist": {
+    "name": "\"Demon Bender\" Demonhide Belt of Enlightenment +1",
+    "amount": 14
+   },
+   "weapon": {
+    "name": "\"Kraken Bender\" Long Sword of Fury +1",
+    "amount": 49
+   },
+   "id": "312003",
+   "rank": 312004,
+   "score": 1.655146863518625
+  },
+  {
+   "chest": {
+    "name": "\"Eagle Bender\" Hard Leather Armor of Reflection +1",
+    "amount": 12
+   },
+   "foot": {
+    "name": "Greaves",
+    "amount": 62299
+   },
+   "hand": {
+    "name": "Wool Gloves",
+    "amount": 62242
+   },
+   "head": {
+    "name": "Leather Cap",
+    "amount": 62416
+   },
+   "neck": {
+    "name": "\"Victory Bender\" Pendant of the Fox +1",
+    "amount": 67
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "\"Brimstone Bender\" Hard Leather Belt of the Fox +1",
+    "amount": 9
+   },
+   "weapon": {
+    "name": "Chronicle",
+    "amount": 52313
+   },
+   "id": "320683",
+   "rank": 320684,
+   "score": 1.7685703520350096
+  },
+  {
+   "chest": {
+    "name": "\"Oblivion Bender\" Ornate Chestplate of Enlightenment +1",
+    "amount": 9
+   },
+   "foot": {
+    "name": "\"Foe Bender\" Hard Leather Boots of Fury +1",
+    "amount": 12
+   },
+   "hand": {
+    "name": "Leather Gloves",
+    "amount": 62470
+   },
+   "head": {
+    "name": "Hood",
+    "amount": 61808
+   },
+   "neck": {
+    "name": "Necklace of Enlightenment",
+    "amount": 7757
+   },
+   "ring": {
+    "name": "\"Dragon Glow\" Bronze Ring of Skill",
+    "amount": 13
+   },
+   "waist": {
+    "name": "Ornate Belt of Detection",
+    "amount": 1551
+   },
+   "weapon": {
+    "name": "\"Foe Bender\" Long Sword of Anger +1",
+    "amount": 69
+   },
+   "id": "367596",
+   "rank": 367597,
+   "score": 2.3127452240161257
+  },
+  {
+   "chest": {
+    "name": "\"Fate Roar\" Holy Chestplate of Perfection",
+    "amount": 15
+   },
+   "foot": {
+    "name": "Chain Boots",
+    "amount": 61921
+   },
+   "hand": {
+    "name": "\"Shimmering Bender\" Gloves of Perfection +1",
+    "amount": 8
+   },
+   "head": {
+    "name": "Silk Hood",
+    "amount": 62382
+   },
+   "neck": {
+    "name": "\"Corruption Grasp\" Pendant of Vitriol +1",
+    "amount": 61
+   },
+   "ring": {
+    "name": "\"Armageddon Bender\" Platinum Ring of the Fox +1",
+    "amount": 13
+   },
+   "waist": {
+    "name": "\"Skull Bender\" Demonhide Belt of Fury +1",
+    "amount": 11
+   },
+   "weapon": {
+    "name": "Tome of Power",
+    "amount": 1333
+   },
+   "id": "394187",
+   "rank": 394188,
+   "score": 2.60592095695378
+  },
+  {
+   "chest": {
+    "name": "\"Foe Bender\" Ornate Chestplate of Enlightenment +1",
+    "amount": 8
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "\"Rage Bender\" Silk Gloves of Reflection +1",
+    "amount": 16
+   },
+   "head": {
+    "name": "Hood",
+    "amount": 61808
+   },
+   "neck": {
+    "name": "\"Shimmering Bender\" Pendant of Fury +1",
+    "amount": 59
+   },
+   "ring": {
+    "name": "Gold Ring",
+    "amount": 186792
+   },
+   "waist": {
+    "name": "Sash",
+    "amount": 62168
+   },
+   "weapon": {
+    "name": "Chronicle",
+    "amount": 52313
+   },
+   "id": "403687",
+   "rank": 403688,
+   "score": 2.74924314196388
+  },
+  {
+   "chest": {
+    "name": "\"Behemoth Roar\" Shirt of Titans",
+    "amount": 12
+   },
+   "foot": {
+    "name": "\"Shimmering Bender\" Greaves of Enlightenment +1",
+    "amount": 11
+   },
+   "hand": {
+    "name": "Gloves",
+    "amount": 62312
+   },
+   "head": {
+    "name": "Ornate Helm of Enlightenment",
+    "amount": 777
+   },
+   "neck": {
+    "name": "\"Grim Bender\" Pendant of the Fox +1",
+    "amount": 57
+   },
+   "ring": {
+    "name": "\"Dread Bender\" Platinum Ring of Power +1",
+    "amount": 10
+   },
+   "waist": {
+    "name": "\"Shimmering Bite\" Plated Belt of Titans +1",
+    "amount": 12
+   },
+   "weapon": {
+    "name": "\"Maelstrom Roar\" Club of Anger",
+    "amount": 62
+   },
+   "id": "495094",
+   "rank": 495095,
+   "score": 4.982362626679803
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "\"Demon Bender\" Silk Slippers of Anger +1",
+    "amount": 7
+   },
+   "hand": {
+    "name": "\"Armageddon Bender\" Gloves of Titans +1",
+    "amount": 19
+   },
+   "head": {
+    "name": "Ornate Helm",
+    "amount": 62153
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "\"Skull Bender\" Gold Ring of the Fox +1",
+    "amount": 10
+   },
+   "waist": {
+    "name": "War Belt",
+    "amount": 61681
+   },
+   "weapon": {
+    "name": "Grave Wand",
+    "amount": 51741
+   },
+   "id": "521630",
+   "rank": 521631,
+   "score": 5.813200839825718
+  },
+  {
+   "chest": {
+    "name": "\"Pandemonium Bender\" Demon Husk of Anger +1",
+    "amount": 15
+   },
+   "foot": {
+    "name": "Ornate Greaves",
+    "amount": 61952
+   },
+   "hand": {
+    "name": "Silk Gloves",
+    "amount": 62222
+   },
+   "head": {
+    "name": "\"Victory Bender\" Demon Crown of Power +1",
+    "amount": 10
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "Silver Ring",
+    "amount": 186690
+   },
+   "waist": {
+    "name": "Heavy Belt of Titans",
+    "amount": 784
+   },
+   "weapon": {
+    "name": "\"Armageddon Bender\" Long Sword of Fury +1",
+    "amount": 50
+   },
+   "id": "524392",
+   "rank": 524393,
+   "score": 5.838011892941481
+  },
+  {
+   "chest": {
+    "name": "Ornate Chestplate of Power",
+    "amount": 790
+   },
+   "foot": {
+    "name": "Chain Boots",
+    "amount": 61921
+   },
+   "hand": {
+    "name": "\"Sorrow Bender\" Demon's Hands of Power +1",
+    "amount": 13
+   },
+   "head": {
+    "name": "Ancient Helm",
+    "amount": 62185
+   },
+   "neck": {
+    "name": "\"Sorrow Bender\" Pendant of the Fox +1",
+    "amount": 58
+   },
+   "ring": {
+    "name": "\"Corruption Bender\" Platinum Ring of Fury +1",
+    "amount": 10
+   },
+   "waist": {
+    "name": "Studded Leather Belt",
+    "amount": 62339
+   },
+   "weapon": {
+    "name": "Club",
+    "amount": 51852
+   },
+   "id": "567708",
+   "rank": 567709,
+   "score": 6.199978369927942
+  },
+  {
+   "chest": {
+    "name": "Plate Mail",
+    "amount": 61716
+   },
+   "foot": {
+    "name": "\"Tempest Bender\" Shoes of Fury +1",
+    "amount": 10
+   },
+   "hand": {
+    "name": "Holy Gauntlets",
+    "amount": 62555
+   },
+   "head": {
+    "name": "\"Dread Bender\" Great Helm of Perfection +1",
+    "amount": 14
+   },
+   "neck": {
+    "name": "Pendant of Detection",
+    "amount": 3974
+   },
+   "ring": {
+    "name": "Gold Ring",
+    "amount": 186792
+   },
+   "waist": {
+    "name": "Plated Belt",
+    "amount": 62572
+   },
+   "weapon": {
+    "name": "\"Eagle Bender\" Long Sword of Perfection +1",
+    "amount": 55
+   },
+   "id": "584710",
+   "rank": 584711,
+   "score": 6.382382312843779
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "Divine Slippers of Vitriol",
+    "amount": 798
+   },
+   "hand": {
+    "name": "\"Gloom Bender\" Demon's Hands of Titans +1",
+    "amount": 9
+   },
+   "head": {
+    "name": "Ornate Helm of Rage",
+    "amount": 798
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "\"Cataclysm Bender\" Titanium Ring of Anger +1",
+    "amount": 11
+   },
+   "waist": {
+    "name": "\"Sorrow Bender\" Plated Belt of Anger +1",
+    "amount": 8
+   },
+   "weapon": {
+    "name": "Quarterstaff",
+    "amount": 51520
+   },
+   "id": "590741",
+   "rank": 590742,
+   "score": 6.42836909415987
+  },
+  {
+   "chest": {
+    "name": "Holy Chestplate",
+    "amount": 62395
+   },
+   "foot": {
+    "name": "\"Cataclysm Bender\" Shoes of Power +1",
+    "amount": 14
+   },
+   "hand": {
+    "name": "Heavy Gloves",
+    "amount": 62414
+   },
+   "head": {
+    "name": "\"Victory Bender\" Great Helm of Reflection +1",
+    "amount": 8
+   },
+   "neck": {
+    "name": "\"Honour Bender\" Pendant of Fury +1",
+    "amount": 54
+   },
+   "ring": {
+    "name": "Platinum Ring",
+    "amount": 186857
+   },
+   "waist": {
+    "name": "Dragonskin Belt",
+    "amount": 62229
+   },
+   "weapon": {
+    "name": "Maul",
+    "amount": 52022
+   },
+   "id": "608802",
+   "rank": 608803,
+   "score": 6.5234748514686824
+  },
+  {
+   "chest": {
+    "name": "\"Pandemonium Bender\" Demon Husk of Perfection +1",
+    "amount": 16
+   },
+   "foot": {
+    "name": "\"Shimmering Bender\" Silk Slippers of Titans +1",
+    "amount": 6
+   },
+   "hand": {
+    "name": "Heavy Gloves",
+    "amount": 62414
+   },
+   "head": {
+    "name": "Great Helm",
+    "amount": 62602
+   },
+   "neck": {
+    "name": "\"Oblivion Bender\" Pendant of the Fox +1",
+    "amount": 61
+   },
+   "ring": {
+    "name": "Platinum Ring",
+    "amount": 186857
+   },
+   "waist": {
+    "name": "\"Armageddon Bite\" Demonhide Belt of Fury +1",
+    "amount": 9
+   },
+   "weapon": {
+    "name": "\"Light's Tear\" Wand of Brilliance",
+    "amount": 39
+   },
+   "id": "684910",
+   "rank": 684911,
+   "score": 7.178323084013233
+  },
+  {
+   "chest": {
+    "name": "\"Foe Bender\" Hard Leather Armor of Enlightenment +1",
+    "amount": 18
+   },
+   "foot": {
+    "name": "\"Woe Bender\" Greaves of Fury +1",
+    "amount": 16
+   },
+   "hand": {
+    "name": "Holy Gauntlets",
+    "amount": 62555
+   },
+   "head": {
+    "name": "\"Woe Peak\" Demon Crown of the Fox +1",
+    "amount": 13
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "\"Fate Tear\" Bronze Ring of Giants",
+    "amount": 12
+   },
+   "waist": {
+    "name": "War Belt",
+    "amount": 61681
+   },
+   "weapon": {
+    "name": "\"Foe Bender\" Long Sword of Anger +1",
+    "amount": 69
+   },
+   "id": "690457",
+   "rank": 690458,
+   "score": 7.205403634753477
+  },
+  {
+   "chest": {
+    "name": "Linen Robe",
+    "amount": 62053
+   },
+   "foot": {
+    "name": "Hard Leather Boots",
+    "amount": 62418
+   },
+   "hand": {
+    "name": "\"Victory Bender\" Silk Gloves of Enlightenment +1",
+    "amount": 16
+   },
+   "head": {
+    "name": "\"Rage Bender\" Hood of Power +1",
+    "amount": 11
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "Ornate Belt of Detection",
+    "amount": 1551
+   },
+   "weapon": {
+    "name": "\"Victory Bender\" Long Sword of Enlightenment +1",
+    "amount": 61
+   },
+   "id": "698879",
+   "rank": 698880,
+   "score": 7.269384274856904
+  },
+  {
+   "chest": {
+    "name": "\"Oblivion Bender\" Ring Mail of Perfection +1",
+    "amount": 9
+   },
+   "foot": {
+    "name": "Leather Boots of Reflection",
+    "amount": 1501
+   },
+   "hand": {
+    "name": "Studded Leather Gloves of the Fox",
+    "amount": 747
+   },
+   "head": {
+    "name": "\"Foe Bender\" Divine Hood of the Fox +1",
+    "amount": 12
+   },
+   "neck": {
+    "name": "\"Carrion Tear\" Amulet of Rage",
+    "amount": 52
+   },
+   "ring": {
+    "name": "Bronze Ring",
+    "amount": 187470
+   },
+   "waist": {
+    "name": "Leather Belt",
+    "amount": 62008
+   },
+   "weapon": {
+    "name": "\"Armageddon Bender\" Long Sword of Perfection +1",
+    "amount": 59
+   },
+   "id": "765136",
+   "rank": 765137,
+   "score": 9.283910800786643
+  },
+  {
+   "chest": {
+    "name": "Leather Armor",
+    "amount": 62110
+   },
+   "foot": {
+    "name": "Shoes",
+    "amount": 61931
+   },
+   "hand": {
+    "name": "\"Tempest Bender\" Gloves of Anger +1",
+    "amount": 17
+   },
+   "head": {
+    "name": "\"Foe Bender\" Hood of Enlightenment +1",
+    "amount": 11
+   },
+   "neck": {
+    "name": "\"Mind Bender\" Pendant of Power +1",
+    "amount": 51
+   },
+   "ring": {
+    "name": "Silver Ring",
+    "amount": 186690
+   },
+   "waist": {
+    "name": "Hard Leather Belt",
+    "amount": 61900
+   },
+   "weapon": {
+    "name": "Tome",
+    "amount": 51986
+   },
+   "id": "768410",
+   "rank": 768411,
+   "score": 9.451615822561797
+  },
+  {
+   "chest": {
+    "name": "Ring Mail",
+    "amount": 61913
+   },
+   "foot": {
+    "name": "\"Grim Bender\" Greaves of Enlightenment +1",
+    "amount": 11
+   },
+   "hand": {
+    "name": "Heavy Gloves",
+    "amount": 62414
+   },
+   "head": {
+    "name": "Linen Hood",
+    "amount": 61943
+   },
+   "neck": {
+    "name": "\"Corruption Bender\" Pendant of Enlightenment +1",
+    "amount": 41
+   },
+   "ring": {
+    "name": "\"Corruption Bender\" Gold Ring of Fury +1",
+    "amount": 11
+   },
+   "waist": {
+    "name": "Wool Sash",
+    "amount": 62437
+   },
+   "weapon": {
+    "name": "Grave Wand",
+    "amount": 51741
+   },
+   "id": "800502",
+   "rank": 800503,
+   "score": 10.194156420461987
+  },
+  {
+   "chest": {
+    "name": "Leather Armor",
+    "amount": 62110
+   },
+   "foot": {
+    "name": "Linen Shoes",
+    "amount": 62473
+   },
+   "hand": {
+    "name": "\"Woe Bender\" Silk Gloves of Fury +1",
+    "amount": 16
+   },
+   "head": {
+    "name": "\"Woe Bender\" Divine Hood of Enlightenment +1",
+    "amount": 9
+   },
+   "neck": {
+    "name": "Amulet of the Fox",
+    "amount": 3891
+   },
+   "ring": {
+    "name": "Platinum Ring",
+    "amount": 186857
+   },
+   "waist": {
+    "name": "\"Armageddon Bender\" Sash of Reflection +1",
+    "amount": 9
+   },
+   "weapon": {
+    "name": "Grimoire of the Fox",
+    "amount": 1357
+   },
+   "id": "825901",
+   "rank": 825902,
+   "score": 10.331484197235723
+  },
+  {
+   "chest": {
+    "name": "\"Brimstone Bender\" Ring Mail of Titans +1",
+    "amount": 16
+   },
+   "foot": {
+    "name": "Studded Leather Boots",
+    "amount": 62503
+   },
+   "hand": {
+    "name": "\"Brimstone Bender\" Demon's Hands of Enlightenment +1",
+    "amount": 9
+   },
+   "head": {
+    "name": "Full Helm",
+    "amount": 62416
+   },
+   "neck": {
+    "name": "\"Tempest Bender\" Pendant of Perfection +1",
+    "amount": 61
+   },
+   "ring": {
+    "name": "Gold Ring",
+    "amount": 186792
+   },
+   "waist": {
+    "name": "Leather Belt of Skill",
+    "amount": 1569
+   },
+   "weapon": {
+    "name": "Short Sword of Protection",
+    "amount": 2686
+   },
+   "id": "837575",
+   "rank": 837576,
+   "score": 10.414933983495859
+  },
+  {
+   "chest": {
+    "name": "\"Foe Bender\" Ring Mail of Reflection +1",
+    "amount": 8
+   },
+   "foot": {
+    "name": "\"Victory Bender\" Hard Leather Boots of Power +1",
+    "amount": 9
+   },
+   "hand": {
+    "name": "Silk Gloves",
+    "amount": 62222
+   },
+   "head": {
+    "name": "Hood",
+    "amount": 61808
+   },
+   "neck": {
+    "name": "\"Skull Bender\" Pendant of Fury +1",
+    "amount": 57
+   },
+   "ring": {
+    "name": "Bronze Ring",
+    "amount": 187470
+   },
+   "waist": {
+    "name": "Demonhide Belt",
+    "amount": 62112
+   },
+   "weapon": {
+    "name": "Tome",
+    "amount": 51986
+   },
+   "id": "856916",
+   "rank": 856917,
+   "score": 10.483375197593631
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "\"Foe Bender\" Hard Leather Gloves of the Fox +1",
+    "amount": 16
+   },
+   "head": {
+    "name": "\"Pandemonium Bender\" Leather Cap of Power +1",
+    "amount": 8
+   },
+   "neck": {
+    "name": "\"Rage Bender\" Pendant of Fury +1",
+    "amount": 44
+   },
+   "ring": {
+    "name": "Bronze Ring",
+    "amount": 187470
+   },
+   "waist": {
+    "name": "Brightsilk Sash",
+    "amount": 62838
+   },
+   "weapon": {
+    "name": "Bone Wand",
+    "amount": 52233
+   },
+   "id": "960395",
+   "rank": 960396,
+   "score": 11.1949600854666
+  },
+  {
+   "chest": {
+    "name": "Robe",
+    "amount": 62433
+   },
+   "foot": {
+    "name": "Wool Shoes of Perfection",
+    "amount": 1527
+   },
+   "hand": {
+    "name": "\"Foe Bender\" Demon's Hands of the Fox +1",
+    "amount": 12
+   },
+   "head": {
+    "name": "Ornate Helm",
+    "amount": 62153
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "Bronze Ring",
+    "amount": 187470
+   },
+   "waist": {
+    "name": "\"Gloom Bender\" Demonhide Belt of Perfection +1",
+    "amount": 10
+   },
+   "weapon": {
+    "name": "\"Armageddon Bender\" Long Sword of Perfection +1",
+    "amount": 59
+   },
+   "id": "988769",
+   "rank": 988770,
+   "score": 11.5776151551058
+  },
+  {
+   "chest": {
+    "name": "Hard Leather Armor",
+    "amount": 62329
+   },
+   "foot": {
+    "name": "\"Skull Bender\" Greaves of Power +1",
+    "amount": 9
+   },
+   "hand": {
+    "name": "Linen Gloves",
+    "amount": 61997
+   },
+   "head": {
+    "name": "\"Corpse Whisper\" War Cap of Fury",
+    "amount": 15
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "\"Blight Bender\" Gold Ring of Titans +1",
+    "amount": 7
+   },
+   "waist": {
+    "name": "\"Oblivion Bender\" Demonhide Belt of the Fox +1",
+    "amount": 13
+   },
+   "weapon": {
+    "name": "Chronicle",
+    "amount": 52313
+   },
+   "id": "996140",
+   "rank": 996141,
+   "score": 11.596151029438694
+  },
+  {
+   "chest": {
+    "name": "\"Armageddon Shout\" Ring Mail of Protection +1",
+    "amount": 5
+   },
+   "foot": {
+    "name": "\"Brimstone Bender\" Hard Leather Boots of Perfection +1",
+    "amount": 9
+   },
+   "hand": {
+    "name": "Demon's Hands",
+    "amount": 61901
+   },
+   "head": {
+    "name": "Leather Cap of Giants",
+    "amount": 818
+   },
+   "neck": {
+    "name": "\"Eagle Bender\" Pendant of the Fox +1",
+    "amount": 72
+   },
+   "ring": {
+    "name": "\"Skull Bender\" Gold Ring of the Fox +1",
+    "amount": 10
+   },
+   "waist": {
+    "name": "Hard Leather Belt",
+    "amount": 61900
+   },
+   "weapon": {
+    "name": "Short Sword",
+    "amount": 52117
+   },
+   "id": "1173275",
+   "rank": 1173276,
+   "score": 15.261415706203078
+  },
+  {
+   "chest": {
+    "name": "\"Cataclysm Bender\" Demon Husk of Power +1",
+    "amount": 9
+   },
+   "foot": {
+    "name": "\"Corruption Bender\" Greaves of Fury +1",
+    "amount": 10
+   },
+   "hand": {
+    "name": "Dragonskin Gloves of Titans",
+    "amount": 1503
+   },
+   "head": {
+    "name": "Helm",
+    "amount": 61904
+   },
+   "neck": {
+    "name": "\"Ghoul Root\" Amulet of Skill",
+    "amount": 56
+   },
+   "ring": {
+    "name": "Gold Ring",
+    "amount": 186792
+   },
+   "waist": {
+    "name": "Heavy Belt",
+    "amount": 62230
+   },
+   "weapon": {
+    "name": "\"Kraken Bender\" Long Sword of Power +1",
+    "amount": 60
+   },
+   "id": "1177946",
+   "rank": 1177947,
+   "score": 15.265388973525667
+  },
+  {
+   "chest": {
+    "name": "\"Dusk Sun\" Chain Mail of Fury",
+    "amount": 11
+   },
+   "foot": {
+    "name": "\"Blight Shout\" Silk Slippers of Detection +1",
+    "amount": 14
+   },
+   "hand": {
+    "name": "\"Victory Bender\" Demon's Hands of the Fox +1",
+    "amount": 9
+   },
+   "head": {
+    "name": "Ancient Helm of Enlightenment",
+    "amount": 1533
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "\"Tempest Bender\" Platinum Ring of the Fox +1",
+    "amount": 11
+   },
+   "waist": {
+    "name": "Dragonskin Belt",
+    "amount": 62229
+   },
+   "weapon": {
+    "name": "\"Eagle Bender\" Long Sword of Fury +1",
+    "amount": 67
+   },
+   "id": "1194268",
+   "rank": 1194269,
+   "score": 15.28297936962708
+  },
+  {
+   "chest": {
+    "name": "\"Woe Bender\" Ring Mail of the Fox +1",
+    "amount": 6
+   },
+   "foot": {
+    "name": "Studded Leather Boots",
+    "amount": 62503
+   },
+   "hand": {
+    "name": "Gloves of Giants",
+    "amount": 802
+   },
+   "head": {
+    "name": "\"Grim Bender\" Demon Crown of Power +1",
+    "amount": 11
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "Platinum Ring",
+    "amount": 186857
+   },
+   "waist": {
+    "name": "\"Cataclysm Bender\" Hard Leather Belt of Reflection +1",
+    "amount": 13
+   },
+   "weapon": {
+    "name": "\"Cataclysm Shout\" Grave Wand of Skill +1",
+    "amount": 61
+   },
+   "id": "1232472",
+   "rank": 1232473,
+   "score": 18.930662290901317
+  },
+  {
+   "chest": {
+    "name": "\"Woe Shout\" Ring Mail of Detection +1",
+    "amount": 12
+   },
+   "foot": {
+    "name": "Chain Boots of the Fox",
+    "amount": 1594
+   },
+   "hand": {
+    "name": "\"Foe Bender\" Demon's Hands of Power +1",
+    "amount": 14
+   },
+   "head": {
+    "name": "Crown",
+    "amount": 62044
+   },
+   "neck": {
+    "name": "\"Oblivion Bender\" Pendant of Perfection +1",
+    "amount": 56
+   },
+   "ring": {
+    "name": "\"Corruption Bender\" Silver Ring of Fury +1",
+    "amount": 13
+   },
+   "waist": {
+    "name": "Leather Belt",
+    "amount": 62008
+   },
+   "weapon": {
+    "name": "Wand",
+    "amount": 51899
+   },
+   "id": "1267618",
+   "rank": 1267619,
+   "score": 18.94308702717243
+  },
+  {
+   "chest": {
+    "name": "Demon Husk",
+    "amount": 62174
+   },
+   "foot": {
+    "name": "Chain Boots of the Twins",
+    "amount": 1616
+   },
+   "hand": {
+    "name": "Chain Gloves of Anger",
+    "amount": 1638
+   },
+   "head": {
+    "name": "\"Tempest Bender\" Hood of the Fox +1",
+    "amount": 12
+   },
+   "neck": {
+    "name": "\"Cataclysm Bender\" Pendant of Titans +1",
+    "amount": 53
+   },
+   "ring": {
+    "name": "\"Kraken Bender\" Titanium Ring of Enlightenment +1",
+    "amount": 10
+   },
+   "waist": {
+    "name": "Hard Leather Belt",
+    "amount": 61900
+   },
+   "weapon": {
+    "name": "Long Sword",
+    "amount": 51823
+   },
+   "id": "1270262",
+   "rank": 1270263,
+   "score": 18.943888878020676
+  }
+ ]
+}

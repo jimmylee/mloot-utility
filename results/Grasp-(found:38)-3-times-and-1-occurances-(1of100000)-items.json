@@ -1,0 +1,1450 @@
+{
+ "ids": [
+  "35193",
+  "35835",
+  "120724",
+  "145682",
+  "179597",
+  "223486",
+  "240915",
+  "259944",
+  "261645",
+  "299365",
+  "331524",
+  "344796",
+  "407331",
+  "449088",
+  "450976",
+  "454730",
+  "548048",
+  "624196",
+  "755665",
+  "755768",
+  "782667",
+  "842673",
+  "907167",
+  "926703",
+  "937459",
+  "965077",
+  "971258",
+  "1014560",
+  "1015346",
+  "1079723",
+  "1105696",
+  "1116190",
+  "1128082",
+  "1156620",
+  "1166256",
+  "1179511",
+  "1230967",
+  "1263237"
+ ],
+ "search": [
+  {
+   "chest": {
+    "name": "\"Gloom Grasp\" Linen Robe of Protection +1",
+    "amount": 10
+   },
+   "foot": {
+    "name": "Linen Shoes",
+    "amount": 62473
+   },
+   "hand": {
+    "name": "Silk Gloves",
+    "amount": 62222
+   },
+   "head": {
+    "name": "\"Gloom Grasp\" Great Helm of Rage +1",
+    "amount": 12
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "Dragonskin Belt",
+    "amount": 62229
+   },
+   "weapon": {
+    "name": "\"Pandemonium Grasp\" Katana of Protection +1",
+    "amount": 48
+   },
+   "id": "35193",
+   "rank": 35194,
+   "score": 10.375050916730048
+  },
+  {
+   "chest": {
+    "name": "\"Gloom Grasp\" Ring Mail of the Twins +1",
+    "amount": 12
+   },
+   "foot": {
+    "name": "Wool Shoes",
+    "amount": 62048
+   },
+   "hand": {
+    "name": "Chain Gloves of the Fox",
+    "amount": 1486
+   },
+   "head": {
+    "name": "\"Eagle Grasp\" Demon Crown of Detection +1",
+    "amount": 20
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Gold Ring",
+    "amount": 186792
+   },
+   "waist": {
+    "name": "\"Pandemonium Grasp\" Silk Sash of Rage +1",
+    "amount": 14
+   },
+   "weapon": {
+    "name": "\"Bramble Sun\" Tome of the Fox",
+    "amount": 68
+   },
+   "id": "35835",
+   "rank": 35836,
+   "score": 10.313556499052508
+  },
+  {
+   "chest": {
+    "name": "Ring Mail",
+    "amount": 61913
+   },
+   "foot": {
+    "name": "Hard Leather Boots",
+    "amount": 62418
+   },
+   "hand": {
+    "name": "Divine Gloves",
+    "amount": 62363
+   },
+   "head": {
+    "name": "\"Eagle Grasp\" Demon Crown of the Twins +1",
+    "amount": 12
+   },
+   "neck": {
+    "name": "\"Brimstone Grasp\" Pendant of Giants +1",
+    "amount": 51
+   },
+   "ring": {
+    "name": "Bronze Ring",
+    "amount": 187470
+   },
+   "waist": {
+    "name": "\"Corruption Grasp\" Sash of Skill +1",
+    "amount": 13
+   },
+   "weapon": {
+    "name": "Warhammer",
+    "amount": 51760
+   },
+   "id": "120724",
+   "rank": 120725,
+   "score": 4.680172129582235
+  },
+  {
+   "chest": {
+    "name": "\"Shimmering Grasp\" Demon Husk of Giants +1",
+    "amount": 9
+   },
+   "foot": {
+    "name": "Leather Boots",
+    "amount": 62297
+   },
+   "hand": {
+    "name": "Holy Gauntlets of Enlightenment",
+    "amount": 1601
+   },
+   "head": {
+    "name": "\"Armageddon Grasp\" Demon Crown of Vitriol +1",
+    "amount": 8
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "Gold Ring",
+    "amount": 186792
+   },
+   "waist": {
+    "name": "\"Foe Grasp\" Silk Sash of Vitriol +1",
+    "amount": 13
+   },
+   "weapon": {
+    "name": "Mace of Giants",
+    "amount": 2610
+   },
+   "id": "145682",
+   "rank": 145683,
+   "score": 3.0546236831037277
+  },
+  {
+   "chest": {
+    "name": "Robe",
+    "amount": 62433
+   },
+   "foot": {
+    "name": "Silk Slippers of the Fox",
+    "amount": 757
+   },
+   "hand": {
+    "name": "\"Foe Grasp\" Gauntlets of Protection +1",
+    "amount": 14
+   },
+   "head": {
+    "name": "Linen Hood",
+    "amount": 61943
+   },
+   "neck": {
+    "name": "\"Gloom Grasp\" Pendant of Rage +1",
+    "amount": 50
+   },
+   "ring": {
+    "name": "Gold Ring",
+    "amount": 186792
+   },
+   "waist": {
+    "name": "Studded Leather Belt of Titans",
+    "amount": 773
+   },
+   "weapon": {
+    "name": "\"Brimstone Grasp\" Katana of Detection +1",
+    "amount": 63
+   },
+   "id": "179597",
+   "rank": 179598,
+   "score": 2.1581852586919017
+  },
+  {
+   "chest": {
+    "name": "\"Victory Grasp\" Demon Husk of Giants +1",
+    "amount": 19
+   },
+   "foot": {
+    "name": "Demonhide Boots",
+    "amount": 62426
+   },
+   "hand": {
+    "name": "Heavy Gloves",
+    "amount": 62414
+   },
+   "head": {
+    "name": "Full Helm",
+    "amount": 62416
+   },
+   "neck": {
+    "name": "\"Woe Grasp\" Pendant of Protection +1",
+    "amount": 54
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "Wool Sash",
+    "amount": 62437
+   },
+   "weapon": {
+    "name": "\"Honour Grasp\" Katana of Brilliance +1",
+    "amount": 55
+   },
+   "id": "223486",
+   "rank": 223487,
+   "score": 1.2626178671933084
+  },
+  {
+   "chest": {
+    "name": "\"Hypnotic Tear\" Holy Chestplate of Vitriol",
+    "amount": 16
+   },
+   "foot": {
+    "name": "\"Ghoul Tear\" Studded Leather Boots of the Twins",
+    "amount": 17
+   },
+   "hand": {
+    "name": "Leather Gloves",
+    "amount": 62470
+   },
+   "head": {
+    "name": "Great Helm",
+    "amount": 62602
+   },
+   "neck": {
+    "name": "\"Honour Grasp\" Pendant of Detection +1",
+    "amount": 63
+   },
+   "ring": {
+    "name": "\"Oblivion Grasp\" Platinum Ring of Rage +1",
+    "amount": 15
+   },
+   "waist": {
+    "name": "\"Eagle Grasp\" Plated Belt of Brilliance +1",
+    "amount": 10
+   },
+   "weapon": {
+    "name": "Ghost Wand",
+    "amount": 51900
+   },
+   "id": "240915",
+   "rank": 240916,
+   "score": 0.8159188488209457
+  },
+  {
+   "chest": {
+    "name": "\"Armageddon Grasp\" Ring Mail of the Twins +1",
+    "amount": 5
+   },
+   "foot": {
+    "name": "Chain Boots",
+    "amount": 61921
+   },
+   "hand": {
+    "name": "\"Foe Grasp\" Hard Leather Gloves of Vitriol +1",
+    "amount": 14
+   },
+   "head": {
+    "name": "Silk Hood",
+    "amount": 62382
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "Platinum Ring",
+    "amount": 186857
+   },
+   "waist": {
+    "name": "\"Corpse Sun\" Studded Leather Belt of Anger",
+    "amount": 2
+   },
+   "weapon": {
+    "name": "\"Dread Grasp\" Katana of Rage +1",
+    "amount": 59
+   },
+   "id": "259944",
+   "rank": 259945,
+   "score": 0.19924564425820346
+  },
+  {
+   "chest": {
+    "name": "Dragonskin Armor",
+    "amount": 62142
+   },
+   "foot": {
+    "name": "Linen Shoes of the Fox",
+    "amount": 756
+   },
+   "hand": {
+    "name": "Heavy Gloves",
+    "amount": 62414
+   },
+   "head": {
+    "name": "Linen Hood",
+    "amount": 61943
+   },
+   "neck": {
+    "name": "\"Dread Grasp\" Pendant of the Twins +1",
+    "amount": 43
+   },
+   "ring": {
+    "name": "\"Victory Grasp\" Gold Ring of Giants +1",
+    "amount": 9
+   },
+   "waist": {
+    "name": "\"Gloom Grasp\" Sash of Skill +1",
+    "amount": 5
+   },
+   "weapon": {
+    "name": "Scimitar",
+    "amount": 51694
+   },
+   "id": "261645",
+   "rank": 261646,
+   "score": 0.1350373797906824
+  },
+  {
+   "chest": {
+    "name": "Robe",
+    "amount": 62433
+   },
+   "foot": {
+    "name": "Ornate Greaves",
+    "amount": 61952
+   },
+   "hand": {
+    "name": "\"Woe Grasp\" Gauntlets of Rage +1",
+    "amount": 10
+   },
+   "head": {
+    "name": "\"Foe Grasp\" Divine Hood of Detection +1",
+    "amount": 15
+   },
+   "neck": {
+    "name": "\"Soul Root\" Amulet of Vitriol",
+    "amount": 57
+   },
+   "ring": {
+    "name": "\"Light's Roar\" Platinum Ring of Fury",
+    "amount": 14
+   },
+   "waist": {
+    "name": "Hard Leather Belt of Power",
+    "amount": 811
+   },
+   "weapon": {
+    "name": "\"Grim Grasp\" Katana of Rage +1",
+    "amount": 53
+   },
+   "id": "299365",
+   "rank": 299366,
+   "score": 1.437862708830508
+  },
+  {
+   "chest": {
+    "name": "\"Woe Grasp\" Ring Mail of Brilliance +1",
+    "amount": 15
+   },
+   "foot": {
+    "name": "\"Pandemonium Grasp\" Silk Slippers of Giants +1",
+    "amount": 6
+   },
+   "hand": {
+    "name": "Gauntlets",
+    "amount": 62144
+   },
+   "head": {
+    "name": "Cap",
+    "amount": 62144
+   },
+   "neck": {
+    "name": "Necklace of Rage",
+    "amount": 7885
+   },
+   "ring": {
+    "name": "Silver Ring of Reflection",
+    "amount": 3058
+   },
+   "waist": {
+    "name": "Mesh Belt of Vitriol",
+    "amount": 1551
+   },
+   "weapon": {
+    "name": "\"Skull Grasp\" Katana of Giants +1",
+    "amount": 53
+   },
+   "id": "331524",
+   "rank": 331525,
+   "score": 1.9075090120549028
+  },
+  {
+   "chest": {
+    "name": "Linen Robe",
+    "amount": 62053
+   },
+   "foot": {
+    "name": "\"Victory Grasp\" Demonhide Boots of Protection +1",
+    "amount": 9
+   },
+   "hand": {
+    "name": "Gloves",
+    "amount": 62312
+   },
+   "head": {
+    "name": "Demon Crown",
+    "amount": 62645
+   },
+   "neck": {
+    "name": "\"Grim Grasp\" Pendant of Vitriol +1",
+    "amount": 49
+   },
+   "ring": {
+    "name": "Silver Ring",
+    "amount": 186690
+   },
+   "waist": {
+    "name": "Demonhide Belt",
+    "amount": 62112
+   },
+   "weapon": {
+    "name": "\"Cataclysm Grasp\" Katana of the Twins +1",
+    "amount": 62
+   },
+   "id": "344796",
+   "rank": 344797,
+   "score": 2.065582650051519
+  },
+  {
+   "chest": {
+    "name": "\"Demon Grasp\" Ring Mail of Skill +1",
+    "amount": 12
+   },
+   "foot": {
+    "name": "\"Demon Grasp\" Hard Leather Boots of Brilliance +1",
+    "amount": 8
+   },
+   "hand": {
+    "name": "\"Oblivion Grasp\" Silk Gloves of Protection +1",
+    "amount": 14
+   },
+   "head": {
+    "name": "Linen Hood of Protection",
+    "amount": 731
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "Silver Ring",
+    "amount": 186690
+   },
+   "waist": {
+    "name": "Linen Sash",
+    "amount": 62344
+   },
+   "weapon": {
+    "name": "\"Cataclysm Grasp\" Katana of Skill +1",
+    "amount": 55
+   },
+   "id": "407331",
+   "rank": 407332,
+   "score": 2.7938824264488256
+  },
+  {
+   "chest": {
+    "name": "\"Tempest Grasp\" Linen Robe of Vitriol +1",
+    "amount": 12
+   },
+   "foot": {
+    "name": "Linen Shoes",
+    "amount": 62473
+   },
+   "hand": {
+    "name": "Chain Gloves",
+    "amount": 61687
+   },
+   "head": {
+    "name": "Silk Hood of Detection",
+    "amount": 1519
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "\"Mind Grasp\" Hard Leather Belt of Brilliance +1",
+    "amount": 14
+   },
+   "weapon": {
+    "name": "\"Oblivion Grasp\" Katana of Skill +1",
+    "amount": 52
+   },
+   "id": "449088",
+   "rank": 449089,
+   "score": 3.4442517533718773
+  },
+  {
+   "chest": {
+    "name": "Hard Leather Armor",
+    "amount": 62329
+   },
+   "foot": {
+    "name": "Hard Leather Boots",
+    "amount": 62418
+   },
+   "hand": {
+    "name": "\"Honour Grasp\" Gauntlets of Skill +1",
+    "amount": 14
+   },
+   "head": {
+    "name": "Silk Hood of Fury",
+    "amount": 1509
+   },
+   "neck": {
+    "name": "\"Skull Grasp\" Pendant of Protection +1",
+    "amount": 54
+   },
+   "ring": {
+    "name": "\"Honour Grasp\" Titanium Ring of the Twins +1",
+    "amount": 9
+   },
+   "waist": {
+    "name": "Ornate Belt",
+    "amount": 61965
+   },
+   "weapon": {
+    "name": "Ghost Wand",
+    "amount": 51900
+   },
+   "id": "450976",
+   "rank": 450977,
+   "score": 3.4727788598293987
+  },
+  {
+   "chest": {
+    "name": "\"Gloom Grasp\" Ornate Chestplate of the Twins +1",
+    "amount": 10
+   },
+   "foot": {
+    "name": "\"Victory Grasp\" Silk Slippers of Rage +1",
+    "amount": 21
+   },
+   "hand": {
+    "name": "Gloves",
+    "amount": 62312
+   },
+   "head": {
+    "name": "Helm",
+    "amount": 61904
+   },
+   "neck": {
+    "name": "\"Fate Tear\" Amulet of Giants",
+    "amount": 70
+   },
+   "ring": {
+    "name": "Gold Ring",
+    "amount": 186792
+   },
+   "waist": {
+    "name": "\"Foe Grasp\" Hard Leather Belt of Skill +1",
+    "amount": 19
+   },
+   "weapon": {
+    "name": "Chronicle",
+    "amount": 52313
+   },
+   "id": "454730",
+   "rank": 454731,
+   "score": 3.5234132847933943
+  },
+  {
+   "chest": {
+    "name": "Demon Husk of Titans",
+    "amount": 775
+   },
+   "foot": {
+    "name": "Wool Shoes of Reflection",
+    "amount": 1538
+   },
+   "hand": {
+    "name": "\"Blight Grasp\" Gauntlets of Brilliance +1",
+    "amount": 10
+   },
+   "head": {
+    "name": "\"Corruption Grasp\" Hood of the Twins +1",
+    "amount": 15
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "Bronze Ring of Brilliance",
+    "amount": 3055
+   },
+   "waist": {
+    "name": "\"Pandemonium Grasp\" Sash of Skill +1",
+    "amount": 9
+   },
+   "weapon": {
+    "name": "Katana",
+    "amount": 51698
+   },
+   "id": "548048",
+   "rank": 548049,
+   "score": 6.053911421598364
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "Holy Greaves",
+    "amount": 62085
+   },
+   "hand": {
+    "name": "Hard Leather Gloves",
+    "amount": 62204
+   },
+   "head": {
+    "name": "\"Grim Grasp\" Great Helm of Skill +1",
+    "amount": 19
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "\"Victory Grasp\" Platinum Ring of Protection +1",
+    "amount": 9
+   },
+   "waist": {
+    "name": "Mesh Belt",
+    "amount": 62257
+   },
+   "weapon": {
+    "name": "\"Rage Grasp\" Katana of Skill +1",
+    "amount": 52
+   },
+   "id": "624196",
+   "rank": 624197,
+   "score": 6.630335074254605
+  },
+  {
+   "chest": {
+    "name": "\"Carrion Tear\" Chain Mail of Vitriol",
+    "amount": 11
+   },
+   "foot": {
+    "name": "\"Vengeance Root\" Heavy Boots of Protection",
+    "amount": 17
+   },
+   "hand": {
+    "name": "\"Rage Grasp\" Gauntlets of Vitriol +1",
+    "amount": 11
+   },
+   "head": {
+    "name": "Dragon's Crown",
+    "amount": 62049
+   },
+   "neck": {
+    "name": "\"Skull Grasp\" Pendant of Detection +1",
+    "amount": 46
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "\"Skull Grasp\" Sash of Rage +1",
+    "amount": 11
+   },
+   "weapon": {
+    "name": "Short Sword",
+    "amount": 52117
+   },
+   "id": "755665",
+   "rank": 755666,
+   "score": 8.556484787914817
+  },
+  {
+   "chest": {
+    "name": "\"Skull Grasp\" Ring Mail of Rage +1",
+    "amount": 15
+   },
+   "foot": {
+    "name": "Leather Boots",
+    "amount": 62297
+   },
+   "hand": {
+    "name": "\"Honour Bite\" Hard Leather Gloves of Anger +1",
+    "amount": 10
+   },
+   "head": {
+    "name": "Ancient Helm of the Twins",
+    "amount": 1589
+   },
+   "neck": {
+    "name": "\"Blight Moon\" Pendant of Detection +1",
+    "amount": 56
+   },
+   "ring": {
+    "name": "\"Shimmering Grasp\" Bronze Ring of Rage +1",
+    "amount": 7
+   },
+   "waist": {
+    "name": "Brightsilk Sash",
+    "amount": 62838
+   },
+   "weapon": {
+    "name": "\"Gloom Grasp\" Katana of Protection +1",
+    "amount": 60
+   },
+   "id": "755768",
+   "rank": 755769,
+   "score": 8.559016466724733
+  },
+  {
+   "chest": {
+    "name": "Chain Mail",
+    "amount": 62774
+   },
+   "foot": {
+    "name": "\"Gloom Grasp\" Shoes of Giants +1",
+    "amount": 11
+   },
+   "hand": {
+    "name": "\"Corruption Grasp\" Demon's Hands of Detection +1",
+    "amount": 14
+   },
+   "head": {
+    "name": "Silk Hood of Titans",
+    "amount": 1654
+   },
+   "neck": {
+    "name": "Necklace of Skill",
+    "amount": 7728
+   },
+   "ring": {
+    "name": "\"Armageddon Grasp\" Bronze Ring of Rage +1",
+    "amount": 18
+   },
+   "waist": {
+    "name": "Plated Belt",
+    "amount": 62572
+   },
+   "weapon": {
+    "name": "Falchion",
+    "amount": 52154
+   },
+   "id": "782667",
+   "rank": 782668,
+   "score": 10.100649647227101
+  },
+  {
+   "chest": {
+    "name": "Robe of the Twins",
+    "amount": 1605
+   },
+   "foot": {
+    "name": "\"Victory Grasp\" Hard Leather Boots of Protection +1",
+    "amount": 11
+   },
+   "hand": {
+    "name": "\"Corruption Grasp\" Hard Leather Gloves of the Twins +1",
+    "amount": 12
+   },
+   "head": {
+    "name": "\"Eagle Grasp\" Leather Cap of Vitriol +1",
+    "amount": 17
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Titanium Ring of Rage",
+    "amount": 3123
+   },
+   "waist": {
+    "name": "Linen Sash",
+    "amount": 62344
+   },
+   "weapon": {
+    "name": "\"Light's Roar\" Club of Titans",
+    "amount": 48
+   },
+   "id": "842673",
+   "rank": 842674,
+   "score": 10.44729697468942
+  },
+  {
+   "chest": {
+    "name": "Ornate Chestplate of Anger",
+    "amount": 768
+   },
+   "foot": {
+    "name": "\"Honour Grasp\" Hard Leather Boots of Skill +1",
+    "amount": 12
+   },
+   "hand": {
+    "name": "Wool Gloves",
+    "amount": 62242
+   },
+   "head": {
+    "name": "Crown",
+    "amount": 62044
+   },
+   "neck": {
+    "name": "\"Blight Grasp\" Pendant of Vitriol +1",
+    "amount": 60
+   },
+   "ring": {
+    "name": "Gold Ring",
+    "amount": 186792
+   },
+   "waist": {
+    "name": "Linen Sash",
+    "amount": 62344
+   },
+   "weapon": {
+    "name": "\"Skull Grasp\" Katana of Vitriol +1",
+    "amount": 60
+   },
+   "id": "907167",
+   "rank": 907168,
+   "score": 10.86781816000838
+  },
+  {
+   "chest": {
+    "name": "Plate Mail",
+    "amount": 61716
+   },
+   "foot": {
+    "name": "\"Rage Grasp\" Greaves of Vitriol +1",
+    "amount": 16
+   },
+   "hand": {
+    "name": "Gauntlets",
+    "amount": 62144
+   },
+   "head": {
+    "name": "\"Pandemonium Grasp\" Hood of Skill +1",
+    "amount": 8
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "\"Brimstone Grasp\" Titanium Ring of Brilliance +1",
+    "amount": 18
+   },
+   "waist": {
+    "name": "Wool Sash",
+    "amount": 62437
+   },
+   "weapon": {
+    "name": "Scimitar",
+    "amount": 51694
+   },
+   "id": "926703",
+   "rank": 926704,
+   "score": 10.904694603176035
+  },
+  {
+   "chest": {
+    "name": "Plate Mail of Enlightenment",
+    "amount": 1568
+   },
+   "foot": {
+    "name": "Greaves",
+    "amount": 62299
+   },
+   "hand": {
+    "name": "\"Pandemonium Grasp\" Demon's Hands of Detection +1",
+    "amount": 11
+   },
+   "head": {
+    "name": "\"Corpse Glow\" Linen Hood of Brilliance",
+    "amount": 20
+   },
+   "neck": {
+    "name": "\"Gloom Grasp\" Pendant of Brilliance +1",
+    "amount": 58
+   },
+   "ring": {
+    "name": "\"Tempest Grasp\" Bronze Ring of Protection +1",
+    "amount": 11
+   },
+   "waist": {
+    "name": "\"Behemoth Roar\" Brightsilk Sash of the Fox",
+    "amount": 11
+   },
+   "weapon": {
+    "name": "Maul",
+    "amount": 52022
+   },
+   "id": "937459",
+   "rank": 937460,
+   "score": 10.940574496840176
+  },
+  {
+   "chest": {
+    "name": "Holy Chestplate",
+    "amount": 62395
+   },
+   "foot": {
+    "name": "\"Sorrow Grasp\" Shoes of Vitriol +1",
+    "amount": 13
+   },
+   "hand": {
+    "name": "Demon's Hands",
+    "amount": 61901
+   },
+   "head": {
+    "name": "Divine Hood",
+    "amount": 61778
+   },
+   "neck": {
+    "name": "\"Corruption Grasp\" Pendant of Rage +1",
+    "amount": 69
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "Silk Sash",
+    "amount": 62413
+   },
+   "weapon": {
+    "name": "\"Demon Grasp\" Katana of Detection +1",
+    "amount": 61
+   },
+   "id": "965077",
+   "rank": 965078,
+   "score": 11.502976491692928
+  },
+  {
+   "chest": {
+    "name": "\"Woe Grasp\" Ring Mail of Brilliance +1",
+    "amount": 15
+   },
+   "foot": {
+    "name": "\"Blight Grasp\" Shoes of Protection +1",
+    "amount": 18
+   },
+   "hand": {
+    "name": "Dragonskin Gloves of the Fox",
+    "amount": 1541
+   },
+   "head": {
+    "name": "Helm",
+    "amount": 61904
+   },
+   "neck": {
+    "name": "\"Soul Whisper\" Amulet of Anger",
+    "amount": 56
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "\"Woe Grasp\" Hard Leather Belt of Brilliance +1",
+    "amount": 12
+   },
+   "weapon": {
+    "name": "Quarterstaff of Skill",
+    "amount": 1328
+   },
+   "id": "971258",
+   "rank": 971259,
+   "score": 11.534804818830764
+  },
+  {
+   "chest": {
+    "name": "Shirt",
+    "amount": 62194
+   },
+   "foot": {
+    "name": "\"Gloom Grasp\" Hard Leather Boots of Giants +1",
+    "amount": 10
+   },
+   "hand": {
+    "name": "\"Pandemonium Grasp\" Demon's Hands of Giants +1",
+    "amount": 11
+   },
+   "head": {
+    "name": "Ornate Helm",
+    "amount": 62153
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Bronze Ring",
+    "amount": 187470
+   },
+   "waist": {
+    "name": "\"Brimstone Grasp\" Silk Sash of Detection +1",
+    "amount": 11
+   },
+   "weapon": {
+    "name": "Mace of Protection",
+    "amount": 2554
+   },
+   "id": "1014560",
+   "rank": 1014561,
+   "score": 12.11935955953263
+  },
+  {
+   "chest": {
+    "name": "\"Armageddon Grasp\" Linen Robe of Rage +1",
+    "amount": 10
+   },
+   "foot": {
+    "name": "\"Armageddon Grasp\" Hard Leather Boots of Detection +1",
+    "amount": 12
+   },
+   "hand": {
+    "name": "Divine Gloves",
+    "amount": 62363
+   },
+   "head": {
+    "name": "Linen Hood",
+    "amount": 61943
+   },
+   "neck": {
+    "name": "Necklace of Rage",
+    "amount": 7885
+   },
+   "ring": {
+    "name": "Gold Ring",
+    "amount": 186792
+   },
+   "waist": {
+    "name": "Plated Belt",
+    "amount": 62572
+   },
+   "weapon": {
+    "name": "\"Sorrow Grasp\" Katana of Protection +1",
+    "amount": 64
+   },
+   "id": "1015346",
+   "rank": 1015347,
+   "score": 12.141151599883157
+  },
+  {
+   "chest": {
+    "name": "\"Oblivion Grasp\" Ring Mail of Vitriol +1",
+    "amount": 11
+   },
+   "foot": {
+    "name": "\"Fate Whisper\" Linen Shoes of the Fox",
+    "amount": 12
+   },
+   "hand": {
+    "name": "Chain Gloves",
+    "amount": 61687
+   },
+   "head": {
+    "name": "\"Mind Grasp\" Divine Hood of the Twins +1",
+    "amount": 12
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "\"Cataclysm Peak\" Bronze Ring of Enlightenment +1",
+    "amount": 14
+   },
+   "waist": {
+    "name": "\"Mind Grasp\" Silk Sash of Giants +1",
+    "amount": 5
+   },
+   "weapon": {
+    "name": "Book of Protection",
+    "amount": 1289
+   },
+   "id": "1079723",
+   "rank": 1079724,
+   "score": 14.57932300727317
+  },
+  {
+   "chest": {
+    "name": "Studded Leather Armor",
+    "amount": 62546
+   },
+   "foot": {
+    "name": "Linen Shoes",
+    "amount": 62473
+   },
+   "hand": {
+    "name": "\"Skull Grasp\" Gauntlets of the Twins +1",
+    "amount": 11
+   },
+   "head": {
+    "name": "\"Tempest Grasp\" Leather Cap of Rage +1",
+    "amount": 12
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "Bronze Ring",
+    "amount": 187470
+   },
+   "waist": {
+    "name": "Ornate Belt",
+    "amount": 61965
+   },
+   "weapon": {
+    "name": "\"Shimmering Grasp\" Katana of Brilliance +1",
+    "amount": 53
+   },
+   "id": "1105696",
+   "rank": 1105697,
+   "score": 14.82805391915367
+  },
+  {
+   "chest": {
+    "name": "Plate Mail of Giants",
+    "amount": 1580
+   },
+   "foot": {
+    "name": "\"Blight Grasp\" Silk Slippers of the Twins +1",
+    "amount": 14
+   },
+   "hand": {
+    "name": "\"Foe Grasp\" Gloves of the Twins +1",
+    "amount": 7
+   },
+   "head": {
+    "name": "Ornate Helm",
+    "amount": 62153
+   },
+   "neck": {
+    "name": "\"Rage Grasp\" Pendant of Vitriol +1",
+    "amount": 51
+   },
+   "ring": {
+    "name": "Gold Ring of Protection",
+    "amount": 3110
+   },
+   "waist": {
+    "name": "\"Grim Shout\" Silk Sash of the Twins +1",
+    "amount": 13
+   },
+   "weapon": {
+    "name": "Grimoire",
+    "amount": 51507
+   },
+   "id": "1116190",
+   "rank": 1116191,
+   "score": 14.853912615976713
+  },
+  {
+   "chest": {
+    "name": "Chain Mail of Vitriol",
+    "amount": 773
+   },
+   "foot": {
+    "name": "Hard Leather Boots",
+    "amount": 62418
+   },
+   "hand": {
+    "name": "Silk Gloves",
+    "amount": 62222
+   },
+   "head": {
+    "name": "\"Sorrow Grasp\" Divine Hood of Skill +1",
+    "amount": 21
+   },
+   "neck": {
+    "name": "\"Foe Grasp\" Pendant of Brilliance +1",
+    "amount": 63
+   },
+   "ring": {
+    "name": "\"Pandemonium Grasp\" Titanium Ring of Detection +1",
+    "amount": 10
+   },
+   "waist": {
+    "name": "\"Carrion Root\" War Belt of Brilliance",
+    "amount": 14
+   },
+   "weapon": {
+    "name": "Short Sword",
+    "amount": 52117
+   },
+   "id": "1128082",
+   "rank": 1128083,
+   "score": 15.206787138874656
+  },
+  {
+   "chest": {
+    "name": "Holy Chestplate",
+    "amount": 62395
+   },
+   "foot": {
+    "name": "\"Behemoth Roar\" Linen Shoes of Fury",
+    "amount": 17
+   },
+   "hand": {
+    "name": "\"Kraken Grasp\" Gloves of the Twins +1",
+    "amount": 10
+   },
+   "head": {
+    "name": "Ancient Helm",
+    "amount": 62185
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "\"Tempest Grasp\" Platinum Ring of Detection +1",
+    "amount": 14
+   },
+   "waist": {
+    "name": "\"Foe Grasp\" Plated Belt of Detection +1",
+    "amount": 8
+   },
+   "weapon": {
+    "name": "Club",
+    "amount": 51852
+   },
+   "id": "1156620",
+   "rank": 1156621,
+   "score": 15.247755886200379
+  },
+  {
+   "chest": {
+    "name": "Studded Leather Armor",
+    "amount": 62546
+   },
+   "foot": {
+    "name": "\"Brimstone Grasp\" Silk Slippers of the Twins +1",
+    "amount": 10
+   },
+   "hand": {
+    "name": "Chain Gloves",
+    "amount": 61687
+   },
+   "head": {
+    "name": "Ancient Helm",
+    "amount": 62185
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "\"Shimmering Grasp\" Demonhide Belt of Giants +1",
+    "amount": 17
+   },
+   "weapon": {
+    "name": "\"Dread Grasp\" Katana of Detection +1",
+    "amount": 61
+   },
+   "id": "1166256",
+   "rank": 1166257,
+   "score": 15.255710710121889
+  },
+  {
+   "chest": {
+    "name": "Leather Armor of Power",
+    "amount": 1578
+   },
+   "foot": {
+    "name": "Demonhide Boots of Perfection",
+    "amount": 715
+   },
+   "hand": {
+    "name": "Demon's Hands",
+    "amount": 61901
+   },
+   "head": {
+    "name": "Linen Hood of Power",
+    "amount": 727
+   },
+   "neck": {
+    "name": "\"Rage Grasp\" Pendant of Brilliance +1",
+    "amount": 69
+   },
+   "ring": {
+    "name": "\"Woe Grasp\" Gold Ring of Rage +1",
+    "amount": 14
+   },
+   "waist": {
+    "name": "\"Corruption Grasp\" Silk Sash of Detection +1",
+    "amount": 9
+   },
+   "weapon": {
+    "name": "Warhammer of Enlightenment",
+    "amount": 2516
+   },
+   "id": "1179511",
+   "rank": 1179512,
+   "score": 15.26679665096396
+  },
+  {
+   "chest": {
+    "name": "Shirt",
+    "amount": 62194
+   },
+   "foot": {
+    "name": "\"Tempest Grasp\" Shoes of the Twins +1",
+    "amount": 12
+   },
+   "hand": {
+    "name": "Dragonskin Gloves of Fury",
+    "amount": 1622
+   },
+   "head": {
+    "name": "\"Shimmering Grasp\" Divine Hood of Detection +1",
+    "amount": 15
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "Platinum Ring of the Twins",
+    "amount": 3067
+   },
+   "waist": {
+    "name": "Dragonskin Belt",
+    "amount": 62229
+   },
+   "weapon": {
+    "name": "\"Armageddon Grasp\" Katana of Detection +1",
+    "amount": 52
+   },
+   "id": "1230967",
+   "rank": 1230968,
+   "score": 18.929869445851587
+  },
+  {
+   "chest": {
+    "name": "Hard Leather Armor",
+    "amount": 62329
+   },
+   "foot": {
+    "name": "Leather Boots of Detection",
+    "amount": 1551
+   },
+   "hand": {
+    "name": "\"Pandemonium Grasp\" Gloves of Vitriol +1",
+    "amount": 11
+   },
+   "head": {
+    "name": "\"Brimstone Grasp\" Leather Cap of Rage +1",
+    "amount": 15
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "\"Brimstone Grasp\" Gold Ring of Brilliance +1",
+    "amount": 15
+   },
+   "waist": {
+    "name": "Leather Belt",
+    "amount": 62008
+   },
+   "weapon": {
+    "name": "Maul",
+    "amount": 52022
+   },
+   "id": "1263237",
+   "rank": 1263238,
+   "score": 18.941776910002375
+  }
+ ]
+}

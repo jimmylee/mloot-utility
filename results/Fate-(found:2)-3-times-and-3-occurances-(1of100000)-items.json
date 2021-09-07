@@ -1,0 +1,82 @@
+{
+ "ids": [
+  "35338",
+  "850536"
+ ],
+ "search": [
+  {
+   "chest": {
+    "name": "\"Fate Roar\" Chain Mail of Perfection",
+    "amount": 10
+   },
+   "foot": {
+    "name": "Silk Slippers",
+    "amount": 62277
+   },
+   "hand": {
+    "name": "\"Fate Whisper\" Ornate Gauntlets of Power",
+    "amount": 12
+   },
+   "head": {
+    "name": "\"Fate Whisper\" Ornate Helm of Enlightenment",
+    "amount": 9
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "Wool Sash",
+    "amount": 62437
+   },
+   "weapon": {
+    "name": "Maul",
+    "amount": 52022
+   },
+   "id": "35338",
+   "rank": 35339,
+   "score": 10.359653620422572
+  },
+  {
+   "chest": {
+    "name": "\"Fate Root\" Shirt of Vitriol",
+    "amount": 13
+   },
+   "foot": {
+    "name": "\"Fate Tear\" Ornate Greaves of Skill",
+    "amount": 7
+   },
+   "hand": {
+    "name": "Gauntlets",
+    "amount": 62144
+   },
+   "head": {
+    "name": "Hood",
+    "amount": 61808
+   },
+   "neck": {
+    "name": "\"Dragon Roar\" Amulet of Perfection",
+    "amount": 49
+   },
+   "ring": {
+    "name": "\"Fate Glow\" Platinum Ring of Skill",
+    "amount": 11
+   },
+   "waist": {
+    "name": "Mesh Belt",
+    "amount": 62257
+   },
+   "weapon": {
+    "name": "Katana",
+    "amount": 51698
+   },
+   "id": "850536",
+   "rank": 850537,
+   "score": 10.468059549111338
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "ids": [
+  "1170614"
+ ],
+ "search": [
+  {
+   "chest": {
+    "name": "Dragonskin Armor of Perfection",
+    "amount": 1491
+   },
+   "foot": {
+    "name": "Dragonskin Boots",
+    "amount": 62555
+   },
+   "hand": {
+    "name": "Dragonskin Gloves",
+    "amount": 62887
+   },
+   "head": {
+    "name": "Dragon's Crown of Skill",
+    "amount": 1556
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "Bronze Ring of Reflection",
+    "amount": 3100
+   },
+   "waist": {
+    "name": "Dragonskin Belt",
+    "amount": 62229
+   },
+   "weapon": {
+    "name": "Tome",
+    "amount": 51986
+   },
+   "id": "1170614",
+   "rank": 1170615,
+   "score": 15.259212450195129
+  }
+ ]
+}

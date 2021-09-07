@@ -1,0 +1,44 @@
+{
+ "ids": [
+  "126066"
+ ],
+ "search": [
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "\"Rage Grasp\" Shoes of Protection +1",
+    "amount": 10
+   },
+   "hand": {
+    "name": "Chain Gloves of Skill",
+    "amount": 1498
+   },
+   "head": {
+    "name": "Great Helm of Reflection",
+    "amount": 753
+   },
+   "neck": {
+    "name": "\"Kraken Shout\" Pendant of Skill +1",
+    "amount": 69
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "Wool Sash of Skill",
+    "amount": 1598
+   },
+   "weapon": {
+    "name": "\"Blight Grasp\" Katana of Skill +1",
+    "amount": 58
+   },
+   "id": "126066",
+   "rank": 126067,
+   "score": 4.351073733293666
+  }
+ ]
+}

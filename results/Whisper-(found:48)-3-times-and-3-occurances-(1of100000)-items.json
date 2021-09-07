@@ -1,0 +1,1830 @@
+{
+ "ids": [
+  "22687",
+  "33238",
+  "45658",
+  "82987",
+  "85628",
+  "91541",
+  "98081",
+  "99227",
+  "137099",
+  "230467",
+  "243707",
+  "274096",
+  "290241",
+  "359897",
+  "425602",
+  "462691",
+  "480695",
+  "511228",
+  "595196",
+  "608661",
+  "618406",
+  "648020",
+  "700540",
+  "737491",
+  "759732",
+  "770106",
+  "774985",
+  "776359",
+  "799627",
+  "803648",
+  "847111",
+  "894158",
+  "962670",
+  "1055021",
+  "1071616",
+  "1088441",
+  "1126533",
+  "1132982",
+  "1153979",
+  "1164566",
+  "1171456",
+  "1177548",
+  "1192784",
+  "1210849",
+  "1212356",
+  "1225617",
+  "1270407",
+  "1275673"
+ ],
+ "search": [
+  {
+   "chest": {
+    "name": "Silk Robe",
+    "amount": 62610
+   },
+   "foot": {
+    "name": "\"Light's Whisper\" Heavy Boots of Enlightenment",
+    "amount": 16
+   },
+   "hand": {
+    "name": "Demon's Hands of Fury",
+    "amount": 751
+   },
+   "head": {
+    "name": "\"Carrion Whisper\" Crown of Fury",
+    "amount": 13
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "\"Morbid Whisper\" Titanium Ring of Reflection",
+    "amount": 11
+   },
+   "waist": {
+    "name": "Dragonskin Belt",
+    "amount": 62229
+   },
+   "weapon": {
+    "name": "Katana",
+    "amount": 51698
+   },
+   "id": "22687",
+   "rank": 22688,
+   "score": 11.894629279971744
+  },
+  {
+   "chest": {
+    "name": "\"Ghoul Whisper\" Chain Mail of Power",
+    "amount": 15
+   },
+   "foot": {
+    "name": "Holy Greaves",
+    "amount": 62085
+   },
+   "hand": {
+    "name": "\"Vengeance Whisper\" Divine Gloves of Power",
+    "amount": 12
+   },
+   "head": {
+    "name": "Ancient Helm",
+    "amount": 62185
+   },
+   "neck": {
+    "name": "Necklace of Reflection",
+    "amount": 7740
+   },
+   "ring": {
+    "name": "Gold Ring",
+    "amount": 186792
+   },
+   "waist": {
+    "name": "\"Pandemonium Bender\" Sash of Titans +1",
+    "amount": 10
+   },
+   "weapon": {
+    "name": "\"Bramble Whisper\" Ghost Wand of the Fox",
+    "amount": 65
+   },
+   "id": "33238",
+   "rank": 33239,
+   "score": 10.555195154079719
+  },
+  {
+   "chest": {
+    "name": "\"Behemoth Whisper\" Studded Leather Armor of Perfection",
+    "amount": 10
+   },
+   "foot": {
+    "name": "Shoes",
+    "amount": 61931
+   },
+   "hand": {
+    "name": "\"Corpse Whisper\" Studded Leather Gloves of Enlightenment",
+    "amount": 18
+   },
+   "head": {
+    "name": "Divine Hood",
+    "amount": 61778
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "Gold Ring",
+    "amount": 186792
+   },
+   "waist": {
+    "name": "Demonhide Belt",
+    "amount": 62112
+   },
+   "weapon": {
+    "name": "\"Light's Whisper\" Ghost Wand of Anger",
+    "amount": 56
+   },
+   "id": "45658",
+   "rank": 45659,
+   "score": 9.375007627831547
+  },
+  {
+   "chest": {
+    "name": "Silk Robe of Fury",
+    "amount": 751
+   },
+   "foot": {
+    "name": "\"Corpse Whisper\" Heavy Boots of Power",
+    "amount": 14
+   },
+   "hand": {
+    "name": "Chain Gloves",
+    "amount": 61687
+   },
+   "head": {
+    "name": "Linen Hood",
+    "amount": 61943
+   },
+   "neck": {
+    "name": "\"Bramble Whisper\" Amulet of Perfection",
+    "amount": 67
+   },
+   "ring": {
+    "name": "Bronze Ring of Vitriol",
+    "amount": 3157
+   },
+   "waist": {
+    "name": "\"Storm Whisper\" Heavy Belt of the Fox",
+    "amount": 19
+   },
+   "weapon": {
+    "name": "Katana",
+    "amount": 51698
+   },
+   "id": "82987",
+   "rank": 82988,
+   "score": 6.367236488813463
+  },
+  {
+   "chest": {
+    "name": "\"Ghoul Whisper\" Silk Robe of the Fox",
+    "amount": 15
+   },
+   "foot": {
+    "name": "\"Soul Whisper\" Linen Shoes of Perfection",
+    "amount": 11
+   },
+   "hand": {
+    "name": "Wool Gloves",
+    "amount": 62242
+   },
+   "head": {
+    "name": "Crown of Enlightenment",
+    "amount": 695
+   },
+   "neck": {
+    "name": "\"Dragon Whisper\" Amulet of Fury",
+    "amount": 55
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "Ornate Belt",
+    "amount": 61965
+   },
+   "weapon": {
+    "name": "Wand",
+    "amount": 51899
+   },
+   "id": "85628",
+   "rank": 85629,
+   "score": 6.2650051597700305
+  },
+  {
+   "chest": {
+    "name": "Ring Mail",
+    "amount": 61913
+   },
+   "foot": {
+    "name": "Ornate Greaves",
+    "amount": 61952
+   },
+   "hand": {
+    "name": "\"Corpse Whisper\" Studded Leather Gloves of Reflection",
+    "amount": 17
+   },
+   "head": {
+    "name": "\"Pain Whisper\" Helm of Power",
+    "amount": 12
+   },
+   "neck": {
+    "name": "Necklace of Giants",
+    "amount": 7823
+   },
+   "ring": {
+    "name": "Gold Ring of Titans",
+    "amount": 3124
+   },
+   "waist": {
+    "name": "Mesh Belt",
+    "amount": 62257
+   },
+   "weapon": {
+    "name": "\"Bramble Whisper\" Ghost Wand of Enlightenment",
+    "amount": 62
+   },
+   "id": "91541",
+   "rank": 91542,
+   "score": 6.033578114762978
+  },
+  {
+   "chest": {
+    "name": "Divine Robe of Reflection",
+    "amount": 1563
+   },
+   "foot": {
+    "name": "Wool Shoes",
+    "amount": 62048
+   },
+   "hand": {
+    "name": "Gauntlets",
+    "amount": 62144
+   },
+   "head": {
+    "name": "\"Hypnotic Whisper\" Crown of Power",
+    "amount": 12
+   },
+   "neck": {
+    "name": "Necklace of Titans",
+    "amount": 7671
+   },
+   "ring": {
+    "name": "\"Plague Whisper\" Platinum Ring of Perfection",
+    "amount": 12
+   },
+   "waist": {
+    "name": "Ornate Belt",
+    "amount": 61965
+   },
+   "weapon": {
+    "name": "\"Corpse Whisper\" Ghost Wand of Enlightenment",
+    "amount": 61
+   },
+   "id": "98081",
+   "rank": 98082,
+   "score": 5.756001609748982
+  },
+  {
+   "chest": {
+    "name": "\"Dusk Whisper\" Holy Chestplate of Enlightenment",
+    "amount": 9
+   },
+   "foot": {
+    "name": "Demonhide Boots of Skill",
+    "amount": 775
+   },
+   "hand": {
+    "name": "\"Apocalypse Whisper\" Ornate Gauntlets of Fury",
+    "amount": 16
+   },
+   "head": {
+    "name": "Hood of the Fox",
+    "amount": 787
+   },
+   "neck": {
+    "name": "Pendant of Detection",
+    "amount": 3974
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "\"Behemoth Whisper\" Brightsilk Sash of Power",
+    "amount": 13
+   },
+   "weapon": {
+    "name": "Falchion",
+    "amount": 52154
+   },
+   "id": "99227",
+   "rank": 99228,
+   "score": 5.705643827300936
+  },
+  {
+   "chest": {
+    "name": "Holy Chestplate",
+    "amount": 62395
+   },
+   "foot": {
+    "name": "\"Golem Whisper\" Divine Slippers of Titans",
+    "amount": 11
+   },
+   "hand": {
+    "name": "\"Morbid Whisper\" Ornate Gauntlets of Reflection",
+    "amount": 20
+   },
+   "head": {
+    "name": "Crown",
+    "amount": 62044
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "Bronze Ring",
+    "amount": 187470
+   },
+   "waist": {
+    "name": "Dragonskin Belt",
+    "amount": 62229
+   },
+   "weapon": {
+    "name": "\"Pain Whisper\" Ghost Wand of Fury",
+    "amount": 48
+   },
+   "id": "137099",
+   "rank": 137100,
+   "score": 3.5463540993302627
+  },
+  {
+   "chest": {
+    "name": "\"Light's Root\" Shirt of Rage",
+    "amount": 19
+   },
+   "foot": {
+    "name": "\"Light's Whisper\" Heavy Boots of Power",
+    "amount": 14
+   },
+   "hand": {
+    "name": "Divine Gloves of Skill",
+    "amount": 788
+   },
+   "head": {
+    "name": "\"Ghoul Whisper\" Ornate Helm of Reflection",
+    "amount": 12
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "Brightsilk Sash",
+    "amount": 62838
+   },
+   "weapon": {
+    "name": "\"Hypnotic Whisper\" Ghost Wand of Power",
+    "amount": 62
+   },
+   "id": "230467",
+   "rank": 230468,
+   "score": 1.0868071956564807
+  },
+  {
+   "chest": {
+    "name": "Shirt",
+    "amount": 62194
+   },
+   "foot": {
+    "name": "Leather Boots of Brilliance",
+    "amount": 1597
+   },
+   "hand": {
+    "name": "Hard Leather Gloves",
+    "amount": 62204
+   },
+   "head": {
+    "name": "\"Apocalypse Whisper\" Ornate Helm of Enlightenment",
+    "amount": 17
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "\"Corpse Whisper\" Titanium Ring of Fury",
+    "amount": 16
+   },
+   "waist": {
+    "name": "\"Soul Whisper\" Studded Leather Belt of Anger",
+    "amount": 10
+   },
+   "weapon": {
+    "name": "\"Maelstrom Glow\" Scimitar of Giants",
+    "amount": 56
+   },
+   "id": "243707",
+   "rank": 243708,
+   "score": 0.7370240764691416
+  },
+  {
+   "chest": {
+    "name": "Robe",
+    "amount": 62433
+   },
+   "foot": {
+    "name": "Chain Boots",
+    "amount": 61921
+   },
+   "hand": {
+    "name": "Holy Gauntlets",
+    "amount": 62555
+   },
+   "head": {
+    "name": "War Cap",
+    "amount": 62588
+   },
+   "neck": {
+    "name": "\"Carrion Whisper\" Amulet of Titans",
+    "amount": 69
+   },
+   "ring": {
+    "name": "Gold Ring",
+    "amount": 186792
+   },
+   "waist": {
+    "name": "\"Vortex Whisper\" Brightsilk Sash of Perfection",
+    "amount": 7
+   },
+   "weapon": {
+    "name": "\"Death Whisper\" Ghost Wand of Anger",
+    "amount": 47
+   },
+   "id": "274096",
+   "rank": 274097,
+   "score": 0.4756818136874369
+  },
+  {
+   "chest": {
+    "name": "Silk Robe",
+    "amount": 62610
+   },
+   "foot": {
+    "name": "Hard Leather Boots",
+    "amount": 62418
+   },
+   "hand": {
+    "name": "\"Maelstrom Whisper\" Divine Gloves of Perfection",
+    "amount": 13
+   },
+   "head": {
+    "name": "\"Dragon Whisper\" War Cap of Titans",
+    "amount": 10
+   },
+   "neck": {
+    "name": "\"Storm Whisper\" Amulet of Perfection",
+    "amount": 59
+   },
+   "ring": {
+    "name": "Silver Ring of Reflection",
+    "amount": 3058
+   },
+   "waist": {
+    "name": "Sash",
+    "amount": 62168
+   },
+   "weapon": {
+    "name": "Bone Wand",
+    "amount": 52233
+   },
+   "id": "290241",
+   "rank": 290242,
+   "score": 1.1961330446814715
+  },
+  {
+   "chest": {
+    "name": "\"Dragon Whisper\" Studded Leather Armor of Enlightenment",
+    "amount": 13
+   },
+   "foot": {
+    "name": "\"Bramble Whisper\" Ornate Greaves of Enlightenment",
+    "amount": 10
+   },
+   "hand": {
+    "name": "Linen Gloves",
+    "amount": 61997
+   },
+   "head": {
+    "name": "Ancient Helm",
+    "amount": 62185
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "Gold Ring",
+    "amount": 186792
+   },
+   "waist": {
+    "name": "Plated Belt",
+    "amount": 62572
+   },
+   "weapon": {
+    "name": "\"Carrion Whisper\" Ghost Wand of Anger",
+    "amount": 48
+   },
+   "id": "359897",
+   "rank": 359898,
+   "score": 2.225739974614948
+  },
+  {
+   "chest": {
+    "name": "Holy Chestplate",
+    "amount": 62395
+   },
+   "foot": {
+    "name": "\"Apocalypse Whisper\" Divine Slippers of Perfection",
+    "amount": 11
+   },
+   "hand": {
+    "name": "\"Dragon Whisper\" Studded Leather Gloves of Power",
+    "amount": 14
+   },
+   "head": {
+    "name": "Leather Cap",
+    "amount": 62416
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "Silver Ring of Anger",
+    "amount": 3046
+   },
+   "waist": {
+    "name": "\"Golem Sun\" Studded Leather Belt of Power",
+    "amount": 13
+   },
+   "weapon": {
+    "name": "\"Behemoth Whisper\" Ghost Wand of Enlightenment",
+    "amount": 71
+   },
+   "id": "425602",
+   "rank": 425603,
+   "score": 3.04779303460263
+  },
+  {
+   "chest": {
+    "name": "Studded Leather Armor",
+    "amount": 62546
+   },
+   "foot": {
+    "name": "Studded Leather Boots",
+    "amount": 62503
+   },
+   "hand": {
+    "name": "Wool Gloves",
+    "amount": 62242
+   },
+   "head": {
+    "name": "\"Death Whisper\" Helm of Perfection",
+    "amount": 12
+   },
+   "neck": {
+    "name": "Necklace of the Fox",
+    "amount": 7703
+   },
+   "ring": {
+    "name": "\"Soul Whisper\" Titanium Ring of Enlightenment",
+    "amount": 15
+   },
+   "waist": {
+    "name": "\"Tempest Peak\" Demonhide Belt of Anger +1",
+    "amount": 13
+   },
+   "weapon": {
+    "name": "\"Soul Whisper\" Ghost Wand of Enlightenment",
+    "amount": 56
+   },
+   "id": "462691",
+   "rank": 462692,
+   "score": 3.697277653596781
+  },
+  {
+   "chest": {
+    "name": "Leather Armor",
+    "amount": 62110
+   },
+   "foot": {
+    "name": "\"Pain Whisper\" Heavy Boots of Reflection",
+    "amount": 13
+   },
+   "hand": {
+    "name": "Wool Gloves",
+    "amount": 62242
+   },
+   "head": {
+    "name": "Full Helm of Power",
+    "amount": 1527
+   },
+   "neck": {
+    "name": "\"Storm Whisper\" Amulet of the Fox",
+    "amount": 57
+   },
+   "ring": {
+    "name": "\"Vortex Whisper\" Gold Ring of Fury",
+    "amount": 9
+   },
+   "waist": {
+    "name": "Hard Leather Belt",
+    "amount": 61900
+   },
+   "weapon": {
+    "name": "Club",
+    "amount": 51852
+   },
+   "id": "480695",
+   "rank": 480696,
+   "score": 4.208747745030316
+  },
+  {
+   "chest": {
+    "name": "Shirt",
+    "amount": 62194
+   },
+   "foot": {
+    "name": "Ornate Greaves",
+    "amount": 61952
+   },
+   "hand": {
+    "name": "\"Plague Whisper\" Divine Gloves of Enlightenment",
+    "amount": 12
+   },
+   "head": {
+    "name": "Ornate Helm of Power",
+    "amount": 752
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "\"Death Whisper\" Bronze Ring of Reflection",
+    "amount": 21
+   },
+   "waist": {
+    "name": "\"Death Whisper\" Heavy Belt of Perfection",
+    "amount": 10
+   },
+   "weapon": {
+    "name": "Wand",
+    "amount": 51899
+   },
+   "id": "511228",
+   "rank": 511229,
+   "score": 5.680367307067661
+  },
+  {
+   "chest": {
+    "name": "Studded Leather Armor",
+    "amount": 62546
+   },
+   "foot": {
+    "name": "\"Corpse Whisper\" Divine Slippers of Enlightenment",
+    "amount": 8
+   },
+   "hand": {
+    "name": "Holy Gauntlets",
+    "amount": 62555
+   },
+   "head": {
+    "name": "\"Maelstrom Whisper\" War Cap of Titans",
+    "amount": 15
+   },
+   "neck": {
+    "name": "\"Death Whisper\" Amulet of Titans",
+    "amount": 54
+   },
+   "ring": {
+    "name": "Titanium Ring of Protection",
+    "amount": 3134
+   },
+   "waist": {
+    "name": "Mesh Belt",
+    "amount": 62257
+   },
+   "weapon": {
+    "name": "Book",
+    "amount": 52250
+   },
+   "id": "595196",
+   "rank": 595197,
+   "score": 6.455393818742883
+  },
+  {
+   "chest": {
+    "name": "Shirt",
+    "amount": 62194
+   },
+   "foot": {
+    "name": "Wool Shoes",
+    "amount": 62048
+   },
+   "hand": {
+    "name": "\"Fate Whisper\" Ornate Gauntlets of Enlightenment",
+    "amount": 10
+   },
+   "head": {
+    "name": "\"Kraken Grasp\" Leather Cap of Rage +1",
+    "amount": 10
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "\"Behemoth Whisper\" Gold Ring of Perfection",
+    "amount": 10
+   },
+   "waist": {
+    "name": "\"Dusk Whisper\" Brightsilk Sash of the Fox",
+    "amount": 12
+   },
+   "weapon": {
+    "name": "Wand",
+    "amount": 51899
+   },
+   "id": "608661",
+   "rank": 608662,
+   "score": 6.5227484461123195
+  },
+  {
+   "chest": {
+    "name": "\"Dragon Tear\" Studded Leather Armor of Skill",
+    "amount": 9
+   },
+   "foot": {
+    "name": "Studded Leather Boots",
+    "amount": 62503
+   },
+   "hand": {
+    "name": "\"Bramble Whisper\" Heavy Gloves of Enlightenment",
+    "amount": 11
+   },
+   "head": {
+    "name": "Demon Crown",
+    "amount": 62645
+   },
+   "neck": {
+    "name": "\"Golem Whisper\" Amulet of Power",
+    "amount": 52
+   },
+   "ring": {
+    "name": "Platinum Ring",
+    "amount": 186857
+   },
+   "waist": {
+    "name": "\"Pain Whisper\" War Belt of Titans",
+    "amount": 5
+   },
+   "weapon": {
+    "name": "Maul of Perfection",
+    "amount": 1283
+   },
+   "id": "618406",
+   "rank": 618407,
+   "score": 6.5855070876601625
+  },
+  {
+   "chest": {
+    "name": "Plate Mail of Rage",
+    "amount": 1561
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "Linen Gloves",
+    "amount": 61997
+   },
+   "head": {
+    "name": "\"Maelstrom Whisper\" Ornate Helm of Perfection",
+    "amount": 6
+   },
+   "neck": {
+    "name": "\"Pain Whisper\" Amulet of Anger",
+    "amount": 59
+   },
+   "ring": {
+    "name": "\"Storm Whisper\" Titanium Ring of Fury",
+    "amount": 19
+   },
+   "waist": {
+    "name": "Sash",
+    "amount": 62168
+   },
+   "weapon": {
+    "name": "Scimitar",
+    "amount": 51694
+   },
+   "id": "648020",
+   "rank": 648021,
+   "score": 6.784486054177404
+  },
+  {
+   "chest": {
+    "name": "Holy Chestplate",
+    "amount": 62395
+   },
+   "foot": {
+    "name": "Hard Leather Boots",
+    "amount": 62418
+   },
+   "hand": {
+    "name": "\"Dusk Whisper\" Heavy Gloves of Power",
+    "amount": 10
+   },
+   "head": {
+    "name": "\"Maelstrom Whisper\" Helm of Power",
+    "amount": 10
+   },
+   "neck": {
+    "name": "Pendant of Enlightenment",
+    "amount": 3883
+   },
+   "ring": {
+    "name": "Silver Ring",
+    "amount": 186690
+   },
+   "waist": {
+    "name": "\"Hypnotic Whisper\" Brightsilk Sash of Fury",
+    "amount": 8
+   },
+   "weapon": {
+    "name": "Maul",
+    "amount": 52022
+   },
+   "id": "700540",
+   "rank": 700541,
+   "score": 7.306295764244826
+  },
+  {
+   "chest": {
+    "name": "\"Light's Whisper\" Chain Mail of Perfection",
+    "amount": 13
+   },
+   "foot": {
+    "name": "Wool Shoes",
+    "amount": 62048
+   },
+   "hand": {
+    "name": "\"Vengeance Whisper\" Divine Gloves of Fury",
+    "amount": 9
+   },
+   "head": {
+    "name": "\"Golem Whisper\" Ornate Helm of the Fox",
+    "amount": 11
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "\"Death Sun\" Studded Leather Belt of Anger",
+    "amount": 13
+   },
+   "weapon": {
+    "name": "Scimitar of Protection",
+    "amount": 1214
+   },
+   "id": "737491",
+   "rank": 737492,
+   "score": 7.916139670463571
+  },
+  {
+   "chest": {
+    "name": "\"Morbid Whisper\" Holy Chestplate of Fury",
+    "amount": 13
+   },
+   "foot": {
+    "name": "\"Light's Root\" Linen Shoes of Protection",
+    "amount": 12
+   },
+   "hand": {
+    "name": "\"Light's Whisper\" Heavy Gloves of Power",
+    "amount": 13
+   },
+   "head": {
+    "name": "Helm",
+    "amount": 61904
+   },
+   "neck": {
+    "name": "\"Apocalypse Roar\" Amulet of Titans",
+    "amount": 58
+   },
+   "ring": {
+    "name": "Bronze Ring of Detection",
+    "amount": 3076
+   },
+   "waist": {
+    "name": "\"Carrion Whisper\" Brightsilk Sash of Enlightenment",
+    "amount": 11
+   },
+   "weapon": {
+    "name": "Falchion",
+    "amount": 52154
+   },
+   "id": "759732",
+   "rank": 759733,
+   "score": 8.709962120938568
+  },
+  {
+   "chest": {
+    "name": "Studded Leather Armor",
+    "amount": 62546
+   },
+   "foot": {
+    "name": "Holy Greaves",
+    "amount": 62085
+   },
+   "hand": {
+    "name": "\"Carrion Whisper\" Ornate Gauntlets of Perfection",
+    "amount": 16
+   },
+   "head": {
+    "name": "\"Ghoul Whisper\" Linen Hood of Titans",
+    "amount": 8
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Platinum Ring",
+    "amount": 186857
+   },
+   "waist": {
+    "name": "\"Storm Whisper\" Studded Leather Belt of Perfection",
+    "amount": 9
+   },
+   "weapon": {
+    "name": "Mace of Protection",
+    "amount": 2554
+   },
+   "id": "770106",
+   "rank": 770107,
+   "score": 9.565239597037358
+  },
+  {
+   "chest": {
+    "name": "Leather Armor",
+    "amount": 62110
+   },
+   "foot": {
+    "name": "\"Dusk Whisper\" Linen Shoes of Power",
+    "amount": 7
+   },
+   "hand": {
+    "name": "\"Vengeance Whisper\" Heavy Gloves of Fury",
+    "amount": 13
+   },
+   "head": {
+    "name": "War Cap",
+    "amount": 62588
+   },
+   "neck": {
+    "name": "\"Fate Sun\" Amulet of Titans",
+    "amount": 71
+   },
+   "ring": {
+    "name": "Silver Ring",
+    "amount": 186690
+   },
+   "waist": {
+    "name": "\"Golem Whisper\" Heavy Belt of Power",
+    "amount": 5
+   },
+   "weapon": {
+    "name": "Club",
+    "amount": 51852
+   },
+   "id": "774985",
+   "rank": 774986,
+   "score": 9.863577590570392
+  },
+  {
+   "chest": {
+    "name": "Holy Chestplate",
+    "amount": 62395
+   },
+   "foot": {
+    "name": "Wool Shoes of Giants",
+    "amount": 1550
+   },
+   "hand": {
+    "name": "Chain Gloves of Vitriol",
+    "amount": 1606
+   },
+   "head": {
+    "name": "\"Fate Whisper\" Helm of Enlightenment",
+    "amount": 13
+   },
+   "neck": {
+    "name": "\"Ghoul Whisper\" Amulet of Titans",
+    "amount": 38
+   },
+   "ring": {
+    "name": "\"Soul Whisper\" Platinum Ring of the Fox",
+    "amount": 16
+   },
+   "waist": {
+    "name": "Dragonskin Belt of Reflection",
+    "amount": 1576
+   },
+   "weapon": {
+    "name": "\"Pain Roar\" Club of Enlightenment",
+    "amount": 63
+   },
+   "id": "776359",
+   "rank": 776360,
+   "score": 9.977750619980235
+  },
+  {
+   "chest": {
+    "name": "Holy Chestplate",
+    "amount": 62395
+   },
+   "foot": {
+    "name": "Hard Leather Boots",
+    "amount": 62418
+   },
+   "hand": {
+    "name": "Studded Leather Gloves",
+    "amount": 62286
+   },
+   "head": {
+    "name": "Helm",
+    "amount": 61904
+   },
+   "neck": {
+    "name": "\"Dusk Whisper\" Amulet of Reflection",
+    "amount": 63
+   },
+   "ring": {
+    "name": "Silver Ring",
+    "amount": 186690
+   },
+   "waist": {
+    "name": "\"Corpse Whisper\" Linen Sash of Power",
+    "amount": 14
+   },
+   "weapon": {
+    "name": "\"Storm Whisper\" Ghost Wand of Reflection",
+    "amount": 59
+   },
+   "id": "799627",
+   "rank": 799628,
+   "score": 10.191477351152637
+  },
+  {
+   "chest": {
+    "name": "Silk Robe",
+    "amount": 62610
+   },
+   "foot": {
+    "name": "Dragonskin Boots",
+    "amount": 62555
+   },
+   "hand": {
+    "name": "\"Vortex Whisper\" Divine Gloves of Anger",
+    "amount": 12
+   },
+   "head": {
+    "name": "\"Dusk Whisper\" Crown of Perfection",
+    "amount": 9
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "\"Corpse Whisper\" Titanium Ring of Reflection",
+    "amount": 10
+   },
+   "waist": {
+    "name": "Dragonskin Belt",
+    "amount": 62229
+   },
+   "weapon": {
+    "name": "Book of the Twins",
+    "amount": 1237
+   },
+   "id": "803648",
+   "rank": 803649,
+   "score": 10.202122027463181
+  },
+  {
+   "chest": {
+    "name": "\"Ghoul Whisper\" Studded Leather Armor of Fury",
+    "amount": 15
+   },
+   "foot": {
+    "name": "Hard Leather Boots of Brilliance",
+    "amount": 759
+   },
+   "hand": {
+    "name": "Gloves",
+    "amount": 62312
+   },
+   "head": {
+    "name": "\"Havoc Whisper\" War Cap of Titans",
+    "amount": 7
+   },
+   "neck": {
+    "name": "Necklace of Rage",
+    "amount": 7885
+   },
+   "ring": {
+    "name": "\"Honour Grasp\" Titanium Ring of Brilliance +1",
+    "amount": 9
+   },
+   "waist": {
+    "name": "Wool Sash",
+    "amount": 62437
+   },
+   "weapon": {
+    "name": "\"Soul Whisper\" Ghost Wand of Perfection",
+    "amount": 69
+   },
+   "id": "847111",
+   "rank": 847112,
+   "score": 10.460921614227164
+  },
+  {
+   "chest": {
+    "name": "\"Vengeance Whisper\" Chain Mail of Perfection",
+    "amount": 12
+   },
+   "foot": {
+    "name": "\"Golem Whisper\" Linen Shoes of Titans",
+    "amount": 11
+   },
+   "hand": {
+    "name": "Ornate Gauntlets",
+    "amount": 62529
+   },
+   "head": {
+    "name": "\"Golem Whisper\" War Cap of the Fox",
+    "amount": 18
+   },
+   "neck": {
+    "name": "\"Skull Bender\" Pendant of Enlightenment +1",
+    "amount": 54
+   },
+   "ring": {
+    "name": "Gold Ring of the Fox",
+    "amount": 3051
+   },
+   "waist": {
+    "name": "Wool Sash",
+    "amount": 62437
+   },
+   "weapon": {
+    "name": "\"Plague Glow\" Scimitar of Detection",
+    "amount": 53
+   },
+   "id": "894158",
+   "rank": 894159,
+   "score": 10.841265083881193
+  },
+  {
+   "chest": {
+    "name": "Hard Leather Armor",
+    "amount": 62329
+   },
+   "foot": {
+    "name": "Studded Leather Boots",
+    "amount": 62503
+   },
+   "hand": {
+    "name": "\"Storm Whisper\" Heavy Gloves of the Fox",
+    "amount": 11
+   },
+   "head": {
+    "name": "\"Brimstone Grasp\" Hood of the Twins +1",
+    "amount": 13
+   },
+   "neck": {
+    "name": "\"Soul Whisper\" Amulet of Reflection",
+    "amount": 57
+   },
+   "ring": {
+    "name": "\"Vengeance Glow\" Gold Ring of Giants",
+    "amount": 13
+   },
+   "waist": {
+    "name": "\"Behemoth Whisper\" Studded Leather Belt of Reflection",
+    "amount": 14
+   },
+   "weapon": {
+    "name": "Grave Wand",
+    "amount": 51741
+   },
+   "id": "962670",
+   "rank": 962671,
+   "score": 11.218741620443728
+  },
+  {
+   "chest": {
+    "name": "Hard Leather Armor",
+    "amount": 62329
+   },
+   "foot": {
+    "name": "Heavy Boots",
+    "amount": 62070
+   },
+   "hand": {
+    "name": "\"Light's Whisper\" Studded Leather Gloves of Anger",
+    "amount": 16
+   },
+   "head": {
+    "name": "\"Hypnotic Whisper\" Ornate Helm of Perfection",
+    "amount": 14
+   },
+   "neck": {
+    "name": "Pendant of the Twins",
+    "amount": 3979
+   },
+   "ring": {
+    "name": "\"Vengeance Whisper\" Silver Ring of Perfection",
+    "amount": 7
+   },
+   "waist": {
+    "name": "Hard Leather Belt",
+    "amount": 61900
+   },
+   "weapon": {
+    "name": "\"Eagle Shout\" Grave Wand of Detection +1",
+    "amount": 51
+   },
+   "id": "1055021",
+   "rank": 1055022,
+   "score": 14.549855712071338
+  },
+  {
+   "chest": {
+    "name": "\"Rune Whisper\" Shirt of Power",
+    "amount": 10
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "\"Bramble Whisper\" Linen Gloves of Perfection",
+    "amount": 12
+   },
+   "head": {
+    "name": "Ancient Helm",
+    "amount": 62185
+   },
+   "neck": {
+    "name": "\"Carrion Whisper\" Amulet of Perfection",
+    "amount": 48
+   },
+   "ring": {
+    "name": "Gold Ring of Perfection",
+    "amount": 3187
+   },
+   "waist": {
+    "name": "Leather Belt of Enlightenment",
+    "amount": 1539
+   },
+   "weapon": {
+    "name": "Warhammer",
+    "amount": 51760
+   },
+   "id": "1071616",
+   "rank": 1071617,
+   "score": 14.56962737426533
+  },
+  {
+   "chest": {
+    "name": "Chain Mail",
+    "amount": 62774
+   },
+   "foot": {
+    "name": "Shoes",
+    "amount": 61931
+   },
+   "hand": {
+    "name": "\"Tempest Peak\" Demon's Hands of Fury +1",
+    "amount": 11
+   },
+   "head": {
+    "name": "Dragon's Crown",
+    "amount": 62049
+   },
+   "neck": {
+    "name": "\"Pain Whisper\" Amulet of Fury",
+    "amount": 66
+   },
+   "ring": {
+    "name": "\"Dusk Whisper\" Gold Ring of Titans",
+    "amount": 19
+   },
+   "waist": {
+    "name": "\"Plague Whisper\" Studded Leather Belt of Perfection",
+    "amount": 8
+   },
+   "weapon": {
+    "name": "Short Sword",
+    "amount": 52117
+   },
+   "id": "1088441",
+   "rank": 1088442,
+   "score": 14.591971734737934
+  },
+  {
+   "chest": {
+    "name": "Robe",
+    "amount": 62433
+   },
+   "foot": {
+    "name": "Linen Shoes",
+    "amount": 62473
+   },
+   "hand": {
+    "name": "\"Carrion Root\" Divine Gloves of Skill",
+    "amount": 13
+   },
+   "head": {
+    "name": "Cap",
+    "amount": 62144
+   },
+   "neck": {
+    "name": "\"Death Whisper\" Amulet of Fury",
+    "amount": 52
+   },
+   "ring": {
+    "name": "\"Apocalypse Whisper\" Titanium Ring of Power",
+    "amount": 14
+   },
+   "waist": {
+    "name": "\"Morbid Whisper\" Brightsilk Sash of Perfection",
+    "amount": 12
+   },
+   "weapon": {
+    "name": "Long Sword of Reflection",
+    "amount": 1348
+   },
+   "id": "1126533",
+   "rank": 1126534,
+   "score": 15.199373275503214
+  },
+  {
+   "chest": {
+    "name": "Robe of Vitriol",
+    "amount": 1594
+   },
+   "foot": {
+    "name": "\"Corpse Tear\" Heavy Boots of Skill",
+    "amount": 14
+   },
+   "hand": {
+    "name": "Wool Gloves",
+    "amount": 62242
+   },
+   "head": {
+    "name": "\"Death Whisper\" Helm of the Fox",
+    "amount": 21
+   },
+   "neck": {
+    "name": "Pendant of Detection",
+    "amount": 3974
+   },
+   "ring": {
+    "name": "\"Plague Whisper\" Gold Ring of Reflection",
+    "amount": 14
+   },
+   "waist": {
+    "name": "Linen Sash",
+    "amount": 62344
+   },
+   "weapon": {
+    "name": "\"Apocalypse Whisper\" Ghost Wand of Perfection",
+    "amount": 50
+   },
+   "id": "1132982",
+   "rank": 1132983,
+   "score": 15.2201640541398
+  },
+  {
+   "chest": {
+    "name": "\"Plague Whisper\" Chain Mail of Enlightenment",
+    "amount": 17
+   },
+   "foot": {
+    "name": "Wool Shoes",
+    "amount": 62048
+   },
+   "hand": {
+    "name": "\"Soul Whisper\" Studded Leather Gloves of Titans",
+    "amount": 6
+   },
+   "head": {
+    "name": "Helm",
+    "amount": 61904
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "\"Dusk Whisper\" Titanium Ring of Power",
+    "amount": 11
+   },
+   "waist": {
+    "name": "War Belt",
+    "amount": 61681
+   },
+   "weapon": {
+    "name": "\"Kraken Moon\" Book of Vitriol +1",
+    "amount": 53
+   },
+   "id": "1153979",
+   "rank": 1153980,
+   "score": 15.245468010526414
+  },
+  {
+   "chest": {
+    "name": "\"Dusk Whisper\" Chain Mail of Perfection",
+    "amount": 7
+   },
+   "foot": {
+    "name": "Wool Shoes of Anger",
+    "amount": 1638
+   },
+   "hand": {
+    "name": "Dragonskin Gloves of Reflection",
+    "amount": 1571
+   },
+   "head": {
+    "name": "Cap",
+    "amount": 62144
+   },
+   "neck": {
+    "name": "\"Death Whisper\" Amulet of Titans",
+    "amount": 54
+   },
+   "ring": {
+    "name": "\"Storm Whisper\" Titanium Ring of Fury",
+    "amount": 19
+   },
+   "waist": {
+    "name": "War Belt",
+    "amount": 61681
+   },
+   "weapon": {
+    "name": "Scimitar",
+    "amount": 51694
+   },
+   "id": "1164566",
+   "rank": 1164567,
+   "score": 15.254333382440818
+  },
+  {
+   "chest": {
+    "name": "Robe",
+    "amount": 62433
+   },
+   "foot": {
+    "name": "\"Vengeance Whisper\" Heavy Boots of Perfection",
+    "amount": 6
+   },
+   "hand": {
+    "name": "\"Vengeance Glow\" Studded Leather Gloves of the Twins",
+    "amount": 12
+   },
+   "head": {
+    "name": "\"Pain Whisper\" Crown of Anger",
+    "amount": 6
+   },
+   "neck": {
+    "name": "\"Corpse Whisper\" Amulet of Titans",
+    "amount": 52
+   },
+   "ring": {
+    "name": "\"Rune Glow\" Titanium Ring of Vitriol",
+    "amount": 9
+   },
+   "waist": {
+    "name": "Plated Belt of the Fox",
+    "amount": 791
+   },
+   "weapon": {
+    "name": "Quarterstaff",
+    "amount": 51520
+   },
+   "id": "1171456",
+   "rank": 1171457,
+   "score": 15.259928869031727
+  },
+  {
+   "chest": {
+    "name": "Studded Leather Armor",
+    "amount": 62546
+   },
+   "foot": {
+    "name": "Greaves of Protection",
+    "amount": 769
+   },
+   "hand": {
+    "name": "\"Dragon Whisper\" Studded Leather Gloves of Enlightenment",
+    "amount": 15
+   },
+   "head": {
+    "name": "Divine Hood",
+    "amount": 61778
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "\"Maelstrom Whisper\" Brightsilk Sash of Titans",
+    "amount": 10
+   },
+   "weapon": {
+    "name": "\"Morbid Whisper\" Ghost Wand of Power",
+    "amount": 59
+   },
+   "id": "1177548",
+   "rank": 1177549,
+   "score": 15.265040784015568
+  },
+  {
+   "chest": {
+    "name": "\"Hypnotic Whisper\" Holy Chestplate of Titans",
+    "amount": 7
+   },
+   "foot": {
+    "name": "Greaves",
+    "amount": 62299
+   },
+   "hand": {
+    "name": "Dragonskin Gloves",
+    "amount": 62887
+   },
+   "head": {
+    "name": "\"Gloom Bite\" Demon Crown of the Fox +1",
+    "amount": 15
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "\"Death Whisper\" Platinum Ring of Reflection",
+    "amount": 12
+   },
+   "waist": {
+    "name": "\"Vortex Whisper\" Studded Leather Belt of Titans",
+    "amount": 17
+   },
+   "weapon": {
+    "name": "Katana",
+    "amount": 51698
+   },
+   "id": "1192784",
+   "rank": 1192785,
+   "score": 15.280871657605255
+  },
+  {
+   "chest": {
+    "name": "Demon Husk",
+    "amount": 62174
+   },
+   "foot": {
+    "name": "\"Morbid Whisper\" Heavy Boots of the Fox",
+    "amount": 10
+   },
+   "hand": {
+    "name": "Ornate Gauntlets of Power",
+    "amount": 782
+   },
+   "head": {
+    "name": "\"Corpse Whisper\" Ornate Helm of Perfection",
+    "amount": 14
+   },
+   "neck": {
+    "name": "\"Plague Whisper\" Amulet of Fury",
+    "amount": 49
+   },
+   "ring": {
+    "name": "Platinum Ring",
+    "amount": 186857
+   },
+   "waist": {
+    "name": "Plated Belt",
+    "amount": 62572
+   },
+   "weapon": {
+    "name": "Club",
+    "amount": 51852
+   },
+   "id": "1210849",
+   "rank": 1210850,
+   "score": 15.932928921445258
+  },
+  {
+   "chest": {
+    "name": "\"Morbid Whisper\" Shirt of the Fox",
+    "amount": 9
+   },
+   "foot": {
+    "name": "Linen Shoes",
+    "amount": 62473
+   },
+   "hand": {
+    "name": "Demon's Hands",
+    "amount": 61901
+   },
+   "head": {
+    "name": "Dragon's Crown of Fury",
+    "amount": 1542
+   },
+   "neck": {
+    "name": "\"Fate Whisper\" Amulet of Reflection",
+    "amount": 72
+   },
+   "ring": {
+    "name": "\"Golem Whisper\" Silver Ring of Perfection",
+    "amount": 11
+   },
+   "waist": {
+    "name": "Ornate Belt",
+    "amount": 61965
+   },
+   "weapon": {
+    "name": "Katana",
+    "amount": 51698
+   },
+   "id": "1212356",
+   "rank": 1212357,
+   "score": 15.941185139439856
+  },
+  {
+   "chest": {
+    "name": "\"Storm Whisper\" Shirt of the Fox",
+    "amount": 8
+   },
+   "foot": {
+    "name": "\"Plague Whisper\" Studded Leather Boots of the Fox",
+    "amount": 12
+   },
+   "hand": {
+    "name": "\"Plague Whisper\" Divine Gloves of Reflection",
+    "amount": 13
+   },
+   "head": {
+    "name": "Crown of Rage",
+    "amount": 774
+   },
+   "neck": {
+    "name": "\"Blight Moon\" Pendant of Skill +1",
+    "amount": 50
+   },
+   "ring": {
+    "name": "Bronze Ring of Giants",
+    "amount": 3144
+   },
+   "waist": {
+    "name": "Leather Belt",
+    "amount": 62008
+   },
+   "weapon": {
+    "name": "Falchion",
+    "amount": 52154
+   },
+   "id": "1225617",
+   "rank": 1225618,
+   "score": 18.92615474947824
+  },
+  {
+   "chest": {
+    "name": "Hard Leather Armor of the Twins",
+    "amount": 808
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "\"Storm Whisper\" Ornate Gauntlets of Enlightenment",
+    "amount": 6
+   },
+   "head": {
+    "name": "\"Soul Whisper\" Ornate Helm of the Fox",
+    "amount": 11
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "Platinum Ring of Giants",
+    "amount": 3054
+   },
+   "waist": {
+    "name": "\"Carrion Whisper\" Linen Sash of Reflection",
+    "amount": 14
+   },
+   "weapon": {
+    "name": "Bone Wand",
+    "amount": 52233
+   },
+   "id": "1270407",
+   "rank": 1270408,
+   "score": 18.94393458222521
+  },
+  {
+   "chest": {
+    "name": "Linen Robe",
+    "amount": 62053
+   },
+   "foot": {
+    "name": "Leather Boots",
+    "amount": 62297
+   },
+   "hand": {
+    "name": "\"Dragon Whisper\" Divine Gloves of Enlightenment",
+    "amount": 11
+   },
+   "head": {
+    "name": "Dragon's Crown",
+    "amount": 62049
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Bronze Ring",
+    "amount": 187470
+   },
+   "waist": {
+    "name": "\"Soul Whisper\" Linen Sash of Anger",
+    "amount": 15
+   },
+   "weapon": {
+    "name": "\"Behemoth Whisper\" Ghost Wand of Anger",
+    "amount": 57
+   },
+   "id": "1275673",
+   "rank": 1275674,
+   "score": 18.945613296103875
+  }
+ ]
+}

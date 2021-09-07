@@ -1,0 +1,44 @@
+{
+ "ids": [
+  "312003"
+ ],
+ "search": [
+  {
+   "chest": {
+    "name": "Studded Leather Armor of Enlightenment",
+    "amount": 775
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "\"Rage Bender\" Gauntlets of Perfection +1",
+    "amount": 8
+   },
+   "head": {
+    "name": "Great Helm",
+    "amount": 62602
+   },
+   "neck": {
+    "name": "Necklace of Skill",
+    "amount": 7728
+   },
+   "ring": {
+    "name": "\"Cataclysm Bender\" Titanium Ring of Perfection +1",
+    "amount": 9
+   },
+   "waist": {
+    "name": "\"Demon Bender\" Demonhide Belt of Enlightenment +1",
+    "amount": 14
+   },
+   "weapon": {
+    "name": "\"Kraken Bender\" Long Sword of Fury +1",
+    "amount": 49
+   },
+   "id": "312003",
+   "rank": 312004,
+   "score": 1.655146863518625
+  }
+ ]
+}

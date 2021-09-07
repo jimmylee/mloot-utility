@@ -1,0 +1,424 @@
+{
+ "ids": [
+  "58769",
+  "155572",
+  "170180",
+  "278194",
+  "307289",
+  "590715",
+  "691021",
+  "780105",
+  "904600",
+  "1015283",
+  "1058417"
+ ],
+ "search": [
+  {
+   "chest": {
+    "name": "Shirt of Detection",
+    "amount": 851
+   },
+   "foot": {
+    "name": "\"Ghoul Root\" Linen Shoes of Giants",
+    "amount": 12
+   },
+   "hand": {
+    "name": "Silk Gloves",
+    "amount": 62222
+   },
+   "head": {
+    "name": "Divine Hood of Giants",
+    "amount": 819
+   },
+   "neck": {
+    "name": "Pendant of Giants",
+    "amount": 3923
+   },
+   "ring": {
+    "name": "Titanium Ring of Giants",
+    "amount": 3053
+   },
+   "waist": {
+    "name": "War Belt",
+    "amount": 61681
+   },
+   "weapon": {
+    "name": "Falchion of Fury",
+    "amount": 2579
+   },
+   "id": "58769",
+   "rank": 58770,
+   "score": 7.83723898367818
+  },
+  {
+   "chest": {
+    "name": "\"Grim Moon\" Demon Husk of Giants +1",
+    "amount": 13
+   },
+   "foot": {
+    "name": "Ornate Greaves of Giants",
+    "amount": 763
+   },
+   "hand": {
+    "name": "Dragonskin Gloves",
+    "amount": 62887
+   },
+   "head": {
+    "name": "\"Honour Grasp\" Demon Crown of Rage +1",
+    "amount": 12
+   },
+   "neck": {
+    "name": "Necklace of the Twins",
+    "amount": 7692
+   },
+   "ring": {
+    "name": "\"Rage Shout\" Titanium Ring of Giants +1",
+    "amount": 9
+   },
+   "waist": {
+    "name": "Dragonskin Belt",
+    "amount": 62229
+   },
+   "weapon": {
+    "name": "Katana of Giants",
+    "amount": 1306
+   },
+   "id": "155572",
+   "rank": 155573,
+   "score": 2.711309095448267
+  },
+  {
+   "chest": {
+    "name": "Divine Robe of Protection",
+    "amount": 1544
+   },
+   "foot": {
+    "name": "\"Golem Root\" Studded Leather Boots of Giants",
+    "amount": 8
+   },
+   "hand": {
+    "name": "Hard Leather Gloves",
+    "amount": 62204
+   },
+   "head": {
+    "name": "\"Soul Root\" Ornate Helm of Rage",
+    "amount": 14
+   },
+   "neck": {
+    "name": "Amulet of Giants",
+    "amount": 3975
+   },
+   "ring": {
+    "name": "Bronze Ring",
+    "amount": 187470
+   },
+   "waist": {
+    "name": "Mesh Belt of Giants",
+    "amount": 1563
+   },
+   "weapon": {
+    "name": "\"Light's Tear\" Wand of Giants",
+    "amount": 78
+   },
+   "id": "170180",
+   "rank": 170181,
+   "score": 2.3558640560933712
+  },
+  {
+   "chest": {
+    "name": "Chain Mail of Giants",
+    "amount": 802
+   },
+   "foot": {
+    "name": "\"Dragon Tear\" Studded Leather Boots of Giants",
+    "amount": 11
+   },
+   "hand": {
+    "name": "Holy Gauntlets",
+    "amount": 62555
+   },
+   "head": {
+    "name": "Full Helm",
+    "amount": 62416
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "Titanium Ring of Giants",
+    "amount": 3053
+   },
+   "waist": {
+    "name": "Linen Sash",
+    "amount": 62344
+   },
+   "weapon": {
+    "name": "Scimitar of Giants",
+    "amount": 1300
+   },
+   "id": "278194",
+   "rank": 278195,
+   "score": 0.6717509372492259
+  },
+  {
+   "chest": {
+    "name": "\"Rage Moon\" Ornate Chestplate of Giants +1",
+    "amount": 13
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "Heavy Gloves",
+    "amount": 62414
+   },
+   "head": {
+    "name": "\"Ghoul Glow\" Crown of Giants",
+    "amount": 13
+   },
+   "neck": {
+    "name": "\"Oblivion Moon\" Pendant of Giants +1",
+    "amount": 60
+   },
+   "ring": {
+    "name": "Bronze Ring of Giants",
+    "amount": 3144
+   },
+   "waist": {
+    "name": "Leather Belt of Protection",
+    "amount": 1534
+   },
+   "weapon": {
+    "name": "Bone Wand of Titans",
+    "amount": 2554
+   },
+   "id": "307289",
+   "rank": 307290,
+   "score": 1.5853529199052003
+  },
+  {
+   "chest": {
+    "name": "\"Mind Peak\" Ring Mail of Anger +1",
+    "amount": 13
+   },
+   "foot": {
+    "name": "Holy Greaves",
+    "amount": 62085
+   },
+   "hand": {
+    "name": "Heavy Gloves of Fury",
+    "amount": 783
+   },
+   "head": {
+    "name": "\"Dread Shout\" Hood of Giants +1",
+    "amount": 5
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "Platinum Ring of Giants",
+    "amount": 3054
+   },
+   "waist": {
+    "name": "Silk Sash of Giants",
+    "amount": 767
+   },
+   "weapon": {
+    "name": "Mace of Giants",
+    "amount": 2610
+   },
+   "id": "590715",
+   "rank": 590716,
+   "score": 6.4282143745810885
+  },
+  {
+   "chest": {
+    "name": "\"Demon Grasp\" Demon Husk of Giants +1",
+    "amount": 12
+   },
+   "foot": {
+    "name": "\"Dusk Glow\" Ornate Greaves of Giants",
+    "amount": 10
+   },
+   "hand": {
+    "name": "Leather Gloves of Giants",
+    "amount": 1568
+   },
+   "head": {
+    "name": "Ornate Helm of Fury",
+    "amount": 786
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "Silver Ring of Giants",
+    "amount": 3155
+   },
+   "waist": {
+    "name": "Ornate Belt of Vitriol",
+    "amount": 1591
+   },
+   "weapon": {
+    "name": "Ghost Wand",
+    "amount": 51900
+   },
+   "id": "691021",
+   "rank": 691022,
+   "score": 7.208246444841243
+  },
+  {
+   "chest": {
+    "name": "\"Light's Glow\" Holy Chestplate of Giants",
+    "amount": 10
+   },
+   "foot": {
+    "name": "Heavy Boots",
+    "amount": 62070
+   },
+   "hand": {
+    "name": "Wool Gloves",
+    "amount": 62242
+   },
+   "head": {
+    "name": "Cap of Reflection",
+    "amount": 1572
+   },
+   "neck": {
+    "name": "\"Corpse Root\" Amulet of Giants",
+    "amount": 61
+   },
+   "ring": {
+    "name": "Bronze Ring of Giants",
+    "amount": 3144
+   },
+   "waist": {
+    "name": "Demonhide Belt of Reflection",
+    "amount": 776
+   },
+   "weapon": {
+    "name": "\"Demon Moon\" Book of Giants +1",
+    "amount": 61
+   },
+   "id": "780105",
+   "rank": 780106,
+   "score": 10.08718421508353
+  },
+  {
+   "chest": {
+    "name": "Robe of Giants",
+    "amount": 1506
+   },
+   "foot": {
+    "name": "Ornate Greaves",
+    "amount": 61952
+   },
+   "hand": {
+    "name": "Hard Leather Gloves of Giants",
+    "amount": 816
+   },
+   "head": {
+    "name": "Ancient Helm of Enlightenment",
+    "amount": 1533
+   },
+   "neck": {
+    "name": "Pendant of Giants",
+    "amount": 3923
+   },
+   "ring": {
+    "name": "Platinum Ring",
+    "amount": 186857
+   },
+   "waist": {
+    "name": "\"Eagle Grasp\" Hard Leather Belt of Giants +1",
+    "amount": 13
+   },
+   "weapon": {
+    "name": "Katana",
+    "amount": 51698
+   },
+   "id": "904600",
+   "rank": 904601,
+   "score": 10.862955138599425
+  },
+  {
+   "chest": {
+    "name": "Leather Armor of Detection",
+    "amount": 1628
+   },
+   "foot": {
+    "name": "\"Soul Tear\" Divine Slippers of Giants",
+    "amount": 11
+   },
+   "hand": {
+    "name": "Demon's Hands",
+    "amount": 61901
+   },
+   "head": {
+    "name": "\"Dragon Glow\" Helm of Giants",
+    "amount": 9
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "\"Havoc Root\" Platinum Ring of Giants",
+    "amount": 8
+   },
+   "waist": {
+    "name": "Demonhide Belt",
+    "amount": 62112
+   },
+   "weapon": {
+    "name": "Mace of Giants",
+    "amount": 2610
+   },
+   "id": "1015283",
+   "rank": 1015284,
+   "score": 12.13939171212256
+  },
+  {
+   "chest": {
+    "name": "Leather Armor of Giants",
+    "amount": 1577
+   },
+   "foot": {
+    "name": "\"Gloom Moon\" Hard Leather Boots of Giants +1",
+    "amount": 11
+   },
+   "hand": {
+    "name": "Holy Gauntlets of Enlightenment",
+    "amount": 1601
+   },
+   "head": {
+    "name": "Dragon's Crown",
+    "amount": 62049
+   },
+   "neck": {
+    "name": "Necklace of Giants",
+    "amount": 7823
+   },
+   "ring": {
+    "name": "Bronze Ring",
+    "amount": 187470
+   },
+   "waist": {
+    "name": "Dragonskin Belt of Giants",
+    "amount": 1509
+   },
+   "weapon": {
+    "name": "Grimoire",
+    "amount": 51507
+   },
+   "id": "1058417",
+   "rank": 1058418,
+   "score": 14.554017386505404
+  }
+ ]
+}

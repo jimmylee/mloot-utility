@@ -1,0 +1,348 @@
+{
+ "ids": [
+  "20173",
+  "137433",
+  "354316",
+  "408166",
+  "659341",
+  "663109",
+  "667111",
+  "691973",
+  "1098633"
+ ],
+ "search": [
+  {
+   "chest": {
+    "name": "Silk Robe of Power",
+    "amount": 799
+   },
+   "foot": {
+    "name": "Silk Slippers of Power",
+    "amount": 813
+   },
+   "hand": {
+    "name": "Silk Gloves",
+    "amount": 62222
+   },
+   "head": {
+    "name": "Ancient Helm",
+    "amount": 62185
+   },
+   "neck": {
+    "name": "Necklace of Power",
+    "amount": 7833
+   },
+   "ring": {
+    "name": "Titanium Ring of Power",
+    "amount": 2983
+   },
+   "waist": {
+    "name": "Heavy Belt",
+    "amount": 62230
+   },
+   "weapon": {
+    "name": "Scimitar",
+    "amount": 51694
+   },
+   "id": "20173",
+   "rank": 20174,
+   "score": 12.516130217103553
+  },
+  {
+   "chest": {
+    "name": "Ring Mail of Power",
+    "amount": 751
+   },
+   "foot": {
+    "name": "Chain Boots of Power",
+    "amount": 1580
+   },
+   "hand": {
+    "name": "Demon's Hands of Power",
+    "amount": 790
+   },
+   "head": {
+    "name": "Linen Hood of Titans",
+    "amount": 760
+   },
+   "neck": {
+    "name": "Necklace of Power",
+    "amount": 7833
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "Silk Sash",
+    "amount": 62413
+   },
+   "weapon": {
+    "name": "Quarterstaff",
+    "amount": 51520
+   },
+   "id": "137433",
+   "rank": 137434,
+   "score": 3.5241906106067726
+  },
+  {
+   "chest": {
+    "name": "Leather Armor of Power",
+    "amount": 1578
+   },
+   "foot": {
+    "name": "Hard Leather Boots",
+    "amount": 62418
+   },
+   "hand": {
+    "name": "Heavy Gloves of Titans",
+    "amount": 784
+   },
+   "head": {
+    "name": "Ornate Helm",
+    "amount": 62153
+   },
+   "neck": {
+    "name": "\"Storm Whisper\" Amulet of Power",
+    "amount": 63
+   },
+   "ring": {
+    "name": "\"Grim Bender\" Platinum Ring of Power +1",
+    "amount": 14
+   },
+   "waist": {
+    "name": "Heavy Belt",
+    "amount": 62230
+   },
+   "weapon": {
+    "name": "\"Bramble Roar\" Club of Power",
+    "amount": 61
+   },
+   "id": "354316",
+   "rank": 354317,
+   "score": 2.1656361367765866
+  },
+  {
+   "chest": {
+    "name": "Ring Mail of Power",
+    "amount": 751
+   },
+   "foot": {
+    "name": "Divine Slippers of Power",
+    "amount": 826
+   },
+   "hand": {
+    "name": "\"Kraken Bender\" Gloves of Power +1",
+    "amount": 14
+   },
+   "head": {
+    "name": "Helm",
+    "amount": 61904
+   },
+   "neck": {
+    "name": "\"Morbid Tear\" Amulet of the Twins",
+    "amount": 59
+   },
+   "ring": {
+    "name": "Silver Ring",
+    "amount": 186690
+   },
+   "waist": {
+    "name": "Sash of Power",
+    "amount": 816
+   },
+   "weapon": {
+    "name": "Club",
+    "amount": 51852
+   },
+   "id": "408166",
+   "rank": 408167,
+   "score": 2.8036160827104872
+  },
+  {
+   "chest": {
+    "name": "Holy Chestplate",
+    "amount": 62395
+   },
+   "foot": {
+    "name": "Heavy Boots of Power",
+    "amount": 737
+   },
+   "hand": {
+    "name": "Wool Gloves of Power",
+    "amount": 1490
+   },
+   "head": {
+    "name": "Silk Hood of Rage",
+    "amount": 1533
+   },
+   "neck": {
+    "name": "Necklace of Power",
+    "amount": 7833
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "Ornate Belt",
+    "amount": 61965
+   },
+   "weapon": {
+    "name": "Bone Wand of Power",
+    "amount": 2590
+   },
+   "id": "659341",
+   "rank": 659342,
+   "score": 6.848491571793057
+  },
+  {
+   "chest": {
+    "name": "Plate Mail of Power",
+    "amount": 1575
+   },
+   "foot": {
+    "name": "Holy Greaves",
+    "amount": 62085
+   },
+   "hand": {
+    "name": "Divine Gloves",
+    "amount": 62363
+   },
+   "head": {
+    "name": "\"Woe Bite\" Divine Hood of Anger +1",
+    "amount": 8
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Silver Ring of Power",
+    "amount": 3083
+   },
+   "waist": {
+    "name": "Mesh Belt of Power",
+    "amount": 1558
+   },
+   "weapon": {
+    "name": "Long Sword of Power",
+    "amount": 1237
+   },
+   "id": "663109",
+   "rank": 663110,
+   "score": 6.885657020672503
+  },
+  {
+   "chest": {
+    "name": "Ornate Chestplate",
+    "amount": 62259
+   },
+   "foot": {
+    "name": "Heavy Boots of Protection",
+    "amount": 846
+   },
+   "hand": {
+    "name": "Ornate Gauntlets of Power",
+    "amount": 782
+   },
+   "head": {
+    "name": "Ornate Helm",
+    "amount": 62153
+   },
+   "neck": {
+    "name": "Necklace of Power",
+    "amount": 7833
+   },
+   "ring": {
+    "name": "Bronze Ring",
+    "amount": 187470
+   },
+   "waist": {
+    "name": "Wool Sash of Power",
+    "amount": 1591
+   },
+   "weapon": {
+    "name": "Warhammer of Power",
+    "amount": 2568
+   },
+   "id": "667111",
+   "rank": 667112,
+   "score": 6.948185640983029
+  },
+  {
+   "chest": {
+    "name": "Robe of Power",
+    "amount": 1502
+   },
+   "foot": {
+    "name": "Holy Greaves of Brilliance",
+    "amount": 1484
+   },
+   "hand": {
+    "name": "\"Grim Bender\" Gloves of Power +1",
+    "amount": 14
+   },
+   "head": {
+    "name": "Demon Crown",
+    "amount": 62645
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "Bronze Ring",
+    "amount": 187470
+   },
+   "waist": {
+    "name": "Plated Belt of Power",
+    "amount": 774
+   },
+   "weapon": {
+    "name": "\"Havoc Roar\" Club of Power",
+    "amount": 58
+   },
+   "id": "691973",
+   "rank": 691974,
+   "score": 7.213077648466634
+  },
+  {
+   "chest": {
+    "name": "Ring Mail",
+    "amount": 61913
+   },
+   "foot": {
+    "name": "\"Grim Peak\" Shoes of Power +1",
+    "amount": 13
+   },
+   "hand": {
+    "name": "Heavy Gloves of Skill",
+    "amount": 757
+   },
+   "head": {
+    "name": "Cap of Power",
+    "amount": 1572
+   },
+   "neck": {
+    "name": "Necklace of Skill",
+    "amount": 7728
+   },
+   "ring": {
+    "name": "\"Victory Bender\" Platinum Ring of Power +1",
+    "amount": 12
+   },
+   "waist": {
+    "name": "\"Pain Whisper\" Heavy Belt of Power",
+    "amount": 10
+   },
+   "weapon": {
+    "name": "Grimoire of Perfection",
+    "amount": 1330
+   },
+   "id": "1098633",
+   "rank": 1098634,
+   "score": 14.621756084815496
+  }
+ ]
+}

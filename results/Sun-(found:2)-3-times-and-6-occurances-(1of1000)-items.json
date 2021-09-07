@@ -1,0 +1,82 @@
+{
+ "ids": [
+  "386289",
+  "1230650"
+ ],
+ "search": [
+  {
+   "chest": {
+    "name": "\"Vortex Sun\" Chain Mail of Fury",
+    "amount": 19
+   },
+   "foot": {
+    "name": "Hard Leather Boots of Reflection",
+    "amount": 814
+   },
+   "hand": {
+    "name": "Linen Gloves",
+    "amount": 61997
+   },
+   "head": {
+    "name": "\"Storm Sun\" Linen Hood of Reflection",
+    "amount": 11
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "\"Golem Whisper\" Bronze Ring of Enlightenment",
+    "amount": 9
+   },
+   "waist": {
+    "name": "\"Brimstone Bender\" Plated Belt of Fury +1",
+    "amount": 15
+   },
+   "weapon": {
+    "name": "\"Behemoth Sun\" Tome of Enlightenment",
+    "amount": 76
+   },
+   "id": "386289",
+   "rank": 386290,
+   "score": 2.496349226863491
+  },
+  {
+   "chest": {
+    "name": "Chain Mail",
+    "amount": 62774
+   },
+   "foot": {
+    "name": "\"Hypnotic Sun\" Heavy Boots of Fury",
+    "amount": 10
+   },
+   "hand": {
+    "name": "\"Morbid Glow\" Studded Leather Gloves of Rage",
+    "amount": 9
+   },
+   "head": {
+    "name": "\"Plague Tear\" Linen Hood of the Twins",
+    "amount": 12
+   },
+   "neck": {
+    "name": "\"Bramble Sun\" Amulet of Reflection",
+    "amount": 60
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "\"Plague Tear\" Heavy Belt of Skill",
+    "amount": 14
+   },
+   "weapon": {
+    "name": "\"Behemoth Sun\" Tome of Enlightenment",
+    "amount": 76
+   },
+   "id": "1230650",
+   "rank": 1230651,
+   "score": 18.9296766047449
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "ids": [
+  "1264718"
+ ],
+ "search": [
+  {
+   "chest": {
+    "name": "Holy Chestplate",
+    "amount": 62395
+   },
+   "foot": {
+    "name": "Holy Greaves of Brilliance",
+    "amount": 1484
+   },
+   "hand": {
+    "name": "Hard Leather Gloves",
+    "amount": 62204
+   },
+   "head": {
+    "name": "\"Gloom Grasp\" Divine Hood of Protection +1",
+    "amount": 15
+   },
+   "neck": {
+    "name": "\"Gloom Moon\" Pendant of Giants +1",
+    "amount": 50
+   },
+   "ring": {
+    "name": "\"Gloom Bite\" Bronze Ring of Enlightenment +1",
+    "amount": 10
+   },
+   "waist": {
+    "name": "Dragonskin Belt of Fury",
+    "amount": 1523
+   },
+   "weapon": {
+    "name": "Short Sword",
+    "amount": 52117
+   },
+   "id": "1264718",
+   "rank": 1264719,
+   "score": 18.942202492138577
+  }
+ ]
+}

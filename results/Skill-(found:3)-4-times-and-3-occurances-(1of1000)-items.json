@@ -1,0 +1,120 @@
+{
+ "ids": [
+  "118901",
+  "126066",
+  "1255769"
+ ],
+ "search": [
+  {
+   "chest": {
+    "name": "Dragonskin Armor",
+    "amount": 62142
+   },
+   "foot": {
+    "name": "Leather Boots of Skill",
+    "amount": 1603
+   },
+   "hand": {
+    "name": "Linen Gloves",
+    "amount": 61997
+   },
+   "head": {
+    "name": "Demon Crown",
+    "amount": 62645
+   },
+   "neck": {
+    "name": "\"Skull Shout\" Pendant of Skill +1",
+    "amount": 57
+   },
+   "ring": {
+    "name": "Bronze Ring of Detection",
+    "amount": 3076
+   },
+   "waist": {
+    "name": "\"Pandemonium Shout\" Hard Leather Belt of Skill +1",
+    "amount": 15
+   },
+   "weapon": {
+    "name": "\"Morbid Glow\" Scimitar of Skill",
+    "amount": 58
+   },
+   "id": "118901",
+   "rank": 118902,
+   "score": 4.782375884271949
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "\"Rage Grasp\" Shoes of Protection +1",
+    "amount": 10
+   },
+   "hand": {
+    "name": "Chain Gloves of Skill",
+    "amount": 1498
+   },
+   "head": {
+    "name": "Great Helm of Reflection",
+    "amount": 753
+   },
+   "neck": {
+    "name": "\"Kraken Shout\" Pendant of Skill +1",
+    "amount": 69
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "Wool Sash of Skill",
+    "amount": 1598
+   },
+   "weapon": {
+    "name": "\"Blight Grasp\" Katana of Skill +1",
+    "amount": 58
+   },
+   "id": "126066",
+   "rank": 126067,
+   "score": 4.351073733293666
+  },
+  {
+   "chest": {
+    "name": "Studded Leather Armor of Skill",
+    "amount": 791
+   },
+   "foot": {
+    "name": "Demonhide Boots of Perfection",
+    "amount": 715
+   },
+   "hand": {
+    "name": "Dragonskin Gloves of Skill",
+    "amount": 1534
+   },
+   "head": {
+    "name": "\"Light's Tear\" Linen Hood of Skill",
+    "amount": 9
+   },
+   "neck": {
+    "name": "Pendant of Rage",
+    "amount": 3950
+   },
+   "ring": {
+    "name": "Platinum Ring",
+    "amount": 186857
+   },
+   "waist": {
+    "name": "Dragonskin Belt of Skill",
+    "amount": 1532
+   },
+   "weapon": {
+    "name": "Grimoire",
+    "amount": 51507
+   },
+   "id": "1255769",
+   "rank": 1255770,
+   "score": 18.93950361467513
+  }
+ ]
+}

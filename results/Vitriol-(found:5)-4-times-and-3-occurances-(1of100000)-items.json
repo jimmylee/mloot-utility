@@ -1,0 +1,196 @@
+{
+ "ids": [
+  "35720",
+  "105323",
+  "784722",
+  "953380",
+  "984196"
+ ],
+ "search": [
+  {
+   "chest": {
+    "name": "Chain Mail of Vitriol",
+    "amount": 773
+   },
+   "foot": {
+    "name": "Silk Slippers of Vitriol",
+    "amount": 728
+   },
+   "hand": {
+    "name": "Demon's Hands",
+    "amount": 61901
+   },
+   "head": {
+    "name": "Ornate Helm",
+    "amount": 62153
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "\"Rune Tear\" Brightsilk Sash of Vitriol",
+    "amount": 17
+   },
+   "weapon": {
+    "name": "\"Oblivion Shout\" Grave Wand of Vitriol +1",
+    "amount": 61
+   },
+   "id": "35720",
+   "rank": 35721,
+   "score": 10.325222256215717
+  },
+  {
+   "chest": {
+    "name": "\"Shimmering Shout\" Ornate Chestplate of Vitriol +1",
+    "amount": 14
+   },
+   "foot": {
+    "name": "Holy Greaves of Vitriol",
+    "amount": 1532
+   },
+   "hand": {
+    "name": "\"Havoc Tear\" Divine Gloves of Vitriol",
+    "amount": 15
+   },
+   "head": {
+    "name": "Ancient Helm",
+    "amount": 62185
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "Bronze Ring of Anger",
+    "amount": 3159
+   },
+   "waist": {
+    "name": "Ornate Belt of Enlightenment",
+    "amount": 1587
+   },
+   "weapon": {
+    "name": "Mace of Vitriol",
+    "amount": 2589
+   },
+   "id": "105323",
+   "rank": 105324,
+   "score": 5.439830527748244
+  },
+  {
+   "chest": {
+    "name": "Hard Leather Armor",
+    "amount": 62329
+   },
+   "foot": {
+    "name": "Wool Shoes of Vitriol",
+    "amount": 1602
+   },
+   "hand": {
+    "name": "Ornate Gauntlets of Vitriol",
+    "amount": 812
+   },
+   "head": {
+    "name": "Demon Crown of Perfection",
+    "amount": 822
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "\"Dragon Glow\" Silver Ring of Vitriol",
+    "amount": 14
+   },
+   "waist": {
+    "name": "\"Bramble Tear\" Studded Leather Belt of Vitriol",
+    "amount": 14
+   },
+   "weapon": {
+    "name": "Chronicle",
+    "amount": 52313
+   },
+   "id": "784722",
+   "rank": 784723,
+   "score": 10.109376431216491
+  },
+  {
+   "chest": {
+    "name": "Plate Mail of Vitriol",
+    "amount": 1578
+   },
+   "foot": {
+    "name": "Wool Shoes of Brilliance",
+    "amount": 1590
+   },
+   "hand": {
+    "name": "Holy Gauntlets of Vitriol",
+    "amount": 1567
+   },
+   "head": {
+    "name": "War Cap",
+    "amount": 62588
+   },
+   "neck": {
+    "name": "\"Armageddon Grasp\" Pendant of Vitriol +1",
+    "amount": 53
+   },
+   "ring": {
+    "name": "Bronze Ring",
+    "amount": 187470
+   },
+   "waist": {
+    "name": "\"Morbid Root\" Linen Sash of Vitriol",
+    "amount": 11
+   },
+   "weapon": {
+    "name": "Falchion",
+    "amount": 52154
+   },
+   "id": "953380",
+   "rank": 953381,
+   "score": 11.163708907502935
+  },
+  {
+   "chest": {
+    "name": "\"Demon Grasp\" Demon Husk of Vitriol +1",
+    "amount": 10
+   },
+   "foot": {
+    "name": "Demonhide Boots of Vitriol",
+    "amount": 752
+   },
+   "hand": {
+    "name": "Dragonskin Gloves of Vitriol",
+    "amount": 1611
+   },
+   "head": {
+    "name": "Crown",
+    "amount": 62044
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "Bronze Ring of Vitriol",
+    "amount": 3157
+   },
+   "waist": {
+    "name": "Heavy Belt",
+    "amount": 62230
+   },
+   "weapon": {
+    "name": "Chronicle",
+    "amount": 52313
+   },
+   "id": "984196",
+   "rank": 984197,
+   "score": 11.567523954371902
+  }
+ ]
+}

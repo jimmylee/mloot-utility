@@ -1,0 +1,82 @@
+{
+ "ids": [
+  "1012425",
+  "1257340"
+ ],
+ "search": [
+  {
+   "chest": {
+    "name": "Divine Robe of the Twins",
+    "amount": 1577
+   },
+   "foot": {
+    "name": "Ornate Greaves",
+    "amount": 61952
+   },
+   "hand": {
+    "name": "Holy Gauntlets",
+    "amount": 62555
+   },
+   "head": {
+    "name": "\"Armageddon Peak\" Leather Cap of Reflection +1",
+    "amount": 10
+   },
+   "neck": {
+    "name": "\"Dread Peak\" Pendant of Perfection +1",
+    "amount": 49
+   },
+   "ring": {
+    "name": "\"Victory Peak\" Silver Ring of Perfection +1",
+    "amount": 12
+   },
+   "waist": {
+    "name": "\"Pandemonium Peak\" Hard Leather Belt of Reflection +1",
+    "amount": 9
+   },
+   "weapon": {
+    "name": "Ghost Wand of Fury",
+    "amount": 1315
+   },
+   "id": "1012425",
+   "rank": 1012426,
+   "score": 12.056806770414678
+  },
+  {
+   "chest": {
+    "name": "\"Armageddon Peak\" Hard Leather Armor of Enlightenment +1",
+    "amount": 11
+   },
+   "foot": {
+    "name": "\"Rage Peak\" Greaves of Titans +1",
+    "amount": 8
+   },
+   "hand": {
+    "name": "\"Vengeance Glow\" Linen Gloves of Vitriol",
+    "amount": 11
+   },
+   "head": {
+    "name": "Helm",
+    "amount": 61904
+   },
+   "neck": {
+    "name": "\"Eagle Peak\" Pendant of Perfection +1",
+    "amount": 65
+   },
+   "ring": {
+    "name": "\"Woe Peak\" Bronze Ring of Power +1",
+    "amount": 10
+   },
+   "waist": {
+    "name": "Studded Leather Belt of Titans",
+    "amount": 773
+   },
+   "weapon": {
+    "name": "Long Sword",
+    "amount": 51823
+   },
+   "id": "1257340",
+   "rank": 1257341,
+   "score": 18.9399965559596
+  }
+ ]
+}

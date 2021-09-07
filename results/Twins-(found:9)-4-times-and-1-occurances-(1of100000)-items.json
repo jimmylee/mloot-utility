@@ -1,0 +1,348 @@
+{
+ "ids": [
+  "96188",
+  "125328",
+  "352251",
+  "377878",
+  "464662",
+  "496960",
+  "641530",
+  "965935",
+  "1264293"
+ ],
+ "search": [
+  {
+   "chest": {
+    "name": "Ornate Chestplate",
+    "amount": 62259
+   },
+   "foot": {
+    "name": "Hard Leather Boots of Anger",
+    "amount": 785
+   },
+   "hand": {
+    "name": "Gauntlets of the Twins",
+    "amount": 759
+   },
+   "head": {
+    "name": "Silk Hood",
+    "amount": 62382
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "Gold Ring of the Twins",
+    "amount": 3136
+   },
+   "waist": {
+    "name": "Plated Belt of the Twins",
+    "amount": 794
+   },
+   "weapon": {
+    "name": "Chronicle of the Twins",
+    "amount": 2594
+   },
+   "id": "96188",
+   "rank": 96189,
+   "score": 5.836197777826039
+  },
+  {
+   "chest": {
+    "name": "Demon Husk of the Twins",
+    "amount": 760
+   },
+   "foot": {
+    "name": "Wool Shoes of the Twins",
+    "amount": 1521
+   },
+   "hand": {
+    "name": "Divine Gloves",
+    "amount": 62363
+   },
+   "head": {
+    "name": "Cap",
+    "amount": 62144
+   },
+   "neck": {
+    "name": "Necklace of Power",
+    "amount": 7833
+   },
+   "ring": {
+    "name": "Silver Ring of the Twins",
+    "amount": 3121
+   },
+   "waist": {
+    "name": "Silk Sash of the Twins",
+    "amount": 794
+   },
+   "weapon": {
+    "name": "\"Honour Moon\" Book of Brilliance +1",
+    "amount": 68
+   },
+   "id": "125328",
+   "rank": 125329,
+   "score": 4.398903652793653
+  },
+  {
+   "chest": {
+    "name": "Ring Mail",
+    "amount": 61913
+   },
+   "foot": {
+    "name": "Linen Shoes",
+    "amount": 62473
+   },
+   "hand": {
+    "name": "Ornate Gauntlets",
+    "amount": 62529
+   },
+   "head": {
+    "name": "Silk Hood of the Twins",
+    "amount": 1646
+   },
+   "neck": {
+    "name": "Pendant of the Twins",
+    "amount": 3979
+   },
+   "ring": {
+    "name": "\"Bramble Glow\" Silver Ring of the Twins",
+    "amount": 9
+   },
+   "waist": {
+    "name": "Demonhide Belt",
+    "amount": 62112
+   },
+   "weapon": {
+    "name": "\"Woe Shout\" Grave Wand of the Twins +1",
+    "amount": 52
+   },
+   "id": "352251",
+   "rank": 352252,
+   "score": 2.1436305296312197
+  },
+  {
+   "chest": {
+    "name": "Ornate Chestplate",
+    "amount": 62259
+   },
+   "foot": {
+    "name": "\"Demon Shout\" Greaves of the Twins +1",
+    "amount": 8
+   },
+   "hand": {
+    "name": "Gloves of the Twins",
+    "amount": 708
+   },
+   "head": {
+    "name": "Full Helm of Brilliance",
+    "amount": 1612
+   },
+   "neck": {
+    "name": "\"Honour Moon\" Pendant of the Twins +1",
+    "amount": 64
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "Demonhide Belt",
+    "amount": 62112
+   },
+   "weapon": {
+    "name": "Chronicle of the Twins",
+    "amount": 2594
+   },
+   "id": "377878",
+   "rank": 377879,
+   "score": 2.41085117188055
+  },
+  {
+   "chest": {
+    "name": "Shirt of Titans",
+    "amount": 768
+   },
+   "foot": {
+    "name": "Hard Leather Boots of Power",
+    "amount": 807
+   },
+   "hand": {
+    "name": "Linen Gloves",
+    "amount": 61997
+   },
+   "head": {
+    "name": "\"Brimstone Grasp\" Leather Cap of the Twins +1",
+    "amount": 9
+   },
+   "neck": {
+    "name": "Necklace of the Twins",
+    "amount": 7692
+   },
+   "ring": {
+    "name": "Titanium Ring of the Twins",
+    "amount": 3141
+   },
+   "waist": {
+    "name": "\"Foe Peak\" Sash of Power +1",
+    "amount": 8
+   },
+   "weapon": {
+    "name": "\"Skull Moon\" Book of the Twins +1",
+    "amount": 59
+   },
+   "id": "464662",
+   "rank": 464663,
+   "score": 3.743178765417001
+  },
+  {
+   "chest": {
+    "name": "Divine Robe of the Twins",
+    "amount": 1577
+   },
+   "foot": {
+    "name": "Ornate Greaves",
+    "amount": 61952
+   },
+   "hand": {
+    "name": "Wool Gloves of the Twins",
+    "amount": 1542
+   },
+   "head": {
+    "name": "Crown",
+    "amount": 62044
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Gold Ring",
+    "amount": 186792
+   },
+   "waist": {
+    "name": "\"Hypnotic Tear\" Heavy Belt of the Twins",
+    "amount": 16
+   },
+   "weapon": {
+    "name": "Katana of the Twins",
+    "amount": 1236
+   },
+   "id": "496960",
+   "rank": 496961,
+   "score": 5.084092034433497
+  },
+  {
+   "chest": {
+    "name": "Chain Mail",
+    "amount": 62774
+   },
+   "foot": {
+    "name": "Greaves",
+    "amount": 62299
+   },
+   "hand": {
+    "name": "Gauntlets of the Twins",
+    "amount": 759
+   },
+   "head": {
+    "name": "\"Shimmering Moon\" Leather Cap of the Twins +1",
+    "amount": 11
+   },
+   "neck": {
+    "name": "\"Golem Glow\" Amulet of the Twins",
+    "amount": 56
+   },
+   "ring": {
+    "name": "Platinum Ring of Titans",
+    "amount": 2997
+   },
+   "waist": {
+    "name": "\"Plague Glow\" War Belt of the Twins",
+    "amount": 12
+   },
+   "weapon": {
+    "name": "Wand",
+    "amount": 51899
+   },
+   "id": "641530",
+   "rank": 641531,
+   "score": 6.7561008207411435
+  },
+  {
+   "chest": {
+    "name": "Ring Mail of the Twins",
+    "amount": 770
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "Chain Gloves",
+    "amount": 61687
+   },
+   "head": {
+    "name": "Helm of the Twins",
+    "amount": 766
+   },
+   "neck": {
+    "name": "Necklace of Fury",
+    "amount": 7912
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "Silk Sash of the Twins",
+    "amount": 794
+   },
+   "weapon": {
+    "name": "\"Light's Root\" Quarterstaff of the Twins",
+    "amount": 56
+   },
+   "id": "965935",
+   "rank": 965936,
+   "score": 11.510122518752894
+  },
+  {
+   "chest": {
+    "name": "Studded Leather Armor of Detection",
+    "amount": 811
+   },
+   "foot": {
+    "name": "\"Vortex Tear\" Studded Leather Boots of the Twins",
+    "amount": 11
+   },
+   "hand": {
+    "name": "Leather Gloves of the Twins",
+    "amount": 1531
+   },
+   "head": {
+    "name": "\"Plague Glow\" Helm of the Twins",
+    "amount": 6
+   },
+   "neck": {
+    "name": "\"Brimstone Shout\" Pendant of the Twins +1",
+    "amount": 52
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "Mesh Belt of the Twins",
+    "amount": 1554
+   },
+   "weapon": {
+    "name": "Bone Wand",
+    "amount": 52233
+   },
+   "id": "1264293",
+   "rank": 1264294,
+   "score": 18.942078687107053
+  }
+ ]
+}

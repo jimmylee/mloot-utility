@@ -1,0 +1,1372 @@
+{
+ "ids": [
+  "20254",
+  "46262",
+  "68921",
+  "110499",
+  "125837",
+  "158519",
+  "160100",
+  "163792",
+  "166825",
+  "235247",
+  "237270",
+  "269141",
+  "274832",
+  "287393",
+  "292200",
+  "306735",
+  "393408",
+  "398328",
+  "443368",
+  "460211",
+  "485117",
+  "524041",
+  "525115",
+  "551355",
+  "623844",
+  "634761",
+  "652392",
+  "735982",
+  "807311",
+  "903012",
+  "1020722",
+  "1126686",
+  "1156786",
+  "1202400",
+  "1248632",
+  "1315990"
+ ],
+ "search": [
+  {
+   "chest": {
+    "name": "\"Rune Root\" Holy Chestplate of Brilliance",
+    "amount": 16
+   },
+   "foot": {
+    "name": "Studded Leather Boots",
+    "amount": 62503
+   },
+   "hand": {
+    "name": "\"Demon Moon\" Gauntlets of Skill +1",
+    "amount": 17
+   },
+   "head": {
+    "name": "Dragon's Crown",
+    "amount": 62049
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "\"Behemoth Root\" Titanium Ring of Vitriol",
+    "amount": 19
+   },
+   "waist": {
+    "name": "\"Soul Root\" Studded Leather Belt of Skill",
+    "amount": 15
+   },
+   "weapon": {
+    "name": "Grave Wand of the Twins",
+    "amount": 1254
+   },
+   "id": "20254",
+   "rank": 20255,
+   "score": 12.496427084968596
+  },
+  {
+   "chest": {
+    "name": "Ring Mail",
+    "amount": 61913
+   },
+   "foot": {
+    "name": "\"Pain Root\" Studded Leather Boots of Rage",
+    "amount": 19
+   },
+   "hand": {
+    "name": "Chain Gloves",
+    "amount": 61687
+   },
+   "head": {
+    "name": "Helm of Brilliance",
+    "amount": 754
+   },
+   "neck": {
+    "name": "\"Bramble Root\" Amulet of Protection",
+    "amount": 58
+   },
+   "ring": {
+    "name": "\"Apocalypse Root\" Silver Ring of Skill",
+    "amount": 13
+   },
+   "waist": {
+    "name": "Hard Leather Belt of Reflection",
+    "amount": 769
+   },
+   "weapon": {
+    "name": "Grimoire",
+    "amount": 51507
+   },
+   "id": "46262",
+   "rank": 46263,
+   "score": 9.313643585087755
+  },
+  {
+   "chest": {
+    "name": "Hard Leather Armor",
+    "amount": 62329
+   },
+   "foot": {
+    "name": "Heavy Boots",
+    "amount": 62070
+   },
+   "hand": {
+    "name": "Demon's Hands of Enlightenment",
+    "amount": 805
+   },
+   "head": {
+    "name": "\"Morbid Root\" Linen Hood of Detection",
+    "amount": 11
+   },
+   "neck": {
+    "name": "Pendant of Vitriol",
+    "amount": 3836
+   },
+   "ring": {
+    "name": "\"Golem Root\" Platinum Ring of Protection",
+    "amount": 14
+   },
+   "waist": {
+    "name": "\"Rune Root\" War Belt of Brilliance",
+    "amount": 10
+   },
+   "weapon": {
+    "name": "Mace",
+    "amount": 51949
+   },
+   "id": "68921",
+   "rank": 68922,
+   "score": 7.011787705988941
+  },
+  {
+   "chest": {
+    "name": "Divine Robe",
+    "amount": 62374
+   },
+   "foot": {
+    "name": "Holy Greaves",
+    "amount": 62085
+   },
+   "hand": {
+    "name": "\"Storm Root\" Linen Gloves of Vitriol",
+    "amount": 13
+   },
+   "head": {
+    "name": "Great Helm",
+    "amount": 62602
+   },
+   "neck": {
+    "name": "\"Light's Root\" Amulet of the Twins",
+    "amount": 64
+   },
+   "ring": {
+    "name": "Titanium Ring of Titans",
+    "amount": 3139
+   },
+   "waist": {
+    "name": "\"Dusk Root\" Studded Leather Belt of Vitriol",
+    "amount": 11
+   },
+   "weapon": {
+    "name": "Short Sword",
+    "amount": 52117
+   },
+   "id": "110499",
+   "rank": 110500,
+   "score": 5.2041815461470025
+  },
+  {
+   "chest": {
+    "name": "Demon Husk",
+    "amount": 62174
+   },
+   "foot": {
+    "name": "\"Carrion Root\" Linen Shoes of Protection",
+    "amount": 14
+   },
+   "hand": {
+    "name": "\"Hypnotic Root\" Divine Gloves of the Twins",
+    "amount": 6
+   },
+   "head": {
+    "name": "Dragon's Crown",
+    "amount": 62049
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "Bronze Ring",
+    "amount": 187470
+   },
+   "waist": {
+    "name": "\"Pain Root\" Linen Sash of Brilliance",
+    "amount": 8
+   },
+   "weapon": {
+    "name": "Wand",
+    "amount": 51899
+   },
+   "id": "125837",
+   "rank": 125838,
+   "score": 4.365549575445483
+  },
+  {
+   "chest": {
+    "name": "\"Storm Root\" Chain Mail of Brilliance",
+    "amount": 10
+   },
+   "foot": {
+    "name": "Shoes",
+    "amount": 61931
+   },
+   "hand": {
+    "name": "\"Golem Root\" Ornate Gauntlets of Skill",
+    "amount": 16
+   },
+   "head": {
+    "name": "Dragon's Crown",
+    "amount": 62049
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Silver Ring",
+    "amount": 186690
+   },
+   "waist": {
+    "name": "\"Hypnotic Root\" Heavy Belt of Brilliance",
+    "amount": 15
+   },
+   "weapon": {
+    "name": "Short Sword",
+    "amount": 52117
+   },
+   "id": "158519",
+   "rank": 158520,
+   "score": 2.6293615931784218
+  },
+  {
+   "chest": {
+    "name": "Studded Leather Armor",
+    "amount": 62546
+   },
+   "foot": {
+    "name": "\"Behemoth Root\" Linen Shoes of Skill",
+    "amount": 18
+   },
+   "hand": {
+    "name": "Leather Gloves",
+    "amount": 62470
+   },
+   "head": {
+    "name": "\"Sorrow Bite\" Great Helm of Reflection +1",
+    "amount": 9
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "\"Soul Sun\" Gold Ring of the Fox",
+    "amount": 9
+   },
+   "waist": {
+    "name": "\"Rune Root\" Heavy Belt of Detection",
+    "amount": 13
+   },
+   "weapon": {
+    "name": "\"Dusk Root\" Quarterstaff of Vitriol",
+    "amount": 44
+   },
+   "id": "160100",
+   "rank": 160101,
+   "score": 2.586612448094118
+  },
+  {
+   "chest": {
+    "name": "Holy Chestplate",
+    "amount": 62395
+   },
+   "foot": {
+    "name": "Silk Slippers of Perfection",
+    "amount": 768
+   },
+   "hand": {
+    "name": "\"Rune Root\" Heavy Gloves of Skill",
+    "amount": 16
+   },
+   "head": {
+    "name": "War Cap",
+    "amount": 62588
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "\"Bramble Root\" Silver Ring of Giants",
+    "amount": 14
+   },
+   "waist": {
+    "name": "\"Storm Tear\" War Belt of Skill",
+    "amount": 14
+   },
+   "weapon": {
+    "name": "\"Bramble Root\" Quarterstaff of Rage",
+    "amount": 65
+   },
+   "id": "163792",
+   "rank": 163793,
+   "score": 2.4970186986897773
+  },
+  {
+   "chest": {
+    "name": "\"Morbid Root\" Studded Leather Armor of the Twins",
+    "amount": 18
+   },
+   "foot": {
+    "name": "Holy Greaves",
+    "amount": 62085
+   },
+   "hand": {
+    "name": "Heavy Gloves",
+    "amount": 62414
+   },
+   "head": {
+    "name": "Cap",
+    "amount": 62144
+   },
+   "neck": {
+    "name": "\"Morbid Root\" Amulet of Protection",
+    "amount": 47
+   },
+   "ring": {
+    "name": "Titanium Ring of Rage",
+    "amount": 3123
+   },
+   "waist": {
+    "name": "Heavy Belt",
+    "amount": 62230
+   },
+   "weapon": {
+    "name": "\"Golem Root\" Quarterstaff of Vitriol",
+    "amount": 56
+   },
+   "id": "166825",
+   "rank": 166826,
+   "score": 2.42988148411641
+  },
+  {
+   "chest": {
+    "name": "Leather Armor",
+    "amount": 62110
+   },
+   "foot": {
+    "name": "Silk Slippers",
+    "amount": 62277
+   },
+   "hand": {
+    "name": "\"Rune Root\" Divine Gloves of Detection",
+    "amount": 11
+   },
+   "head": {
+    "name": "Dragon's Crown of Power",
+    "amount": 1551
+   },
+   "neck": {
+    "name": "\"Bramble Root\" Amulet of Vitriol",
+    "amount": 64
+   },
+   "ring": {
+    "name": "\"Dread Bender\" Bronze Ring of Power +1",
+    "amount": 13
+   },
+   "waist": {
+    "name": "Linen Sash",
+    "amount": 62344
+   },
+   "weapon": {
+    "name": "\"Morbid Root\" Quarterstaff of Rage",
+    "amount": 63
+   },
+   "id": "235247",
+   "rank": 235248,
+   "score": 0.9591699840135532
+  },
+  {
+   "chest": {
+    "name": "Chain Mail",
+    "amount": 62774
+   },
+   "foot": {
+    "name": "Greaves",
+    "amount": 62299
+   },
+   "hand": {
+    "name": "\"Fate Root\" Linen Gloves of Detection",
+    "amount": 14
+   },
+   "head": {
+    "name": "\"Soul Root\" War Cap of Skill",
+    "amount": 13
+   },
+   "neck": {
+    "name": "\"Woe Moon\" Pendant of Detection +1",
+    "amount": 44
+   },
+   "ring": {
+    "name": "Platinum Ring of Brilliance",
+    "amount": 3134
+   },
+   "waist": {
+    "name": "\"Vengeance Root\" Brightsilk Sash of the Twins",
+    "amount": 6
+   },
+   "weapon": {
+    "name": "Bone Wand",
+    "amount": 52233
+   },
+   "id": "237270",
+   "rank": 237271,
+   "score": 0.9070433118706271
+  },
+  {
+   "chest": {
+    "name": "Silk Robe of Brilliance",
+    "amount": 789
+   },
+   "foot": {
+    "name": "\"Plague Root\" Ornate Greaves of Brilliance",
+    "amount": 13
+   },
+   "hand": {
+    "name": "Linen Gloves",
+    "amount": 61997
+   },
+   "head": {
+    "name": "Full Helm of Vitriol",
+    "amount": 1553
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "\"Carrion Root\" Bronze Ring of Rage",
+    "amount": 11
+   },
+   "waist": {
+    "name": "\"Rune Root\" Heavy Belt of Protection",
+    "amount": 11
+   },
+   "weapon": {
+    "name": "Long Sword",
+    "amount": 51823
+   },
+   "id": "269141",
+   "rank": 269142,
+   "score": 0.20671832015020827
+  },
+  {
+   "chest": {
+    "name": "\"Carrion Roar\" Silk Robe of Titans",
+    "amount": 14
+   },
+   "foot": {
+    "name": "\"Morbid Sun\" Linen Shoes of Power",
+    "amount": 9
+   },
+   "hand": {
+    "name": "\"Vengeance Root\" Heavy Gloves of the Twins",
+    "amount": 10
+   },
+   "head": {
+    "name": "\"Corpse Root\" War Cap of Rage",
+    "amount": 16
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "Hard Leather Belt",
+    "amount": 61900
+   },
+   "weapon": {
+    "name": "\"Bramble Root\" Quarterstaff of Rage",
+    "amount": 65
+   },
+   "id": "274832",
+   "rank": 274833,
+   "score": 0.5183214270209842
+  },
+  {
+   "chest": {
+    "name": "Hard Leather Armor",
+    "amount": 62329
+   },
+   "foot": {
+    "name": "\"Behemoth Root\" Studded Leather Boots of Rage",
+    "amount": 6
+   },
+   "hand": {
+    "name": "\"Maelstrom Root\" Ornate Gauntlets of Protection",
+    "amount": 11
+   },
+   "head": {
+    "name": "\"Demon Peak\" Hood of Enlightenment +1",
+    "amount": 17
+   },
+   "neck": {
+    "name": "\"Light's Root\" Amulet of Skill",
+    "amount": 56
+   },
+   "ring": {
+    "name": "Silver Ring",
+    "amount": 186690
+   },
+   "waist": {
+    "name": "Linen Sash",
+    "amount": 62344
+   },
+   "weapon": {
+    "name": "\"Dragon Roar\" Club of Titans",
+    "amount": 50
+   },
+   "id": "287393",
+   "rank": 287394,
+   "score": 1.0933529417228571
+  },
+  {
+   "chest": {
+    "name": "Silk Robe",
+    "amount": 62610
+   },
+   "foot": {
+    "name": "\"Apocalypse Root\" Linen Shoes of the Twins",
+    "amount": 13
+   },
+   "hand": {
+    "name": "\"Death Root\" Heavy Gloves of Brilliance",
+    "amount": 15
+   },
+   "head": {
+    "name": "Hood",
+    "amount": 61808
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "\"Death Root\" Gold Ring of Brilliance",
+    "amount": 11
+   },
+   "waist": {
+    "name": "Sash",
+    "amount": 62168
+   },
+   "weapon": {
+    "name": "Scimitar",
+    "amount": 51694
+   },
+   "id": "292200",
+   "rank": 292201,
+   "score": 1.2524616242325104
+  },
+  {
+   "chest": {
+    "name": "Ornate Chestplate",
+    "amount": 62259
+   },
+   "foot": {
+    "name": "Holy Greaves",
+    "amount": 62085
+   },
+   "hand": {
+    "name": "\"Carrion Root\" Divine Gloves of the Twins",
+    "amount": 12
+   },
+   "head": {
+    "name": "\"Vortex Root\" Linen Hood of Protection",
+    "amount": 12
+   },
+   "neck": {
+    "name": "\"Morbid Root\" Amulet of Vitriol",
+    "amount": 69
+   },
+   "ring": {
+    "name": "Silver Ring",
+    "amount": 186690
+   },
+   "waist": {
+    "name": "Brightsilk Sash",
+    "amount": 62838
+   },
+   "weapon": {
+    "name": "Ghost Wand of Perfection",
+    "amount": 1278
+   },
+   "id": "306735",
+   "rank": 306736,
+   "score": 1.5756449771210468
+  },
+  {
+   "chest": {
+    "name": "\"Foe Moon\" Linen Robe of Rage +1",
+    "amount": 15
+   },
+   "foot": {
+    "name": "Studded Leather Boots",
+    "amount": 62503
+   },
+   "hand": {
+    "name": "Gloves",
+    "amount": 62312
+   },
+   "head": {
+    "name": "Silk Hood of Skill",
+    "amount": 1633
+   },
+   "neck": {
+    "name": "\"Soul Root\" Amulet of Skill",
+    "amount": 49
+   },
+   "ring": {
+    "name": "Silver Ring",
+    "amount": 186690
+   },
+   "waist": {
+    "name": "\"Dusk Root\" Heavy Belt of Vitriol",
+    "amount": 6
+   },
+   "weapon": {
+    "name": "\"Fate Root\" Quarterstaff of Vitriol",
+    "amount": 57
+   },
+   "id": "393408",
+   "rank": 393409,
+   "score": 2.5954449131846586
+  },
+  {
+   "chest": {
+    "name": "\"Vengeance Root\" Holy Chestplate of Rage",
+    "amount": 7
+   },
+   "foot": {
+    "name": "Greaves",
+    "amount": 62299
+   },
+   "hand": {
+    "name": "Chain Gloves of Power",
+    "amount": 1631
+   },
+   "head": {
+    "name": "\"Light's Root\" War Cap of Skill",
+    "amount": 13
+   },
+   "neck": {
+    "name": "Necklace of Protection",
+    "amount": 7846
+   },
+   "ring": {
+    "name": "\"Fate Root\" Silver Ring of the Twins",
+    "amount": 9
+   },
+   "waist": {
+    "name": "Hard Leather Belt",
+    "amount": 61900
+   },
+   "weapon": {
+    "name": "Short Sword",
+    "amount": 52117
+   },
+   "id": "398328",
+   "rank": 398329,
+   "score": 2.6702010794999134
+  },
+  {
+   "chest": {
+    "name": "\"Pain Root\" Studded Leather Armor of the Twins",
+    "amount": 13
+   },
+   "foot": {
+    "name": "\"Maelstrom Root\" Studded Leather Boots of Protection",
+    "amount": 14
+   },
+   "hand": {
+    "name": "Heavy Gloves",
+    "amount": 62414
+   },
+   "head": {
+    "name": "Divine Hood",
+    "amount": 61778
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "Silver Ring",
+    "amount": 186690
+   },
+   "waist": {
+    "name": "Studded Leather Belt",
+    "amount": 62339
+   },
+   "weapon": {
+    "name": "\"Ghoul Root\" Quarterstaff of Rage",
+    "amount": 58
+   },
+   "id": "443368",
+   "rank": 443369,
+   "score": 3.32827116508224
+  },
+  {
+   "chest": {
+    "name": "Demon Husk",
+    "amount": 62174
+   },
+   "foot": {
+    "name": "\"Apocalypse Root\" Ornate Greaves of Detection",
+    "amount": 8
+   },
+   "hand": {
+    "name": "\"Plague Root\" Divine Gloves of Detection",
+    "amount": 12
+   },
+   "head": {
+    "name": "Ancient Helm",
+    "amount": 62185
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "Titanium Ring of Brilliance",
+    "amount": 3147
+   },
+   "waist": {
+    "name": "\"Behemoth Root\" Studded Leather Belt of Giants",
+    "amount": 13
+   },
+   "weapon": {
+    "name": "Katana",
+    "amount": 51698
+   },
+   "id": "460211",
+   "rank": 460212,
+   "score": 3.6268594545665254
+  },
+  {
+   "chest": {
+    "name": "Plate Mail of the Twins",
+    "amount": 1587
+   },
+   "foot": {
+    "name": "Demonhide Boots",
+    "amount": 62426
+   },
+   "hand": {
+    "name": "\"Hypnotic Root\" Heavy Gloves of Rage",
+    "amount": 11
+   },
+   "head": {
+    "name": "\"Plague Root\" Linen Hood of Detection",
+    "amount": 11
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "\"Maelstrom Root\" Silver Ring of Vitriol",
+    "amount": 14
+   },
+   "waist": {
+    "name": "Studded Leather Belt",
+    "amount": 62339
+   },
+   "weapon": {
+    "name": "Ghost Wand",
+    "amount": 51900
+   },
+   "id": "485117",
+   "rank": 485118,
+   "score": 4.4543701538095615
+  },
+  {
+   "chest": {
+    "name": "\"Dusk Root\" Silk Robe of the Twins",
+    "amount": 13
+   },
+   "foot": {
+    "name": "Wool Shoes",
+    "amount": 62048
+   },
+   "hand": {
+    "name": "\"Dusk Root\" Heavy Gloves of Giants",
+    "amount": 14
+   },
+   "head": {
+    "name": "Demon Crown",
+    "amount": 62645
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "Platinum Ring",
+    "amount": 186857
+   },
+   "waist": {
+    "name": "\"Apocalypse Root\" Brightsilk Sash of Brilliance",
+    "amount": 18
+   },
+   "weapon": {
+    "name": "Ghost Wand",
+    "amount": 51900
+   },
+   "id": "524041",
+   "rank": 524042,
+   "score": 5.834936753234208
+  },
+  {
+   "chest": {
+    "name": "\"Behemoth Root\" Chain Mail of Skill",
+    "amount": 14
+   },
+   "foot": {
+    "name": "Ornate Greaves",
+    "amount": 61952
+   },
+   "hand": {
+    "name": "Leather Gloves",
+    "amount": 62470
+   },
+   "head": {
+    "name": "\"Vengeance Root\" War Cap of the Twins",
+    "amount": 11
+   },
+   "neck": {
+    "name": "\"Rune Root\" Amulet of Protection",
+    "amount": 64
+   },
+   "ring": {
+    "name": "Gold Ring",
+    "amount": 186792
+   },
+   "waist": {
+    "name": "Ornate Belt",
+    "amount": 61965
+   },
+   "weapon": {
+    "name": "Quarterstaff",
+    "amount": 51520
+   },
+   "id": "525115",
+   "rank": 525116,
+   "score": 5.844990751323765
+  },
+  {
+   "chest": {
+    "name": "\"Dusk Root\" Shirt of Giants",
+    "amount": 7
+   },
+   "foot": {
+    "name": "Leather Boots of Titans",
+    "amount": 1590
+   },
+   "hand": {
+    "name": "\"Maelstrom Root\" Studded Leather Gloves of Giants",
+    "amount": 8
+   },
+   "head": {
+    "name": "Linen Hood of the Twins",
+    "amount": 755
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "Bronze Ring",
+    "amount": 187470
+   },
+   "waist": {
+    "name": "Mesh Belt",
+    "amount": 62257
+   },
+   "weapon": {
+    "name": "\"Havoc Root\" Quarterstaff of the Twins",
+    "amount": 65
+   },
+   "id": "551355",
+   "rank": 551356,
+   "score": 6.079025599839287
+  },
+  {
+   "chest": {
+    "name": "Silk Robe",
+    "amount": 62610
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "\"Golem Root\" Linen Gloves of Detection",
+    "amount": 8
+   },
+   "head": {
+    "name": "\"Havoc Root\" Helm of Protection",
+    "amount": 12
+   },
+   "neck": {
+    "name": "Pendant",
+    "amount": 312109
+   },
+   "ring": {
+    "name": "Silver Ring",
+    "amount": 186690
+   },
+   "waist": {
+    "name": "\"Dusk Root\" War Belt of Rage",
+    "amount": 7
+   },
+   "weapon": {
+    "name": "\"Kraken Bite\" Maul of Titans +1",
+    "amount": 60
+   },
+   "id": "623844",
+   "rank": 623845,
+   "score": 6.62722285573042
+  },
+  {
+   "chest": {
+    "name": "\"Light's Root\" Silk Robe of Brilliance",
+    "amount": 11
+   },
+   "foot": {
+    "name": "Silk Slippers",
+    "amount": 62277
+   },
+   "hand": {
+    "name": "\"Morbid Root\" Heavy Gloves of Brilliance",
+    "amount": 12
+   },
+   "head": {
+    "name": "Demon Crown of Titans",
+    "amount": 777
+   },
+   "neck": {
+    "name": "Amulet of Enlightenment",
+    "amount": 3868
+   },
+   "ring": {
+    "name": "Gold Ring",
+    "amount": 186792
+   },
+   "waist": {
+    "name": "\"Light's Root\" Studded Leather Belt of Skill",
+    "amount": 16
+   },
+   "weapon": {
+    "name": "Club",
+    "amount": 51852
+   },
+   "id": "634761",
+   "rank": 634762,
+   "score": 6.717682952849653
+  },
+  {
+   "chest": {
+    "name": "Demon Husk of Reflection",
+    "amount": 780
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "\"Plague Root\" Divine Gloves of Rage",
+    "amount": 15
+   },
+   "head": {
+    "name": "Great Helm",
+    "amount": 62602
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "\"Apocalypse Root\" Bronze Ring of Brilliance",
+    "amount": 10
+   },
+   "waist": {
+    "name": "Sash",
+    "amount": 62168
+   },
+   "weapon": {
+    "name": "\"Dragon Root\" Quarterstaff of Giants",
+    "amount": 59
+   },
+   "id": "652392",
+   "rank": 652393,
+   "score": 6.8050177864779515
+  },
+  {
+   "chest": {
+    "name": "Shirt of Detection",
+    "amount": 851
+   },
+   "foot": {
+    "name": "\"Grim Bite\" Hard Leather Boots of Fury +1",
+    "amount": 9
+   },
+   "hand": {
+    "name": "\"Light's Root\" Linen Gloves of Rage",
+    "amount": 5
+   },
+   "head": {
+    "name": "Ornate Helm",
+    "amount": 62153
+   },
+   "neck": {
+    "name": "\"Vortex Root\" Amulet of Giants",
+    "amount": 59
+   },
+   "ring": {
+    "name": "\"Carrion Root\" Platinum Ring of Skill",
+    "amount": 16
+   },
+   "waist": {
+    "name": "Wool Sash",
+    "amount": 62437
+   },
+   "weapon": {
+    "name": "Maul of Fury",
+    "amount": 1318
+   },
+   "id": "735982",
+   "rank": 735983,
+   "score": 7.9040599836581125
+  },
+  {
+   "chest": {
+    "name": "\"Fate Root\" Silk Robe of Giants",
+    "amount": 13
+   },
+   "foot": {
+    "name": "\"Pain Root\" Studded Leather Boots of Protection",
+    "amount": 15
+   },
+   "hand": {
+    "name": "Hard Leather Gloves of Brilliance",
+    "amount": 819
+   },
+   "head": {
+    "name": "\"Dragon Root\" Ornate Helm of Vitriol",
+    "amount": 18
+   },
+   "neck": {
+    "name": "\"Gloom Shout\" Pendant of the Twins +1",
+    "amount": 58
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "\"Morbid Glow\" Linen Sash of Rage",
+    "amount": 10
+   },
+   "weapon": {
+    "name": "Ghost Wand",
+    "amount": 51900
+   },
+   "id": "807311",
+   "rank": 807312,
+   "score": 10.210477896011788
+  },
+  {
+   "chest": {
+    "name": "\"Grim Bite\" Linen Robe of Titans +1",
+    "amount": 9
+   },
+   "foot": {
+    "name": "Chain Boots",
+    "amount": 61921
+   },
+   "hand": {
+    "name": "\"Vengeance Root\" Divine Gloves of the Twins",
+    "amount": 11
+   },
+   "head": {
+    "name": "\"Soul Root\" Helm of Brilliance",
+    "amount": 9
+   },
+   "neck": {
+    "name": "\"Havoc Root\" Amulet of Vitriol",
+    "amount": 64
+   },
+   "ring": {
+    "name": "Silver Ring",
+    "amount": 186690
+   },
+   "waist": {
+    "name": "Brightsilk Sash",
+    "amount": 62838
+   },
+   "weapon": {
+    "name": "Ghost Wand of Enlightenment",
+    "amount": 1212
+   },
+   "id": "903012",
+   "rank": 903013,
+   "score": 10.859776745762996
+  },
+  {
+   "chest": {
+    "name": "Ring Mail",
+    "amount": 61913
+   },
+   "foot": {
+    "name": "\"Fate Root\" Heavy Boots of Vitriol",
+    "amount": 9
+   },
+   "hand": {
+    "name": "\"Death Root\" Divine Gloves of Protection",
+    "amount": 15
+   },
+   "head": {
+    "name": "Full Helm",
+    "amount": 62416
+   },
+   "neck": {
+    "name": "\"Death Root\" Amulet of Protection",
+    "amount": 52
+   },
+   "ring": {
+    "name": "\"Corpse Glow\" Silver Ring of Skill",
+    "amount": 11
+   },
+   "waist": {
+    "name": "Demonhide Belt",
+    "amount": 62112
+   },
+   "weapon": {
+    "name": "Bone Wand",
+    "amount": 52233
+   },
+   "id": "1020722",
+   "rank": 1020723,
+   "score": 12.23675101424085
+  },
+  {
+   "chest": {
+    "name": "Chain Mail of the Twins",
+    "amount": 780
+   },
+   "foot": {
+    "name": "Divine Slippers",
+    "amount": 62281
+   },
+   "hand": {
+    "name": "\"Vengeance Root\" Divine Gloves of Vitriol",
+    "amount": 15
+   },
+   "head": {
+    "name": "Crown",
+    "amount": 62044
+   },
+   "neck": {
+    "name": "Necklace of Vitriol",
+    "amount": 7706
+   },
+   "ring": {
+    "name": "\"Hypnotic Root\" Gold Ring of Giants",
+    "amount": 11
+   },
+   "waist": {
+    "name": "\"Fate Root\" Linen Sash of Brilliance",
+    "amount": 11
+   },
+   "weapon": {
+    "name": "Wand of Giants",
+    "amount": 1326
+   },
+   "id": "1126686",
+   "rank": 1126687,
+   "score": 15.200363142819462
+  },
+  {
+   "chest": {
+    "name": "Dragonskin Armor",
+    "amount": 62142
+   },
+   "foot": {
+    "name": "\"Vortex Root\" Studded Leather Boots of Protection",
+    "amount": 16
+   },
+   "hand": {
+    "name": "\"Morbid Root\" Linen Gloves of the Twins",
+    "amount": 15
+   },
+   "head": {
+    "name": "War Cap",
+    "amount": 62588
+   },
+   "neck": {
+    "name": "Necklace",
+    "amount": 311179
+   },
+   "ring": {
+    "name": "\"Hypnotic Root\" Gold Ring of Detection",
+    "amount": 9
+   },
+   "waist": {
+    "name": "Demonhide Belt",
+    "amount": 62112
+   },
+   "weapon": {
+    "name": "Scimitar",
+    "amount": 51694
+   },
+   "id": "1156786",
+   "rank": 1156787,
+   "score": 15.247900092571193
+  },
+  {
+   "chest": {
+    "name": "\"Plague Root\" Shirt of Giants",
+    "amount": 7
+   },
+   "foot": {
+    "name": "\"Dragon Root\" Ornate Greaves of Vitriol",
+    "amount": 11
+   },
+   "hand": {
+    "name": "Linen Gloves",
+    "amount": 61997
+   },
+   "head": {
+    "name": "Great Helm",
+    "amount": 62602
+   },
+   "neck": {
+    "name": "Amulet",
+    "amount": 311696
+   },
+   "ring": {
+    "name": "Titanium Ring",
+    "amount": 186719
+   },
+   "waist": {
+    "name": "\"Plague Root\" Studded Leather Belt of Brilliance",
+    "amount": 11
+   },
+   "weapon": {
+    "name": "Wand",
+    "amount": 51899
+   },
+   "id": "1202400",
+   "rank": 1202401,
+   "score": 15.298021240451156
+  },
+  {
+   "chest": {
+    "name": "Plate Mail",
+    "amount": 61716
+   },
+   "foot": {
+    "name": "Leather Boots",
+    "amount": 62297
+   },
+   "hand": {
+    "name": "\"Eagle Shout\" Gauntlets of Giants +1",
+    "amount": 14
+   },
+   "head": {
+    "name": "\"Dragon Roar\" Helm of Power",
+    "amount": 15
+   },
+   "neck": {
+    "name": "\"Vengeance Whisper\" Amulet of Enlightenment",
+    "amount": 68
+   },
+   "ring": {
+    "name": "\"Light's Root\" Gold Ring of Protection",
+    "amount": 9
+   },
+   "waist": {
+    "name": "\"Maelstrom Root\" Brightsilk Sash of Protection",
+    "amount": 8
+   },
+   "weapon": {
+    "name": "\"Vengeance Root\" Quarterstaff of Brilliance",
+    "amount": 61
+   },
+   "id": "1248632",
+   "rank": 1248633,
+   "score": 18.93716307704518
+  },
+  {
+   "chest": {
+    "name": "Divine Robe of Power",
+    "amount": 1549
+   },
+   "foot": {
+    "name": "Greaves",
+    "amount": 62299
+   },
+   "hand": {
+    "name": "Divine Gloves of Detection",
+    "amount": 769
+   },
+   "head": {
+    "name": "\"Plague Root\" War Cap of Protection",
+    "amount": 11
+   },
+   "neck": {
+    "name": "\"Pain Root\" Amulet of Protection",
+    "amount": 59
+   },
+   "ring": {
+    "name": "Platinum Ring of Skill",
+    "amount": 3130
+   },
+   "waist": {
+    "name": "Studded Leather Belt",
+    "amount": 62339
+   },
+   "weapon": {
+    "name": "\"Carrion Root\" Quarterstaff of Detection",
+    "amount": 68
+   },
+   "id": "1315990"
+  }
+ ]
+}
